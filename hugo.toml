@@ -1,0 +1,66 @@
+baseURL = 'https://framingredpower.org/'
+languageCode = 'en-us'
+title = 'Framing Red Power'
+copyright = 'Copyright (c) 2008-2026 Jason Heppler'
+
+# Pagination
+[pagination]
+  pagerSize = 20
+
+# Taxonomies
+[taxonomies]
+  document_type = 'document_types'
+  publication = 'publications'
+  category = 'categories'
+  tag = 'tags'
+
+# Permalinks
+[permalinks]
+  narrative = '/narrative/:slug/'
+  sources = '/sources/:slug/'
+  about = '/about/:slug/'
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow raw HTML in markdown
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'HOME'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'narrative'
+    name = 'ANALYSIS'
+    url = '/narrative/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'archive'
+    name = 'DOCUMENTS'
+    url = '/archive/'
+    weight = 3
+  [[menu.main]]
+    identifier = 'sources'
+    name = 'BROWSE'
+    url = '/sources/'
+    weight = 4
+  [[menu.main]]
+    identifier = 'about'
+    name = 'ABOUT'
+    url = '/about/'
+    weight = 5
+
+# Build configuration
+[build]
+  writeStats = false
+
+# Output formats
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+  taxonomy = ['HTML', 'RSS']
+  term = ['HTML', 'RSS']

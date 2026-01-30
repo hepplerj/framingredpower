@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721202">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">BIA Fight: 'One Has to Go'</title>
+                <title type="sub"></title>
+                <author n="Baker, Donald P.">Donald P. Baker</author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">BIA Fight: 'One Has to Go'</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1972-12-02">02 December 1972</date>
+                    <biblScope type="page">A11</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-06-02</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">BIA Fight: 'One Has to Go'</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A1</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  December 2, 1972</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  Donald P. Baker</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>A White House spokesman last night reacted to namecalling by a top official of the Bureau of Indian Affairs by saying &quot;we are sick and tired of the polarization&quot; there and promised that &quot;measures will be taken to get rid of it.&quot;</p>
+                
+                <p>The spokesman said that Deputy Commissioner <name type="person" key="Crow, John O.">John O. Crow</name>'s denouncement of his boss, BIA Commissioner <name type="person" key="Bruce, Louis R.">Louis R. Bruce Jr.</name>, &quot;spreads right out in front of you the kind of shape that place is in.&quot;</p>
+                
+                <p><name type="person" key="Crow, John O.">Crow</name>, reacting to planned reduction in staff and other changes by <name type="person" key="Bruce, Louis R.">Bruce</name>, said &quot;one of us has to go.  I've tried to work with him and tried to help, but I've reached the end of my rope.&quot;</p>
+                
+                <p><name type="person" key="Bruce, Louis R.">Bruce</name> would not engage in an attack on <name type="person" key="Crow, John O.">Crow</name>, but rather said he was &quot;extremely proud of the new directions and new programs&quot; developed in the bureau under his leadership.</p>
+                
+                <p><name type="person" key="Bruce, Louis R.">Bruce</name> said that &quot;because of pending congressional hearings, I have no statement relating to remarks made regarding my conduct during the recent takeover . . . Judgments relating to this are obviously premature in light of uncoming hearings and/or investigations.&quot;</p>
+                
+                <p>On Monday, the House Indian Affairs Subcommittee, chaired by Rep. <name type="Haley, James A.">James A. Haley</name> (D-Fla.) will begin three days of hearings on the government's handling of a protest last month that led to a six-day occupation of the BIA building by Indian demonstrators.  <name type="person" key="Bruce, Louis R.">Bruce</name> is to be one of the witnesses on Monday.</p>
+                
+                <p>A second inquiry has been set for early next year by Sen. <name type="person" key="Kennedy, Edward M.">Edward M. Kennedy</name> (D-Mass.).  Of <name type="person" key="Crow, John O.">Crow</name>'s criticism of <name type="person" key="Bruce, Louis R.">Bruce</name>, the White House spokesman said, &quot;I've rarely seen such an example of polarization&quot; within a government agency.</p>
+                
+                <p>He said corrective measures will be taken &quot;soon,&quot; meaning some time this month.  The spokesman would not say whether the shakeup would involve <name type="person" key="Crow, John O.">Crow</name>, or <name type="person" key="Bruce, Louis R.">Bruce</name>, or both, but said &quot;they can't serve the people they are meant to serve&quot; and fight among themselves.</p>
+                
+                <p><name type="person" key="Bruce, Louis R.">Bruce</name> said he has had &quot;great support from Interior Secretary <name type="person" key="Morton, Rogers C. B.">(Rogers C. B.) Morton</name>, from key members of Congress and the White House.</p>
+                
+                <p>&quot;It isn't, nor will it be, easy to change the oldest bureaucracy in the federal government,&quot; <name type="person" key="Bruce, Louis R.">Bruce</name> said.  He said that while he had &quot;a lot of help to accomplish these changes from many career BIA employees, a few apparently feel extremely uncomfortable as a result of these changes.</p>
+                
+                <p>&quot;I regret this, for their struggle against inevitable change only harms the Indian people . . .The federal government should acknowledge Indian sovereignty, expand and improve the federal trust services and help Indian tribes develop their own local governments,&quot; so they can truly begin to call the shots.</p>
+                
+                <p><name type="person" key="Crow, John O.">Crow</name>, a 38-year employee of the Department of Interior, said he received no criticism from any higher ranking employee because of his statement.</p>
+                
+                <p>Assistant Secretary of the Interior <name type="person" key="Loesch, Harrison">Harrison Loesch</name>, who has overall responsibility for the BIA, &quot;kind of laughed&quot; when he heard about the statement, <name type="person" key="Crow, John O.">Crow</name> said.</p>
+                
+                <p>&quot;I kind of took a page out of his (<name type="person" key="Loesch, Harrison">Loesch</name>'s) book," said <name type="person" key="Crow, John O.">Crow</name> in reference to the outspoken assistant secretary.</p>
+                
+                <p><name type="person" key="Loesch, Harrison">Loesch</name> and <name type="person" key="Crow, John O.">Crow</name> were two of the federal officials singled out for criticism by leaders of the Trail of Broken Treaties, who occupied the BIA building.</p>
+                
+                <p><name type="person" key="Crow, John O.">Crow</name> said his break with <name type="person" key="Bruce, Louis R.">Bruce</name> followed <name type="person" key="Bruce, Louis R.">Bruce</name>'s handling of the demonstration.  &quot;I don't like the support he gave to the unruly mob,&quot; <name type="person" key="Crow, John O.">Crow</name> said.  &quot;He couldn't administer anything.  He is just compounding the situation.&quot;</p>
+                
+                <p>The deputy commissioner acknowledged that &quot;it sure is unusual for an appointive official to publicly criticize his superior,&quot; but &quot;times have changed since I was brought up in this business.&quot;</p>
+                
+                <p>He said that because he is eligible for retirement, &quot;I'm working for nothing, just about, because I like what I'm doing.&quot;</p>
+                
+                <p><name type="person" key="Crow, John O.">Crow</name> said there is &quot;a good possibility&quot; that both he and <name type="person" key="Bruce, Louis R.">Bruce</name> will be fired as a result of the split.</p>
+                
+                <p><name type="person" key="Bruce, Louis R.">Bruce</name>, who is a Mohawk, and <name type="person" key="Crow, John O.">Crow</name>, who is part Cherokee, are appointed by different officials.  The commissioner is a presidential appointee and his deputy an appointee of the Secretary of the Interior.</p>
+                  
+                    
+            </div1>
+        </body>
+    </text>
+</TEI>

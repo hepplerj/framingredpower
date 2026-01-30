@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.nyt.19721031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Indians to Begin Capital Protests"</title>
+<title type="sub">Demonstrations This Week to Ask Wide U.S. Help</title>
+<author n="Blair, William M.">William M. Blair</author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Blair, William M.">William M. Blair</author>
+<title level="a" type="main">"Indians to Begin Capital Protests"</title>
+<title level="a" type="sub">Demonstrations This Week to Ask Wide U.S. Help</title>
+<title level="a" type="sub"></title>
+<title level="j">New York Times</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-10-31">31 October 1972</date>
+<biblScope type="page">31</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="p31"/>
+
+
+<div1 type="body">
+
+<head type="main">Indians to Begin Capital Protests</head>
+<head type="main">Demonstrations This Week to Ask Wide U.S. Help</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">New York Times</hi>, p. 31</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  October 31, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  William M. Blair</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>Groups of American Indians will be in the nation's capital this week in an effort to gain through "peaceful demonstrations" the economic and social benefits that they believe are due them as "first citizens of the land."</p>
+
+<p>This is the stated purpose of "Trail of Broken Treaties Caravan," a bus and auto trip across the country on the eve of the Presidential election to impress upon elected officials the need for solving Indian problems.</p>
+
+<p>"We come here in peace," Robert Burnette, a Rosebud Sioux, told a news conference today.  "We want to remain in peace."</p>
+
+<p>Mr. Burnette, who is former chairman of the Rosebud Sioux tribe, added:</p>
+
+<p>"We are putting Americans on notice that something must be done, or we may have to take things in our own hands."</p>
+
+<p>He estimated that up to 10,000 Indians and "friends" would gather here for the week-long demonstration.  They will set up a "symbolic camp" in West Potomac Park, the scene of demonstrations by other minority groups in the past.</p>
+
+<p>The Indians, he said, "deliberately chose" election time to voice their demands, not particularly as a demonstration against the Nixon Administration, but to present an agenda for action on Indian problems by next Congress and the next Administration.  These problems range from education to physical improvement on reservations and aid to INdians living in urban areas, he said.</p>
+
+<p>Mr. Burnette said about 80 Indian organizations were involved, although he conceded that the groups were divided by differences in approach to Indian problems.  Nevertheless, he said, they are united in believing that economic and other pressures were destroying the Indian culture.</p>
+
+<p>The caravans are an extension of the demonstrations by young activst Indians against the Bureau of Indian Affairs, an agency of the Department of the Interior.</p>
+
+<p>They accuse the bureau of failing to recognize the Indians' rights to their "home lands" and the right to administer their own affairs.  They say the white man's economy threatens to rob them of their natural resources, from underground minerals to timber.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

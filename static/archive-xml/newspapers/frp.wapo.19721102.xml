@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721102">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indians Refused Permission to Use Arlington Cemetery for Services</title>
+<title type="sub"></title>
+<author n="Ramirez, Raul">Raul Ramirez</author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p>Publicly available electronic document</p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Ramirez, Raul">Raul Ramirez</author>
+
+<title level="a" type="main">Indians Refused Permission to Use Arlington Cemetery for Services</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Washington Post</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-11-02">02 November 1972</date>
+<biblScope type="page">B1</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-03-20</date>
+
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="pB1"/>
+
+
+<div1 type="body">
+
+<head type="main">Indians Refused Permission to Use Arlington Cemetery for Services</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. B1</p>
+
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 02, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  Raul Ramirez</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>Organizers of a week of peaceful activities by American Indians due to begin in Washington today said their actions may take a &quot;whole different character&quot; because the Department of the Army will not allow them to hold religious services at Arlington National Cemetery.</p>
+
+<p>An Army spokesman said yesterday a request by leaders of a coalition of 250 of the nation's 300 Indian tribes to hold services at three Arlington Cemetery sites was rejected because it conflicts with regulations prohibiting any services &quot;closely related&quot; to &quot;partisan activities.&quot;</p>
+
+<p>Several thousand members of the &quot;Trail of Broken Treaties&quot; caravan, about 200 of whom had arrived in Washington last night, are scheduled to hold a series of services, workshops and demonstrations here to dramatize the traditions and needs of their people.</p>
+
+<p>About 2,000 more Indian &quot;Trail&quot; members are scheduled to arrive today in two separate caravans, one heading north from North Carolina and the other originating in St. Paul, Minn.</p>
+
+<p>Robert Burnette, former tribal chairman of the Rosebud Sioux tribe in South Dakota and &quot;Trails&quot; cochairman who Monday had proclaimed that the Indian demonstrators &quot;will come in peace,&quot; said yesterday that the Army ban may change the &quot;character&quot; of the group's activities.</p>
+
+<!--continues to page B2, Col. 4 -->
+
+<p>&quot;We're not going to take this lying down at all,&quot; Burnette said.  &quot;This is our country.  We were here first and we expect to be able to use it. If we are mistreated like this, we will realign our thinking, too.&quot;</p>
+
+<p>Burnette would not say what actions his group is considering, but other Indian sources said alternatives being considered include holding the services at the cemetery in defiance of the Army ban or conducting around-the-clock drum-pounding sessions on the Ellipse near the White House.</p>
+
+<p>Terry Sidley, an attorney for the Native American League of Defense, which is representing the Indians, said late yesterday he planned to file suit in U.S. District Court today for an injunction to prevent the Department of the Army from banning the Indian services.</p>
+
+<p>The Indians had requested authorization to hold &quot;spiritual religious services&quot; at the gravesites of Ira Hayes, a Pima Indian from Arizona who participated in the dramatic flag-raising effort at Iwo Jima and of Sgt. John Rice, a Winnebago Indian from Nebraska who was refused burial in Sioux City, Iowa, and was buried at Arlington by order of President Harry S. Truman.</p>
+
+<p>The Army said the services would be in conflict with its regulation forbidding activities at Arlington that &quot;include commentary in support of (or in) opposition to . . . the government of the United States or any state of the United States.&quot;</p>
+
+<p>An Army spokesman said the Indian group's intention to &quot;seek redress of Indian grievances&quot; as part of their week-long events would violate the policy.</p>
+
+<p>The rule has been applied &quot;many times&quot; in the past, he said, including on Nov. 16, 1969, when it was cited in refusing permission to use the cemetery to the Rev. Carl McIntyre whose International Council of Christian Churches had endorsed a &quot;win in Vietnam&quot; campaign.</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
+

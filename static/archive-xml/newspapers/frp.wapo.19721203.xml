@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721203">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">3 Indian Officials Ousted in Shakeup</title>
+                <title type="sub"></title>
+                <author n="Baker, Donald P.">Donald P. Baker</author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">3 Indian Officials Ousted in Shakeup</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1972-12-03">03 November 1972</date>
+                    <biblScope type="page">A1</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-06-02</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">3 Indian Officials Ousted in Shakeup</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A1</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  December 3, 1972</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  Donald P. Baker</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>The three federal officials primarily responsible for the government's dealing with Indians were relieved of their duties yesterday by Interior Secretary <name type="person" key="Morton, Rogers C. B.">Rogers C. B. Morton</name>.</p>
+                
+                <p><name type="person" key="Morton, Rogers C. B.">Morton</name> said he was taking personal command of an effort to &quot;put Indian operations back to work&quot; as the three deposed officials bickered among themselves following the takeover of the Bureau of Indian Affairs building here last month.</p>
+                
+                <p>&quot;Removed from all present authority for Indian affairs&quot; by the action were <name type="person" key="Loesch, Harrison">Harrison Loesch</name>, assistant secretary of Interior; <name type="person" key="Bruce, Louis R.">Louis R. Bruce Jr.</name>, BIA commissioner, and <name type="person" key="Crow, John O.">John O. Crow</name>, deputy commissioner.</p>
+                
+                <p>The three men were not fired, however, and will be available to &quot;counsel&quot; the secretary.</p>
+                
+                <p>Named to carry out <name type="person" key="Morton, Rogers C. B.">Morton</name>'s orders was <name type="person" key="Bodman, Richard S.">Richard S. Bodman</name>, assistant secretary for management and budget.  Morton and Bodman will &quot;assume immediate administrative control&quot; of Interior's Indian operations.</p>
+                
+                <p>The action occurred as the House Subcommittee on Indian Affairs prepared to open three days of hearings Monday into the government's dealings with protesters who <!--story continues on Page A14, Col. 1-->occupied the BIA building for six days.</p>
+                
+                <p>Among the demands of the demonstrators were the removal of <name type="person" key="Loesch, Harrison">Loesch</name> and <name type="person" key="Crow, John O.">Crow</name> from positions of authority.  <name type="person" key="Bruce, Louis R.">Bruce</name> attempted to negotiate with the demonstrators, who did not seek his removal.</p>
+                
+                <p><name type="person" key="Adams, Hank">Hank Adams</name>, principal negotiator for the demonstrators, who called themselves the Trail of Broken Treaties caravan, said yesterday that &quot;although <name type="person" key="Morton, Rogers C. B.">Morton</name>'s action is a good, interim arrangement, I hope the <name type="person" key="Nixon, Richard">President</name> will take more decisive steps.&quot;</p>
+                
+                <p><name type="person" key="Morton, Rogers C. B.">Morton</name> acted with the full support of the White House, a spokesman said.  <name type="person" key="Loesch, Harrison">Loesch</name> and <name type="person" key="Bruce, Louis R.">Bruce</name> are presidential appointees.  <name type="person" key="Crow, John O.">Crow</name>, a career Interior employee, has been elevated to deputy commissioner by <name type="person" key="Morton, Rogers C. B.">Morton</name>.</p>
+                
+                <p><name type="person" key="Loesch, Harrison">Loesch</name> said yesterday that he recommended <name type="person" key="Morton, Rogers C. B.">Morton</name>'s action &quot;when I got back and found what had happened.&quot;  The assistant secretary, who is responsible for the BIA and public land management, said he was out of town when <name type="person" key="Crow, John O.">Crow</name> publicly charged that <name type="person" key="Bruce, Louis R.">Bruce</name> was an incompetent administrator and said &quot;one of us must go.&quot;</p>
+                
+                <p>&quot;When there is polarization within the bureau such as that,&quot; <name type="person" key="Loesch, Harrison">Loesch</name> said, &quot;there is no way to go except to get everybody out of the act who now is in it.&quot;</p>
+                
+                <p><name type="person" key="Bruce, Louis R.">Bruce</name> said he has &quot;complete confidence in the Secretary's judgment.&quot;  He and key staff members &quot;will continue to work on a reorganization plan which I hope to have available soon.&quot;</p>
+                
+                <p><name type="person" key="Crow, John O.">Crow</name> was in <name type="place" key="Sioux Falls, South Dakota"><sic corr="Sioux Falls, South Dakota">Sioux Falls, Neb.</sic></name>, yesterday and could not be reached for comment.</p>
+                
+                <p><name type="person" key="Morton, Rogers C. B.">Morton</name>'s statement did not say whether the action would eventually lead to the dismissal of the three men.</p>
+                
+                <p><name type="person" key="Loesch, Harrison">Loesch</name> insisted he had &quot;no signal&quot; about the future but said the action was &quot;very interim.&quot;  Both <name type="person" key="Loesch, Harrison">Loesch</name> and <name type="person" key="Bruce, Louis R.">Bruce</name> have submitted proforma resignations as the <name type="person" key="Nixon, Richard">President</name> prepares for a second term, and could easily be let go.</p>
+                
+                <p><name type="person" key="Crow, John O.">Crow</name> said Friday that he wouldn't be surprised if both he and <name type="person" key="Bruce, Louis R.">Bruce</name> were dismissed.</p>
+                
+                <p>A White House spokesman called <name type="person" key="Morton, Rogers C. B.">Morton</name>'s action &quot;temporary&quot; but said the Secretary could &quot;hardly do anything else&quot; as the in-fighting escalated.</p>
+                
+                <p><name type="person" key="Bodman, Richard S.">Bodman</name> said, &quot;I'm quarter-backing all operations for an undetermined period.&quot;  He has asked about a dozen BIA officials &quot;just below the rank of deputy commissioner&quot; to meet with him today &quot;to make certain there is no interruption of services in the process of changing commands.&quot;</p>
+                
+                <p>The BIA, which is charged with providing services to the nation's federally protected Indians, has been in a shambles since the occupation of the building began Nov. 3.</p>
+                
+                <p><name type="person" key="Loesch, Harrison">Loesch</name> put <name type="person" key="Crow, John O.">Crow</name> in charge of getting the bureau back to normal, a process which included directing a massive clean up of the building.  But little was done for more than two weeks as Interior Department officials showed off the &#36;2 million plus damage to visitors.</p>
+                
+                <p><name type="person" key="Bruce, Louis R.">Bruce</name> has operated in semi-seclusion, working with a few close aides on a long-range plan to change the method of delivering services to the nation's Indians.</p>
+                
+                <p><name type="person" key="Bodman, Richard S.">Bodman</name> said yesterday that &quot;it is essential to provide these critical and life supporting services without interruption regardless of existing controversy and unresolved issues.</p>
+                
+                <p>&quot;I am concerned that with all the controversy, we may have lost sight that we are here for the benefit of Indian people,&quot; he said.</p>
+                
+                <p><name type="person" key="Bodman, Richard S.">Bodman</name>, 34, came to Interior with <name type="person" key="Morton, Rogers C. B.">Morton</name>.  He had been a management consultant in San Francisco.  A certified public accountant, <name type="person" key="Bodman, Richard S.">Bodman</name> holds degrees from Princeton and Massachusetts Institute of Technology.  A native of <name type="place" key="Detroit, Michigan">Detroit</name>, he lived here while his father, <name type="person" key="Bodman, Henry T.">Henry T. Bodman</name>, was director of the Reconstruction Finance Corp.</p>
+                
+                <p>A White House spokesman said the <name type="person" key="Nixon, Richard">President</name> is committed to &quot;consultations with Indian leaders&quot; before making long-range decisions about the BIA.  The aide said personnel actions are &quot;mid-range&quot; action, however.</p>
+                
+                <p>One administrative source speculated that the commissioner's job might be eliminated in a reorganization which could place supervision of Indian affairs directly under an assistant secretary, perhaps in a different or new department of government.</p>
+                
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

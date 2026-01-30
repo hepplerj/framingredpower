@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19730203">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">D.C. Police officer Led Double Life as an Apache Indian</title>
+                <title type="sub"></title>
+                <author n="Baker, Donald P.">Donald P. Baker</author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">D.C. Police Officer Led Double Life as an Apache</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1973-02-03">03 February 1973</date>
+                    <biblScope type="page">B1</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-05-19</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">D.C. Police Officer Led Double Life as an Apache Indian</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. B1</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  February 03, 1973</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  Donald P. Baker</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>When the familiar red Volkswagen camper stopped in front of 1747 Lanier Pl. NW. on Wednesday, the only difference from its many previous appearances was that its driver, <name type="person" key="Arellano, John G.">Johnny Arellano</name>, was not alone.</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name>, wearing his usual parka and stocking cap, rang the bell, and his friend, <name type="person" key="Collins, Anita">Anita Collins</name>, opened the door.</p>
+                
+                <p>Then Arellano stepped aside and three men&#8212;their short hair, neat suits and trench coats offering contrast to most residents of the neighborhood&#8212;pulled open the door and announced:</p>
+                
+                <p>&quot;Anita Collins?  FBI.  You are under arrest.&quot;</p>
+                
+                <p><name type="person" key="Collins, Anita">Miss Collins</name> recalls catching a glimpse of <name type="person" key="Arellano, John G.">Arellano</name>.  &quot;I could see his little head peeking out from behind them.  <name type="person" key="Arellano, John G.">Johnny</name> said: <name type="person" key="Collins, Anita">'Nita</name>, I hate to tell you this, but I'm a cop.'&quot;</p>
+                
+                <p>Thus ended an undercover assignment that had begun last October for Washington police officer <name type="person" key="Arellano, John G.">John G. Arellano</name>, a 25&#8211;year&#8211;old Mexican&#8311;American who posed as an Apache Indian.</p>
+                
+                <p>Acting on information supplied by <name type="person" key="Arellano, John G.">Arellano</name>, the FBI charged <name type="person" key="Collins, Anita">Miss Collins</name>, Indian spokesman <name type="person" key="Adams, Hank">Henry L. Hank Adams</name> and news reporter <name type="person" key="Whitten, Leslie H. Jr.">Leslie H. Whitten Jr.</name> with receiving stolen government property.</p>
+                
+                <p>This account of <name type="person" key="Arellano, John G.">Arellano</name>'s activities has been pieced together from interviews with Indian activists and information supplied by Insp. <name type="person" key="Ferguson, Albert W.">Albert W. Ferguson</name> of the police intelligence unit.</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name> began by studying Indian history and customs.</p>
+                
+                <p>His long, black hair and high cheek bones helped him pass for an Indian, although when he grew a moustache, several Idnians said he looked like a Chicano, so he shaved it off.</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name> joined the American Indian Movement (AIM) several weeks before the Trail of Broken Treaties caravan arrived in Washington to protest what its participants had judged to be unfair treatment of <sic>native</sic> Americans by the federal government.</p>
+                
+                <p>AIM was perhaps the most militant of the organizations that made up the broken treaties coalition.  Arellano reported that he was suspected at first, because of his sudden interest in the planning and because he declined offers of marijuana and alcohol.</p>
+                
+                <p>But because he was willing to do nearly anything else, he gained the confidence of the participants.</p>
+                
+                <p>When hundreds of Indians seized the BIA building last Nov. 2, <name type="person" key="Arellano, John G.">Arellano</name> was among the more vocal and visible protesters.  He stood in front of the building and jeered at his fellow officers and menaced bystanders with a table leg and other weapons fashioned from broken furnishings.</p>
+                
+                <p>He also maintained regular contacts with uniformed members of the police department, relaying information about the types and locations of weapons inside the occupied structure.</p>
+                
+                <p>When some Indians filled orange juice bottles with gasoline, for possible use as molotov cocktails in the event police stormed the building, <name type="person" key="Arellano, John G.">Arellano</name> relayed that fact, along with the location and number of bottles.</p>
+                
+                <p>His cover was so good that when Crow Dog, an Indian medicine man, held a ceremony in the BIA auditorium to give authentic tribal names to Indians who had been given non&#8211;Indian names, <name type="person" key="Arellano, John G.">Arellano</name> was one of about 60 persons so honored.</p>
+                
+                <p>When the occupation of the building ended <date n="1972-11-08">Nov. 8</date>, and shares of $66,000 in traveling money were passed out so participants could return to their reservations, <name type="person" key="Arellano, John G.">Arellano</name> was given $28.</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name> had drawn the assignment on behalf of the city police, but as the Indian demonstrators departed, leaving behind damage estimated at hundreds of thousands of dollars, and taking with them hundreds of pounds of federal documents and equipment, the affair became a federal matter.</p>
+                
+                <p>So <name type="person" key="Arellano, John G.">Arellano</name> maintained his cover, and reported to the FBI.</p>
+                
+                <!--Story continues on Page B4, Col. 1-->
+                
+                <p><name type="person" key="Collins, Anita">Miss Collins</name> recalls that after disappearing for several weeks, <name type="person" key="Arellano, John G.">Arellano</name> showed up again saying he had gone to his home in <name type="place" key="Pueblo, Colorado" reg="Pueblo, Colorado">Pueblo, Colo</name>.</p>
+                
+                <p>&quot;He had this new camper, which he said he paid cash for because his mother had been in an accident and gotten an insurance settlement of $1,800,&quot; <name type="person" key="Collins, Anita">Miss Collins said.</name></p>
+                
+                <p>He served as a messenger and chauffer for the few Indian leaders who had remained in Washington after the occupation.  He became especially friendly with <name type="person" key="Collins, Anita">Miss Collins</name>.</p>
+                
+                <p>&quot;He drove me everywhere I wanted to go,&quot; she said.  &quot;And he event vaccumed <name type="person" key="Adams, Hank">Hank</name>'s apartment, and washed the windows.&quot;</p>
+                
+                <p>&quot;And took my steel8211;headed salmon,&quot; Adams said, good naturedly adding, &quot;He probably shared it with his police friends.&quot;</p>
+                
+                <p><name type="person" key="Collins, Anita">Miss Collins</name> said <name type="person" key="Arellano, John G.">Arellano</name> told her he had an uncle in suburban <name type="place" key="Virginia">Virginia</name>, but that he was &quot;living with a white girl,&quot; a legal secretary and mother of two &quot;whose children drove him mad, but he stayed on because she was rich.&quot;</p>
+                
+                <p>On Tuesday, <name type="person" key="Adams, Hank">Adams</name> dispatched faithful messenger <name type="person" key="Arellano, John G.">Arellano</name> and <name type="person" key="Collins, Anita">Miss Collins</name> to the Greyhound Bus Lines express terminal to pick up three boxes of documents that had been mailed to him from <name type="place" reg="South Dakota" key="South Dakota">South Dakota</name>.</p>
+                
+                <p><name type="person" key="Collins, Anita">Miss Collins</name> paid the $38.50 freight charges, and <name type="person" key="Arellano, John G.">Arellano</name> carried the heavy boxes to his car, and a short time later, to <name type="person" key="Adams, Hank">Adams</name>' fifth-floor apartment at 1464 Rhode Island Ave. NW.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> said he explained that he was going to turn the documents over to the FBI and asked <name type="person" key="Arellano, John G.">Arellano</name> to return at 10 a.m. Wednesday to help him take them to the BIA building.</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name> didn't show up at 10 a.m., however, so <name type="person" key="Adams, Hank">Adams</name> and <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> carried the boxes downstairs.</p>
+                
+                <p><name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> said he was there merely to cover the story, and offered use of his car to expedite the return.</p>
+                
+                <p>When he and <name type="person" key="Adams, Hank">Adams</name> stepped outside, they were arrested by the FBI.</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name> finally arrived at <name type="person" key="Collins, Anita">Miss Collins</name>' apartment at 11:30 a.m., whereupon she was arrested.</p>
+                
+                <p>En route to the U.S. Courthouse, <name type="person" key="Collins, Anita">Miss Collins</name> said <name type="person" key="Arellano, John G.">Arellano</name> told one of the FBI agents that he was tired of the undercover role&#8212;&quot;I'm so tired I could sleep to Sunday,'&quot; she quoted him as saying.</p>
+                
+                <p>To which <name type="person" key="Collins, Anita">Miss Collins</name> said she replied: &quot;Oh bull, <name type="person" key="Arellano, John G.">Johnny</name>.  You had a good time riding around and meeting all the Indian chicks.&quot;</p>
+                
+                <p>Bachelor <name type="person" key="Arellano, John G.">Arellano</name> smiled.</p>
+               
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721115a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">After the Indian Protest</title>
+                <title type="sub"></title>
+                <author n=""></author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">After the Indian Protest</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1972-11-15">15 November 1972</date>
+                    <biblScope type="page">A14</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-05-15</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">After the Indian Protest</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A14</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  November 15, 1972</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  N/A</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>No one who saw or sensed the very real furies possessing the Indians who took over the Bureau of Indian Affairs building will challenge the administration's judgment in stalling and in negotiating their evacuation, rather than inviting another &quot;Attica&quot; by trying to oust them by force.  Ordered by a court to house and feed the protesters, the White House then wisely decided to implement the order by sending them home.  None of their substantive demands&#8212;aimed at nothing less than a transformation of federal-Indian relations&#8212;was granted, but the administration did set up a taskforce to respond to the Indians in 60 days and to report to the President in six months.  It was a responsible way to defuse a powder keg and yet to address the serious grievances underneath.  How ironic that the President's own strictures against &quot;permissiveness&quot; should now be thrown back at him, from the political right.</p>
+                
+                <p>As for the sacking of the BIA building and the theft of documents and Indian paintings and artifacts, it may be trivial&#8212;as the argument goes&#8212;compared with the damage done Indians by European settlers, and the theft of their land and water and cultural heritage.  Nonetheless what happened at the BIA cannot be condoned, legally or morally.  The Indians in question were offered relief from prosecution for seizing the building but not for trashing and looting it.  Justice in this matter must be done.</p>
+                
+                <p>It is precisely for that reason that we commend the administration for its determination to attempt to do justice in the far larger matter of the Indians' condition as a whole.  It is not clear that this imperative has yet penetrated the upper reaches of Interior, whose performance during and since the Indians' week-long protest went far to vindicate the Indians' desire to undo BIA and construct a new federal-Indian relationship.  But President Nixon himself is on the right track.  Two years ago he embarked on a historic program of turning Indian rights and responsibilities back to Indians.  It typifies all we know about social change that, just as some bureaucrats and citizens think he's going too far too fast, some Indians believe he's doing too little too slowly.  To put this program into full effect, the President must also secure the consent of Congress.  Electoral changes in the makeup of the two Interior Committees should help him here.</p>
+                
+                <p>Fortunately, however, the Indians' cause does not depend entirely on direct action, Executive sympathy or legislative approval.  In a nice though largely unnoted coincidence, even while the BIA was under siege, the fundamental Indian complaint of exploitation was being vindicated across town in District Court.  Scoring Interior's handling of its trust and treaty obligations to the Nevada Paiutes, Judge Gesell ordered the department in effect to stop draining the tribe's sacred Pyramid Lake.  His decision was &quot;a fantastic victory for all American Indians,&quot; the Paiutes' lawyer declared.  Meanwhile, the Justice Department&#8212;representing the &quot;pro-Indian&quot; side of the federal establishment&#8212;recently asked the Supreme Court to grant that Paiutes have a right, prior to all otehr claimants' rights, to the waters of the river feeding Pyramid Lake.  A favorable decision could have national implications.</p>
+                
+                <p>In sum, though the Indians' protest in Washington may have awakened some of their fellow Americans, and turned off others, their quest to reclaim their property and dignity is making some progress; not nearly enough to discharge the settlers' awesome debt to the first Americans but enough to provide a basis for hope of more.</p>
+                    
+            </div1>
+        </body>
+    </text>
+</TEI>

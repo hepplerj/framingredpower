@@ -1,0 +1,9 @@
+<div id="menu">
+  <ul id="main_menu">
+    {{ range .Site.Menus.main }}
+    <li{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} id="current"{{ else if eq $.RelPermalink .URL }} id="current"{{ end }}>
+      <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</div>

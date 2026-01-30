@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.nyt.19721108">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Militant Indians Agree to Leave"</title>
+<title type="sub"></title>
+<author n="Blair, William M.">William M. Blair</author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Blair, William M.">William M. Blair</author>
+<title level="a" type="main">"Militant Indians Agree to Leave"</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">New York Times</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-11-08">08 November 1972</date>
+<biblScope type="page">49</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="p49"/>
+
+
+<div1 type="body">
+
+<head type="main">Militant Indians Agree to Leave</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">New York Times</hi>, p. 49</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 08, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  William M. Blair</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>Militant Indians agreed tonight to evacuate the Bureau of Indian Affairs building, which they have held for six days.</p>
+
+<p>The agreement was reached with White House negotiators who offered a program for dealing with Indian grievances.  The Indians are expected to leave the building at 9 A.M. tomorrow.  They barricaded the six-story structure last Thursday, forcing the Government to suspend bureau operations.</p>
+
+<p>The agreement with the Indians included the naming of a Federal study group that will make recommendations to President Nixon.</p>
+
+<p>Facing the deadline of a Federal court order to leave the building by tomorrow night or be evicted by force, the Indians accepted a broad program offered by Presidential aides to hear Indian grievances and proposals for more economic, educational and social aid.</p>
+
+<p>The Federal study group will include officers of 13 Federal departments and agencies dealing with Indian affairs, including the White House and the office of the Vice President.  It will be a continuing body for six months and will make a report to President Nixon by next June 1.</p>
+
+<p>The peace pact was worked out in sessions that began at noon with leaders of the "trial of broken treaties" protestors.  The Indians barricaded themselves in the building last Thursday and threatened to meet force with force.</p>
+
+<p>The White House took control of the negotiations after a series of fruitless talks between the Indians and officials of the Interior Department, parent body of the Bureau of Indian Affairs.</p>
+
+<p>About 100 of the 500 Indians who invaded the building were reported to be still holding the structure tonight.  Most of the elderly Indians and women and children who had accompanied the protesters had been removed to private housing.  Some of the younger Indians were seen leaving the structure this afternoon.</p>
+
+<p>The agreement was worked out by Frank Carlucci, deputy director of the Office of Management and Budget; Leonard Garment, special consultant to the President for minority affairs, and Louis R. Bruce, Commissioner of Indian Affairs.  Mr. Carlucci and Mr. Garment will be co-chairmen of the study group.</p>
+
+<p>The eight Indian negotiators were headed by Hank Adams, an Assinaboine from Puyallup, Wash., who has been an activist in the fight for Indian rights.  A lawyer, he has been a leader of the American Indian Movement, the moving force behind the protest here.</p>
+
+<p>Under terms of the agreement, all proposals submitted by the militants will be considered, but the Federal panel will "follow an open access, no exclusion, no preference policy and will seek an input from a cross-section of the Indian community."</p>
+
+<p><head type="sub">Main Points Cited</head></p>
+
+<p>The agreement, a statement said, emphasizes:</p>
+
+<p>- "Eligibility of various Indian groups for governmental services."  This appeared to be a concession to the protesters who contended that urban Indians living off reservations were neglected by Federal agencies.</p>
+
+<p>- "The adequacy of governmental organizational structure to coordinate programs and services for Indians."  The protesters had called for abolition of the Bureau of Indian Affairs and for its functions to be put in the White House.</p>
+
+<p>- "The quality, speed and effectiveness or the delivery of Federal programs to all Indian people."</p>
+
+<p>- "Issues concerning fairness in institutions and practices of Indian self-government."</p>
+
+<p>- "Appropriate and proper means to insure Congressional implementation of necessary Indian legislation."</p>
+
+<p>Establishment of the panel came after the United States Court of Appeals here delayed a deadline for the Indians to get out of the building or face eviction by the Federal authorities until tomorrow at 9 P.M.  The court said there would be no extension of the deadline after that time.</p>
+
+<p>Judge John H. Pratt of the United States District Court thority to evict the Indians by 6 P.M. yesterday.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

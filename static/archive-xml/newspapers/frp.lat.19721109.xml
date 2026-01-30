@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.lat.19721109">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indians Leave Building With Files, Artifacts</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">Indians Leave Building With Files, Artifacts</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Los Angeles Times</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-11-09">09 November 1972</date>
+<biblScope type="page">A7</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-05</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="pA7"/>
+
+<div1 type="body">
+
+<head type="main">Indians Leave Building With Files, Artifacts</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Los Angeles Times</hi>, p. A7</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 07, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>After taking many files and native American artifacts, militant Indians Wednesday night handed back to the government the federal building they seized a week ago to protest federal treatment of the redman.</p>
+
+<p>The last 20 to 30 Indians filed out of the Bureau of Indian Affairs Building around 9:30 p.m. and U.S. marshals took control of the building one hour later.</p>
+
+<p>As the Indians departed, money was dispersed to help them rent vehicles to return home.  Indian negotiator Hank Adams said a $66,000 transportation fund was obtained with the help of the White House.</p>
+
+<p>Dennis Banks, national field director of the American Indian Movement, said he and three others took a small mountain of documents and treaties from bureau files, including what he called "highly incriminating evidence" against former senators and incumbent congressmen from Western states.</p>
+
+<p>"We have destroyed the BIA," Banks said, referring to the sets of documents.  "They ain't got nothin' to work with.  We had a truck leave every night."</p>
+
+<head type="sub">Carry Paintings</head>
+
+<p>Many Indians were seen carrying away paintings, sketches, woven baskets and other artifacts displayed in the bureau as they walked past the barricades to return home.  The inside of the building was described as a shambles with broken furniture and papers strewn about.  Plumbing was torn out to provide material for improvised clubs and spears.</p>
+
+<p>The Indians began leaving after accepting a wide-ranging proposal offered by White House officials to review Indian grievances and efforts for more economic, educational and health aid.</p>
+
+<p>In addition, a federal study group that will include officers of 13 federal departments and agencies dealing with Indian affairs will make a broad report to the President by June 1.</p>
+
+<head type="sub">No Prosecutions</head>
+
+<p>Indian spokesmen said they had agreed to elave before a 9 p.m. court-dictated deadline after Administration officials promised that no one would be prosecuted for the seizure and occupation of the building.</p>
+
+<p>However, Russell Means, national coordinator of the Trail of Broken Treaties Caravan, said the amnesty provision "leaves a question in our mind as to missing government property" that the Indians have taken, including government papers and artifacts.</p>
+
+<p>Banks said the stolen files would be reviewed before consulting with attorneys in an attempt to bring charges against three former senators and four or five incumbent congressmen involving the "rip off of Indian water rights and mineral rights."</p>
+
+<p>"Some of the documents, especially investigations of the FBI, should be out of the country by now," he said.  "We're definitely not going to release the documents until the BIA is taken out of the Interior Department."</p>
+
+</div1>
+<milestone unit="smallbar"/>
+<div1 type="summary">
+<p>ABOUT THE DOCUMENT</p>
+<p><hi rend="underline">Source</hi>: Los Angeles Times</p>
+<p><hi rend="underline">Author</hi>: NA</p>
+<p><hi rend="underline">Published</hi>: Los Angeles</p>
+<p><hi rend="underline">Date</hi>: November 9, 1972</p>
+<p><hi rend="underline">Topics</hi>: Native Americans, Race Relations, Demonstrations</p>
+<p><hi rend="underline">Keywords</hi>: Bureau of Indian Affairs</p>
+<p><hi rend="underline">Further Information</hi>: About the Encoding</p>
+
+</div1>
+</body>
+</text>
+</TEI>

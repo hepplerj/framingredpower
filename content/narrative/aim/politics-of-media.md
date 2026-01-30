@@ -1,0 +1,21 @@
+---
+title: "AIM and the Politics of Media"
+aliases: ["/narrative/aim/politics-of-media/index.php"]
+weight: 23
+---
+
+<div class="twoCol">
+<div class="contentSide">
+
+Native activists were clearly aware of media's power in their movement.  John Trudell, who would later serve as a co-chairman of AIM in the 1970s, remarked that the Alcatraz occupation was designed "so as not to offend the public too much, because that is where our support was."   Others credited media for the scope of the occupation.  One activist recalled that "we were in full view of the entire world, and the government made no move to take us off the island."   Sympathetic support in the media helped to present the activists and their goals.  "We got a lot of ink and airtime around the country," recalled Russell Means.  "That was when I first realized that the white media loved it when Indians fight Indians.  We could practically get any kind of coverage we wanted."
+
+The Alcatraz Island occupation had a profound impact on AIM member Russell Means.  Robert Burnette, former chairman of the Rosebud Reservation, recalled that Means had a "bizarre knack for staging demonstrations that attracted the sort of press coverage Indians had been looking for."   Such talent secured Means's spot in AIM as a chief spokesperson.  He would articulate and epitomize most forcefully the emerging radical posture and ensure the dominance of AIM.  A native of Pine Ridge who moved to California when his father took a naval shipyards job during World War II, Means often travelled down the wrong track in life, caught up with drug and alcohol abuse.  Despite his vices, he completed a college degree in accounting and worked for the Rosebud Reservation tribal offices before becoming acquainted with Dennis Banks in 1969.  Though initially skeptical of AIM, he quickly embraced them and would later go on to start the second AIM chapter in Cleveland.
+
+Means epitomized the image AIM tried to create in the media.  Tall, well-built, and charismatic, Means became an expert in confrontational politics.  In 1970 on Thanksgiving Day, he led the capture of the Mayflower II replica.  In 1971, he led the brief occupation of Mount Rushmore in June and attempted to take over the BIA headquarters later that year.  His fearless and volatile approach made AIM attractive to those who approved of their militant posture.  "The only way we could get publicity was by threats," Means recalled.  "We had to threaten institutions we were trying to change."   The media's role in disseminating information was always important, and maintaining their image meant using political theatrics and violent confrontations.  The public, notes legal scholar John Sayer, "must get their information from news coverage, making both the actors and the audience subject to the media's ability to influence public opinion concerning who society's heroes and villains are."   AIM leaders proved especially capable of drawing media attention.
+
+The American Indian Movement was not without its critics.  Vine Deloria Jr. contended that "AIM was too much the publicity hounds" to manage a successful coalition of Indian activists.  Minneapolis Tribune reporter Gerald Vizenor (Anishinaabe) described AIM as a "symbolic confrontation group" that generated media coverage of what he called "the heroes of confrontation."  Later protest events were also criticized.  During the seventy-one day occupation of Wounded Knee in early 1973, South Dakota Senator George McGovern bemoaned, "We cannot have one law for a handful of publicity-seeking militants and another law for ordinary citizens."   Their publicity tactics, however, seemed to succeed in generating enough attention that AIM exploded onto the national scene within two years of its founding.
+
+The visible, confrontational protests lent itself to a process of selection and framing that gave audiences drama and excitement.  Stories about American Indians during the 1960s were often packaged with news about confrontations.  The frame of conflict left few instances where national media covered events such as basic arguments for the restoration of treaty-making with Indian Nations.  The media often failed to convey how a movement developed or changed over time.  In part this was built into the institution of journalism.
+
+</div>
+</div>

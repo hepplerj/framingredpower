@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div id="content">
+<div class="twoCol">
+
+  <div id="leftCol">
+    {{ partial "narrative-nav.html" . }}
+  </div>
+
+  <div id="rightCol">
+    <div class="bodyContent">
+      {{ .Content }}
+    </div>
+  </div>
+
+</div>
+</div>
+{{ end }}

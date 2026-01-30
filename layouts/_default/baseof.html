@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+{{ partial "head.html" . }}
+<body>
+<div id="mainBody">
+  {{ partial "header.html" . }}
+  {{ partial "navigation.html" . }}
+
+  {{ block "main" . }}{{ end }}
+
+  {{ partial "footer.html" . }}
+</div>
+</body>
+</html>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721125">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Activist Tells of BIA Sacking</title>
+                <title type="sub">Brutality Movie Called Spark</title>
+                <author n=""></author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">Activist Tells of BIA Sacking</title>
+                    <title level="a" type="sub">Brutality Movie Called Spark</title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1972-11-25">25 November 1972</date>
+                    <biblScope type="page">A1</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-05-19</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">Activist Tells of BIA Sacking<lb/>
+                Brutality Movie Called Spark
+                </head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A1</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  November 25, 1972</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  Donald P. Baker</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>&quot;Showing that movie may have done it,&quot; <name type="person" key="Adams, Hank">Hank Adams</name> said as he attempted to reconstruct the scene inside the Bureau of Indian Affairs building just before it was sacked.</p>
+                
+                <p>The movie, &quot;which shows how brutal white police can be to Indian women,&quot; was shown in the BIA auditorium several times during the six-day seige.</p>
+                
+                <p>&quot;It certainly had an effect,&quot; said <name type="person" key="Adams, Hank">Adams</name>, who was one of several hundred Indians who refused to leave the building, which was surroounded by police during the occupation.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> relates the movie showing, and the destruction that followed in the quiet, emotionless manner that has characterized his role as principal negotiator with the federal government in behalf of the Indian organizations that staged the takeover.</p>
+                
+                <p>A soft-spoken, almost frail man of 29, <name type="person" key="Adams, Hank">Adams</name>' demeanor belies the rage he shares with the Indian movement's leaders such as <name type="person" key="Means, Russell">Russell Means</name>, <name type="person" key="Banks, Dennis">Dennis Banks</name>, and the <name type="person" key="Bellecourt, Vernon"><name type="person" key="Bellecourt, Clyde">Bellecourt brothers</name></name>.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> produced the movie, &quot;As Long As The Rivers Run,&quot; and dedicated it to his sister-in-law, <name type="person" key="Bridges, Valerie">Valerie Bridges</name>, who drowned in the Nisqually River of Washington during a fishing rights dispute.</p>
+                
+                <p>It was filmed in Washington state between 1968 and 1970 to dramatize the Indians' attempt to fish on treaty-protected lands.  Several scenes show local police &quot;dragging Indian women up the rocky banks&quot; of the rivers in the Puget Sound area.</p>
+                
+                <p>Viewing the movie may have heightened feelings of fear and hate of federal policemen who had marched to the building shortly after its occupation, <name type="person" key="Adams, Hank">Adams</name> said.</p>
+                
+                <!--Story continues on Page A11, Col. 1-->
+                
+                <p>Many persons inside the beseiged building agree that substantial numbers among the 500 to 600 occupants were &quot;ready to die&quot; if police moved to eject them.</p>
+                
+                <p>Although the police move never came, invasion leaders say most of the damage occurred on the afternoon of <date n="1972-11-06">Monday, Nov. 6</date>, when a court order to clear the building by 6 p.m. was in force.  The order subsequently was stayed.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> does not dismiss as unimportant the $2 million damage to the BIA building, but he does not like to dwell on it.  He largely regrets it because the publicity &quot;has diverted attention&quot; from the original prupose of the protest, which was to urge changes in the handling of Indian affairs.</p>
+                
+                <p>He takes the same stance regarding criminal records of some of the movement's leaders.</p>
+                
+                <p>(Newspaper clippings in Minneapolis indicate that <name type="person" key="Bellecourt, Vernon">Vernon Bellecourt</name> was convicted of a tavern holdup in <name type="place" key="Terre Haute, Indiana" reg="Terre Haute, Indiana">Terre Haute, Ind.</name>, in 1951, and of a holdup in <name type="place" reg="St. Paul, Minnesota" key="St. Paul, Minnesota">St. Paul</name> as a juvenile.  <name type="person" key="Bellecourt, Clyde">Clyde Bellecourt</name> and <name type="person" key="Banks, Dennis">Banks</name> have been arrested several times in connection with protests.)</p>
+                
+                <p>&quot;I'm not offended by details of their records,&quot; <name type="person" key="Adams, Hank">Adams</name> said, &quot;but only when they are presented as the sum total of their lives.  Look at the last four years: they have a good record of attempting to prevent other Indians from getting similar backgrounds.&quot;</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> said his criminal record is limited to his participation in fishing rights' protests, although an older brother served two years in the Oregon Pentitentiary &quot;for stealing 10 gallons of ice cream.&quot;</p>
+                
+                <p>His brother's detention was &quot;more than 10 times longer than that served by any of the white men who murdered my wives' three cousins,&quot; <name type="person" key="Adams, Hank">Adams</name> said.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name>' own incarceration involve fishing rights and subsequently led to the documentary film.  He served 30 days in the Thurston County, Wash., jail last January, although he had been convincted in November, 1968.  <name type="person" key="Adams, Hank">Adams</name> believes the belated imprisonment resulted from the prosecutor learning that he had been invited to visit North Vietnam and China.  (<name type="person" key="Adams, Hank">Adams</name> did not go.)</p>
+                
+                <p>He had been arrested for fishing with a gill net in the Puget Sound near Olympia.  &quot;The only thing I caught was a milk carton,&quot; <name type="person" key="Adams, Hank">Adams</name> recalls.</p>
+                
+                <p>He said he did it to &quot;demonstrate the fallacy of the claim that gill net fishing destroys the entire run of fish.&quot;  (The net traps fish by closing around their gills, leaving them flapping half-way through the net.)</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> said his net was placed in a stream where &quot;there were a million mature, adult salmon,&quot; none of which were trapped by his net.  He said Indians know that fishing success is &quot;mitigated by condition,&quot; including the clarity of water, amount of sunlight and other factors that aid the fish in avoiding the nets.</p>
+                
+                <p>In January, 1971, while fishing, <name type="person" key="Adams, Hank">Adams</name> was shot &quot;by two white guys who pulled open the door of a car&quot; in which he was sitting.  <name type="person" key="Adams, Hank">Adams</name> was watching a net that had been placed in the Puyallup River by his wife, <name type="person" key="Adams, Alison">Alison</name>.</p>
+                
+                <p>His assailants were part of a &quot;citizen vigilantes who had taken over the functions of the police&quot; after Indians had won a court order supporting their tribal rights to fish in the Puyallup out of season.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> said his attackers were never charged.  His presence at the river's edge &quot;wasn't in the context of a demonstration,&quot; <name type="person" key="Adams, Hank">Adams</name> said.  &quot;My wife fished there all the time,&quot; he said.</p>
+                
+                <p>He blames a &quot;friendly&quot; divorce last August, after 18 months of marriage on his activism.  &quot;I don't think anyone could live with me at this time,&quot; he said.</p>
+                
+                <p>His companion now is a bodyguard.</p>
+                
+                <p>When <name type="person" key="Adams, Hank">Adams</name> served as the Indian representative on the executive council of the Poor People's Campaign here in 1968, most of the leaders had bodyguards, something <name type="person" key="Adams, Hank">Adams</name> viewed then as &quot;pretentious.&quot;  But since the shooting, &quot;my people have insisted that I not be alone&quot;</p>
+                
+                <p><name type="person" key="Adams, Hank">Henry Lyle (Hank) Adams</name> was born <date n="1943-05-16">May 16, 1943</date>, on the <name type="place" key="Assiniboine-Sioux Reservation" reg="Assiniboine-Sioux Reservation">Assiniboine&#8212;Sioux reservation</name> at <name type="place" key="Fort Peck, Montana" reg="Fort Peck, Montana">Ft. Peck, Mont</name>.  (&quot;My grandfather was given the name <name type="person" key="Adams, John">John Adams</name> when he was sent away to school at age 9.&quot;)  Along with many other tribal families, his parents moved in 1944 to work in war-time factories in Washington and Oregon.</p>
+                
+                <p>He attended off-reservation Indian schools of the <name type="tribe" key="Quinault" reg="Quinault"><sic>Quinnalut</sic></name> [sic] tribe at <name type="place" key="Moclips, Washington" reg="Moclips, Washington">Moclips, Wash.</name>, graduating from high school in 1961.</p>
+                
+                <p>During his growing up years, he supported himself performing the chores of a child of migrant workers; ages 6 to 15 as a berry, cherry, bean and cucumber picker; ages 16 and 17 as a shed and filed digger during the day, as a clamdigger, fisherman, and fish-buyer at night; while a college student, as a laborer on a reservation saw mill and stream clearance project.</p>
+                
+                <p>He attended the University of Washington for two years, dropping out &quot;the afternoon President Kennedy was killed.&quot;</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> already had been commuting three or four times a week from the campus in Walla Walla to the <name type="tribe" key="Quinault" reg="Quinault"><sic>Quinalult</sic> Reservation</name> where he was &quot;trying to deal with a suicide epidemic among the young people.&quot;</p>
+                
+                <p>The assassination turned the reservation work into a full-time commitment.</p>
+                
+                <p>He was special projects director for the <name type="organization" key="National Indian Youth Council" reg="National Indian Youth Council">National Indian Youth Council</name> from 1963 to 1967, and concurrently research secretary for the <name type="organization" key="National Indian Youth Council" reg="National Congress of American Indians">National Congress of American Indians</name> here in 1964 and 1965, and a member of the U.S. Army from 1965 to 1967, serving as editor of the post newspaper at <name type="place" key="Fort Belvoir, Virginia" reg="Fort Belvoir, Virginia"><sic>Ft. Belvior</sic></name> [sic] most of that time.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> returned to the West Coast, taking a paid job with a War on Poverty program on the <name type="place" key="Quileute Reservation" reg="Quileute Reservation"><name type="tribe" key="Quileute" reg="Quileute">Quileute</name> reservation</name>.</p>
+                
+                <p>He returned here the next year for the Poor People's campaign, during which he took a &quot;vow of poverty,&quot; which permits him to work only for expenses</p>
+                
+                <p>During negotiations that followed occupation of the BIA, <name type="person" key="Adams, Hank">Adams</name> and his body guard, <name type="person" key="Hunt, Michael">Michael Hunt</name>, had a room at a Holiday Inn downtown that &quot;stretched the poverty vow.&quot;  He has since rented an efficiency apartment in the name of Survival of American Indians, Inc., an organization he founded in Seattle in 1968.</p>
+                
+                <p>As the least visible of the leaders of the Trail of Broken Treaties caravan, <name type="person" key="Adams, Hank">Adams</name> has been able to continue to meet with federal officials while other caravan spokesmen denounced them.</p>
+                
+                <p>He is now awaiting resumption of talks with members of the special federal interagency task force on Indian policy and needs.</p>
+                
+                <p>It was formed during earlier negotiations with <name type="person" key="Carlucci, Frank">Frank Carlucci</name>, deputy director of the Office of Management and Budget; <name type="person" key="Garment, Leonard">Leonard Garment</name>, a special assistant to <name type="person" key="Nixon, Richard" reg="Nixon, Richard">President Nixon</name>, and <name type="person" key="Patterson, Bradley H. Jr.">Bradley H. Patterson Jr.</name>, <name type="person" key="Garment, Leonard">Garment</name>'s executive assistant.</p>
+                
+                <p><name type="person" key="Patterson, Bradley H. Jr.">Patterson</name> said the White House team found <name type="person" key="Adams, Hank">Adams</name> &quot;quietly persistent.&quot;</p>
+                
+                <p>The negotiations sought to deal both with the return of documents stolen from the BIA and the 20-point position paper <name type="person" key="Adams, Hank">Adams</name> had written in behalf of the caravan.</p>
+                
+                <p>It was <name type="person" key="Adams, Hank">Adams</name> who elicited the controversial amnesty agreement from the White House negotiators on <date n="1972-11-08">Nov. 8.</date>  The written agreement promised only that <name type="person" key="Carlucci, Frank">Carlucci</name> and <name type="person" key="Patterson, Bradley H. Jr.">Patterson</name> would &quot;recommend that there be no prosecution for the seizure and occupation of the BIA building.&quot;</p>
+                
+                <p>White House spokesmen later said the agreement did not cover the &quot;extraordinary damage&quot; done to the building or the theft of files and documents.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> contends the agreement covered &quot;everything but loss of life,&quot; although the details were verbal because &quot;government officials can't agree in writing to condone law breaking, unless it involves an Indian treaty.&quot;</p>
+                
+                <p>The first arrests for thefts of documents were announced by the FBI in Oklahoma on Thursday.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> sits in his apartment &quot;waiting for a phone call&quot; he hopes will lead to return of the documents and resumption of negotiations.</p>
+                
+                <p>He is using the time to finish a book, &quot;a personal journal of an American Indian,&quot; to be published next April by Holt, Rinehart &amp; Winston.</p>
+                
+                <p>He also is contemplating whether he should make another foray into politics.  In 1968 and again this year, he unsuccessfully sought the Republican nomination in Washington's Third Congressional District.</p>
+                
+                <p>Upon his loss, he endorsed incumbent Rep. <name type="person" key="Hansen, Julia Butler">Julia Butler Hansen</name> (D-Wash.)</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> is not critical of Mrs. Hansen, but told voters they might want to vote for him as a way of giving &quot;recognition that white people aren't governing themselves any better than they are governing Indians.&quot;</p>
+                    
+                    
+            </div1>
+        </body>
+    </text>
+</TEI>

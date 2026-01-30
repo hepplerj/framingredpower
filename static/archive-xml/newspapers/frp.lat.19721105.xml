@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.lat.19721105">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Building Held Third Night</title>
+<title type="sub">Judge Refuses to Evict Indians</title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">Building Held Third Night</title>
+<title level="a" type="sub">Judge Refuses to Evict Indians</title>
+<title level="a" type="sub"></title>
+<title level="j">Los Angeles Times</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-11-05">05 November 1972</date>
+<biblScope type="page">2</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-05</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="p1"/>
+
+<div1 type="body">
+
+<head type="main">Building Held Third Night</head>
+<head type="sub">Judge Refuses to Evict Indians</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Los Angeles Times</hi>, p. 1</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 05, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>Militant American Indians, some wearing war paint and armed with makeshift tomahawks, held the Bureau of Indian Affairs building for a third night Saturday when a federal judge refused to allow the government to evict them.</p>
+
+<p>U.S. Dist. Judge John Pratt refused to sign a show-cause order or a contempt citation late Saturday, delying until at least today any action against the Indians, whose numbers are estimated in the hundreds.  They had said they were "prepared to die" in defense of the building they have occupied since Thursday.</p>
+
+<p>Pratt ordered the Indians to leave the building Friday night but when they refused he ordered the government to try to negotiate a peaceful end to the uprising.  A team of negotiators from the Interior and Justice departments and the General Services Administration met with 10 Indian representatives Saturday night.  But both sides said no progress had been made and the talks were recessed until this morning.</p>
+
+<p>However, Indian spokesmen said they were encouraged by government offers of other accomodations.  They rejected the offers but said the situation "looks very positive because of the fact the negotiators realize our commitment here -- that we are willing to die," said Russell Means, a spokesman for the "Trail of Broken Treaties," a coalition of 200 Indian tribes that came to Washington to lobby for reforms to help their people.</p>
+
+<p>Interior Department officials said Indian representatives looked over alternate quarters offered by the government at another federal building and two nearby military installations but decided to stay where they were.</p>
+
+<p>Indian leaders announced that the protest would be extended until Nov. 12 because the "harassment" by the government had delayed the purpose of the visit.  "We didn't come here to grab hold of a building," Means said.  "We came here to work."</p>
+
+<p>But the Indians took over the Bureau of Indian Affairs building Thursday after BIA and Interior Department officials refused to help them find food and lodging.</p>
+
+<p>"Don't blame me for this damage," Means screamed, referring to $250,000 damage the government claims the Indians did to the BIA building.</p>
+
+<p>The Indians called off plans to defy a court order and hold a memorial service at Arlington National Cemetary.  A federal appeals court said Saturday it would hand down a decision at 4 p.m. today on the Indian challenge to a federal regulation forbidding the service.</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

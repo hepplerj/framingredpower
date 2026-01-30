@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.ct.19721205">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Politics Admitted in Indian Deal"</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">"Politics Admitted in Indian Deal"</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Chicago Tribune</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-12-03">05 December 1972</date>
+<biblScope type="page">B10</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="pB10"/>
+
+
+<div1 type="body">
+
+<head type="main">Politics Admitted in Indian Deal</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Chicago Tribune</hi>, p. B10</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  December 05, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+	<p>Rogers C. B. Morton today said "the political environment" was considered when the administration decided against forcing protesting Indians out of the Bureau of Indian Affairs shortly before electon day last month.</p>
+
+	<p>Morton told a House Interior subcommittee hearing, however, that there was no White House "takeover" of negotiations which saw the government pay the Indians some $65,000 in expenses to leave the building they occupied for seven days and to which they caused an estimated $1 million in damage.</p>
+
+	<p>The panel summoned Interior officials to explain who made decisions in dealing with the Indians, who were represented by the Trail of Broken Treaties organization in their claims that the government broke promises made to Indians in administration of reservations.</p>
+
+	<p>The protesters, numbering about 500, barricaded themselves in the building on NOv. 2 and vowed to fight to the death against any police action to force them out.  They left voluntarily on NOv. 8 after negotiating an agreement with White House officials led by John Ehrlichman, President Nixon's top domestic affairs adviser.</p>
+
+	<p>Morton told newsmen after the morning hearing ended that "no political decisions were made" in dealing with the Indians, but he added that "the political environment was fully evaluated and the decision was made to go the court route" instead of taking police action.</p>
+	
+</div1>
+</body>
+</text>
+</TEI>

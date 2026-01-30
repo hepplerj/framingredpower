@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721115">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Stolen BIA Artifacts, Documents Recovered</title>
+<title type="sub"></title>
+<author n="Baker, Donald P.">Donald P. Baker</author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p>Publicly available electronic document</p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Baker, Donald P.">Donald P. Baker</author>
+<title level="a" type="main">Stolen BIA Artifacts, Documents Recovered</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Washington Post</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-11-15">15 November 1972</date>
+<biblScope type="page">B1</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="pB1"/>
+
+<div1 type="body">
+
+<head type="main">Stolen BIA Artifacts, Documents Recovered</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. B1</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 15, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  Donald P. Baker</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>Traffic accidents and speeding arrests in three Western towns have led to the recovery of what is believed to be stolen documents and artifacts from the looted Bureau of Indian Affairs building here, a BIA spokesman said yesterday.</p>
+
+<p>The recoveries, which occured in Clinton and Anadarko, Okla., and Horton, Kan., came as leaders of the Indians who took over the BIA building prepared to discuss the thefts in public here today.</p>
+
+<p>A spokesman for the Trail of Broken Treaties announced that "disposition of stolen materials" would be discussed at a press conference this morning.  The spokesman would not say if any of the documents and art objects would be displayed.</p>
+
+<p>Hank Adams, who has been chief negotiator for the protesters in their dealings with the White House, reportedly will be the principle spokesman at the news conference.</p>
+
+<p>The FBI, which is conducting the investigation of the thefts, said its agents questioned nine occupants of a van, which overturned on Sunday near Clinton.</p>
+
+<p>The Clinton Daily News reported that after the four young injured Indians who were patients at the Clinton Indian Hospital were questioned by agents, they checked themselves out against the advice of the hospital administrator.</p>
+
+<p>One young man left the hospital in a wheel chair.  When the hospital said it did not have any crutches, he was carried to a waiting car.</p>
+
+<p>The FBI in Oklahoma City said several pieces of office equipment were recovered from the disabled van, but denied a report taht documents had been found.</p>
+
+<p>Details of the incidents--an accident and a speeding arrest--in Anadarko and Horton were not known.</p>
+
+<p>A BIA spokesman also said several anonymous callers yesterday asked how stolen items could be returned.  Callers are being told to contact the FBI, which picked up 31 paintings at the YMCA here yesterday.</p>
+
+<p>Romano Bennett, a Puyallup Indian who is an American Indian Movement coordinator in the state of Washington, said that while she "understood" the concern about the theft of files and artifacts, it is "incredible that artifacts have a higher value than the controls on Indian lives and the lack of service given, based on dollars expended and services received."</p>
+
+<p>She said the BIA's release of its daily payroll indicated that "put on two or three reservations, (the money) would result in some economic development" not provided by the BIA.</p>
+
+<p>A second congressional investigation of the takeover was announced yesterday by Rep. James A Haley (D-Fla.).</p>
+
+<p>Haley, chairman of the House Interior Committee's subcommittee on Indian affairs, set Dec. 4, 5, and 6 for government officials to testify before his panel.</p>
+
+<p>The subcommittee will "consider the circumstances surrounding the illegal seizure and occupation of the BIA building.  The subcommittee expects to hear only governmental witnesses "at this time" Haley said, with the probe directed "primarily at the persons directly responsible for the decisions made."</p>
+
+<p>Haley said Indian leaders will appear at a later date.</p>
+
+<p>Earlier, Sen. Edward M. Kennedy (D-Mass.) had said he would call a hearing for all persons involved in the BIA takeover, probably in about 60 days, at the time a special governmental task force is due to issue its own report on the incident.</p>
+
+<p>Cleanup of the building, at 19th Street and Constitution Avenue NW continued yesterday, but workers still were not permitted to untangle the records strewn about the basement and first and second floors.</p>
+
+<p>Reopening of the building to the BIA's 400 some employees, originally set for Friday, has been set back to next Tuesday, and even that date is optimistic, according to one BIA employee.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

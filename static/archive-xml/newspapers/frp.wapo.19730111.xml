@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19730111">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">U.S. Rejects Indian Demands, Says Nixon Supports Reforms</title>
+<title type="sub"></title>
+<author n="Baker, Donald P.">Donald P. Baker</author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p>Publicly available electronic document</p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+
+<title level="a" type="main">U.S. Rejects Indian Demands, Says Nixon Supports Reforms</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Washington Post</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1973-01-11">11 January 1973</date>
+<biblScope type="page">A15</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-05-15</date>
+
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+
+<div1 type="body">
+
+<head type="main">U.S. Rejects Indian Demands, Says Nixon Supports Reforms</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A15</p>
+
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  January 11, 1973</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  Donald P. Baker</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>The White House has responded officially to the 20 proposals submitted by the Trail of Broken Treaties by either rejecting the Indians' demands or arguing that reforms they had proposed are supported already by the Nixon administration.</p>
+
+<p>The government's answer was delivered Tuesday night to Hank Adams, principal negotiator for the 1,000 Indians who came to Washington in November to discuss their treatment and wound up taking over the Bureau of Indian Affairs building.</p>
+
+<p>Adams said last night that the government's response was &quot;almost totally devoid of positive comment.&quot;</p>
+
+<p>White House spokesmen Leonard Garment and Frank Carlucci, in a cover note to Adams, described the eight-day seige as &quot;an act which served only to impede the progress already being achieved by the combined efforts of the administration and the responsible Indian community.&quot;</p>
+
+<p>Garment, special assistant to the President, and Carlucci, deputy director of the Office of Management and Budget, headed a White House task force assigned to study the proposals.</p>
+
+<p>Several of the 20 requests involved reopening of treaty negotiations.  The government said treaties are signed only with foreign governments and that Indians lost the right to negotiate new treaties when they were granted citizenship in 1924.  Land reforms sought on reservations already are Nixon policy, the statement said.</p>
+
+<p>Adams said the answer &quot;reflects their incomprehension and a hostile attitude.  It ignores at the outset the simple fact that the TBT was a repudiation of claims of progress.&quot;</p>
+
+<p>A government source said the answer represented administration-wide response and agreed that it as generally negiative, but he hadded, &quot;there's not many of the proposals we could say 'yes' to.&quot;  The hard line cover note was &quot;a reminder that you can't get away with mass destruction,&quot; he added.</p>
+
+<p>The government has contended that the Indians who occupied the BIA bulding during the first week of November were largely young urban residents who were not representative of the majority of reservation Indians.</p>
+
+<p>BIA is still reeling from the destructive takeover and the administrative shakeup that followed it.  The government's top three INdian affairs executives are biding their time before their dismissals become effective Jan. 20.</p>
+
+<p>President Nixon has accepted the resignations of Harrison Loesch, assistant secretary of Interior for Indian affairs, BIA Commissioner Louis R. Bruce Jr., and Deputy Commissioner John O. Crow.  The resignations of Loesch and Crow were among demands of the protesters, but Bruce had their support.</p>
+
+<p>The duties of all three men have been assumed temporarily by Richard S. Bodman, Interior's assistant secretary for management and budget.  Bodman reportedly is anxious to give up the extra responsibilities.</p>
+
+<p>The BIA building itself has changed too.  ABout 175 of its former occupants now work out of temporary quarters at 3800 Newark St. NW, while another 225 have returned to the main building at 1951 Constitution Ave. NW.  Nearly all of the headquarters employees enjoyed a three-week administrative leave while awaiting repair of the structure.  Damage estimates ranged up to $2 million.</p>
+
+<p>Whether the BIA will be restructured in the second Nixon term is unknown, but reports this week indicated that the operating head of the agency may be called administrator, rather that commissioner.  One name being mentioned for the top spot is that of William Rogers, a deputy assistant secretary of the Interior.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

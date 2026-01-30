@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div id="content">
+<div class="bodyContent">
+
+{{ partial "doc-nav.html" . }}
+
+<h2>{{ .Title }}</h2>
+
+{{ .Content }}
+
+<div class="document-list">
+{{ range .Pages.ByDate.Reverse }}
+  <article class="document-item">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p class="meta">
+      {{ with .Params.source }}<strong>Source:</strong> {{ . }} | {{ end }}
+      {{ with .Date }}<strong>Date:</strong> {{ .Format "January 02, 2006" }} | {{ end }}
+      {{ with .Params.page }}<strong>Page:</strong> {{ . }}{{ end }}
+    </p>
+    {{ with .Summary }}
+    <p>{{ . }}</p>
+    {{ end }}
+  </article>
+{{ end }}
+</div>
+
+</div>
+</div>
+{{ end }}

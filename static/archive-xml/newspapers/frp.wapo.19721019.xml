@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">300 Indians Protest Proposed Fund Cut</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p>Publicly available electronic document</p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">300 Indians Protest Proposed Fund Cut</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Washington Post</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-10-19">19 October 1972</date>
+<biblScope type="page">A8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="pA8"/>
+
+
+<div1 type="body">
+
+<head type="main">300 Indians Protest Proposed Fund Cut</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A8</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  October 19, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>The leader of the American Indian Movement says "it may take another Watts" before the United States realizes "the plight of the American Indians."</p>
+
+<p>The reference to racial disorders which shook the Watts section of Los Angeles in the 1960s was made by Dennis Banks, as some 300 Indians traveled what AIM leaders call the "trail of broken treaties" to Washington D.C. to protest proposed cuts in the budget of the Bureau of Indian Affairs.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div id="content">
+<div class="bodyContent">
+
+{{ partial "doc-nav.html" . }}
+
+<h2>{{ .Title }}</h2>
+
+{{ .Content }}
+
+<p><a href="{{ .Section | relURL }}">← Back to {{ .Section | humanize }}</a></p>
+
+</div>
+</div>
+{{ end }}

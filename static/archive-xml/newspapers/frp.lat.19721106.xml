@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.lat.19721106">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Judge Orders Indians Evicted</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">Judge Orders Indians Evicted</title>
+<title level="a" type="sub">'When We Go, Building Goes,' Leader Says</title>
+<title level="a" type="sub"></title>
+<title level="j">Los Angeles Times</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-11-06">06 November 1972</date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-05</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="p1"/>
+
+<div1 type="body">
+
+<head type="main">Judge Orders Indians Evicted</head>
+<head type="sub">'When We Go, Building Goes,' Leader Says</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Los Angeles Times</hi>, p. 1</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 06, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>A federal judge today ordered the government to retake the Bureau of Indian Affairs held since Thursday by Indian demonstrators and to arrest all protesters who refused to comply with his order.</p>
+
+<p>Shortly before the judge's order, the Indians said they would fight any effort to evict them and would destroy the building if the government threatened to retake it.</p>
+
+<p>U.S. Dist. Judge John Pratt said his order would be effective as of 6 p.m. EST (3 p.m. PST).  He said the government would be given a "limited discretion as to its timing" on retaking the building.</p>
+
+<p>"The government is going to retake that building and as soon as they (the Indians) comply, the better off they will be," Pratt said.</p>
+
+<head type="sub">Attorney to Appeal</head>
+
+<p>Jim Heller, attorney for the Indian protesters, announced he would appeal Judge Pratt's decision to the U.S. Circuit Court of the District of Columbia.  However, Pratt refused a request by Heller that he stay his order pending an appeal.</p>
+
+<p>Heller, arguing against an arrest order and a finding of contempt, said the BIA building "has no other purpose but to serve these people."</p>
+
+<p>He said there was "a dreadful possibility of bloodshed," and added:</p>
+
+<p>"Time is something we have.  Blood is something we cannot afford."</p>
+
+<p>The Indians emphasized their war declaration as the deadline passed for what they said was a Department of Interior order to evacuate or be thrown out.</p>
+
+<head type="sub">Clubs and Tomahawks</head>
+
+<p>"They can have the building after it is gutted.  When we go, the building goes," said Russell Means, a leader of the Trail of Broken Treaties Caravan, which took over the building.  He said approximately 400 Indians in the building spent Sunday night planning their defense against what they said would be a police attempt to storm their makeshift barricades.</p>
+
+<p>About 35 Indians armed with clubs and makeshift tomahawks stood at the building's entrance near a barricade formed by several crossed tepee poles.  Smaller, sharpened poles jutted out from the barricade.</p>
+
+</div1>
+<milestone unit="smallbar"/>
+
+</body>
+</text>
+</TEI>
