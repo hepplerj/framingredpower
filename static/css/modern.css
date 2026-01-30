@@ -34,6 +34,9 @@
   --font-serif: Georgia, "Times New Roman", Times, serif;
   --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
 
+  /* Performance */
+  font-display: swap;
+
   /* Spacing */
   --spacing-xs: 0.5rem;
   --spacing-sm: 1rem;
@@ -345,6 +348,83 @@ pre code {
 }
 
 /* ============================================
+   Document Filtering & Controls
+   ============================================ */
+
+.document-controls {
+  margin-bottom: var(--spacing-lg);
+  padding: var(--spacing-md);
+  background: #f9f9f9;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--color-border);
+}
+
+.filter-bar {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: var(--spacing-md);
+  align-items: end;
+}
+
+@media (max-width: 768px) {
+  .filter-bar {
+    grid-template-columns: 1fr;
+  }
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.filter-group label {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--color-text-heading);
+}
+
+.filter-group input[type="search"],
+.filter-group select {
+  padding: 0.75rem;
+  border: 2px solid var(--color-border);
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  transition: border-color var(--transition-speed);
+}
+
+.filter-group input[type="search"]:focus,
+.filter-group select:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(113, 1, 0, 0.1);
+}
+
+.btn-secondary {
+  padding: 0.75rem var(--spacing-md);
+  background: white;
+  border: 2px solid var(--color-primary);
+  color: var(--color-primary);
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition-speed);
+}
+
+.btn-secondary:hover {
+  background: var(--color-primary);
+  color: white;
+}
+
+.results-count {
+  margin-top: var(--spacing-sm);
+  padding: var(--spacing-xs) 0;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+/* ============================================
    Archive & Document Pages
    ============================================ */
 
@@ -440,6 +520,39 @@ pre code {
 
 .copyStmt a {
   color: #ccc;
+}
+
+/* ============================================
+   Performance & Progressive Enhancement
+   ============================================ */
+
+/* Lazy loaded images */
+img[loading="lazy"] {
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+img[loading="lazy"].loaded,
+img[loading="lazy"]:not([src]) {
+  opacity: 1;
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Optimize rendering */
+.document-list,
+.document-item {
+  contain: layout style paint;
 }
 
 /* ============================================

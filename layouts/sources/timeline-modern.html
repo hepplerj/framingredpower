@@ -1,0 +1,121 @@
+{{ define "main" }}
+<div id="content">
+<div class="bodyContent">
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<!-- TimelineJS 3 -->
+<link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+
+<div id='timeline-embed' style="width: 100%; height: 600px; margin: 2rem 0;"></div>
+
+<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+<script>
+  // Convert papercoverage.xml to TimelineJS format
+  // For now, we'll create a simple timeline. You can enhance this to parse your XML data.
+
+  var timelineData = {
+    "title": {
+      "text": {
+        "headline": "Trail of Broken Treaties",
+        "text": "<p>Key events from October 1972 to March 1973</p>"
+      }
+    },
+    "events": [
+      {
+        "start_date": {
+          "year": "1972",
+          "month": "10",
+          "day": "5"
+        },
+        "text": {
+          "headline": "Indians to Drive to Capital",
+          "text": "<p>Indian leaders disclosed plans for automobile caravans to the nation's capital. Vernon Bellecourt announced seven separate caravans starting from Seattle, San Francisco, Los Angeles and Canadian cities.</p>"
+        },
+        "group": "Planning"
+      },
+      {
+        "start_date": {
+          "year": "1972",
+          "month": "10",
+          "day": "31"
+        },
+        "text": {
+          "headline": "Caravans Arrive in Washington",
+          "text": "<p>The Trail of Broken Treaties caravans arrived in Washington D.C. on the eve of the presidential election.</p>"
+        },
+        "group": "Arrival"
+      },
+      {
+        "start_date": {
+          "year": "1972",
+          "month": "11",
+          "day": "2"
+        },
+        "text": {
+          "headline": "BIA Building Occupied",
+          "text": "<p>After housing arrangements fell through, AIM leaders and activists occupied the Bureau of Indian Affairs headquarters building.</p>"
+        },
+        "group": "Occupation"
+      },
+      {
+        "start_date": {
+          "year": "1972",
+          "month": "11",
+          "day": "3"
+        },
+        "text": {
+          "headline": "National Media Coverage Begins",
+          "text": "<p>The occupation generated instant nationwide headlines in newspapers and television, providing AIM with a platform to disseminate their message.</p>"
+        },
+        "group": "Media"
+      },
+      {
+        "start_date": {
+          "year": "1972",
+          "month": "11",
+          "day": "9"
+        },
+        "text": {
+          "headline": "Occupation Ends",
+          "text": "<p>After a week of negotiations, protesters agreed to leave the BIA building. The occupation had drawn significant national attention to Indian issues.</p>"
+        },
+        "group": "Resolution"
+      },
+      {
+        "start_date": {
+          "year": "1973",
+          "month": "2",
+          "day": "27"
+        },
+        "text": {
+          "headline": "Wounded Knee Occupation Begins",
+          "text": "<p>AIM activists began the occupation of Wounded Knee, South Dakota, building on momentum from the Trail of Broken Treaties.</p>"
+        },
+        "group": "Aftermath"
+      }
+    ]
+  };
+
+  var options = {
+    font: 'georgia-helvetica',
+    timenav_position: 'bottom',
+    initial_zoom: 2,
+    hash_bookmark: true
+  };
+
+  var timeline = new TL.Timeline('timeline-embed', timelineData, options);
+</script>
+
+<div class="timeline-note" style="margin-top: 2rem; padding: 1rem; background: #f9f9f9; border-radius: 4px; border-left: 4px solid #710100;">
+  <h3>About This Timeline</h3>
+  <p>This timeline highlights major events in the Trail of Broken Treaties and subsequent occupation of the BIA headquarters. For a complete view of all newspaper coverage dates, see the <a href="/archive/">document archive</a>.</p>
+  <p><strong>Note:</strong> This modern timeline replaces the original SIMILE Timeline with <a href="https://timeline.knightlab.com/" target="_blank" rel="noopener">TimelineJS 3</a>, which offers better performance, mobile support, and accessibility.</p>
+</div>
+
+</div>
+</div>
+{{ end }}

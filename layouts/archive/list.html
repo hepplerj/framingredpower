@@ -1,20 +1,22 @@
 {{ define "main" }}
-<div id="content">
+<section id="content" lang="en">
 <div class="bodyContent">
 
 {{ partial "doc-nav.html" . }}
 
-<h2>{{ .Title }}</h2>
+<header>
+  <h1>{{ .Title }}</h1>
+</header>
 
 {{ .Content }}
 
-<div class="document-list">
+<div class="document-list" role="list">
 {{ range .Pages.ByDate.Reverse }}
-  <article class="document-item">
-    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <article class="document-item" role="listitem">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p class="meta">
       {{ with .Params.source }}<strong>Source:</strong> {{ . }} | {{ end }}
-      {{ with .Date }}<strong>Date:</strong> {{ .Format "January 02, 2006" }} | {{ end }}
+      {{ with .Date }}<strong>Date:</strong> <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "January 02, 2006" }}</time> | {{ end }}
       {{ with .Params.page }}<strong>Page:</strong> {{ . }}{{ end }}
     </p>
     {{ with .Summary }}
@@ -25,5 +27,8 @@
 </div>
 
 </div>
-</div>
+</section>
+
+<!-- Document filtering script -->
+<script src="/js/document-filter.js"></script>
 {{ end }}

@@ -1,15 +1,19 @@
 {{ define "main" }}
-<div id="content">
+<article id="content" lang="en">
 <div class="bodyContent">
 
 {{ partial "doc-nav.html" . }}
 
-<h2>{{ .Title }}</h2>
+<header>
+  <h1>{{ .Title }}</h1>
+</header>
 
 {{ .Content }}
 
-<p><a href="{{ .Section | relURL }}">← Back to {{ .Section | humanize }}</a></p>
+<nav aria-label="Document navigation">
+  <p><a href="{{ .Section | relURL }}">← Back to {{ .Section | humanize }}</a></p>
+</nav>
 
 </div>
-</div>
+</article>
 {{ end }}
