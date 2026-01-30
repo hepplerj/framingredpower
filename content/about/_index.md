@@ -25,7 +25,6 @@ Lincoln, NE 68588<br>
 
 <h4><a href="mailto: jason.heppler@huskers.unl.edu">Comments?</a><br></h4>
 </p>
-<p>The project is best viewed in Firefox 3.0 or higher.</p>
 
 <h4>Copyright and Conditions of Use</h4>
 

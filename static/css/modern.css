@@ -1,0 +1,547 @@
+/*
+ * Framing Red Power - Modern Responsive Design
+ * Author: Jason Heppler
+ * Updated: 2026
+ *
+ * Brand Colors:
+ * - Primary Red: #710100
+ * - Background Tan: #D6D1B1
+ * - Text Dark: #2f2827
+ */
+
+/* ============================================
+   CSS Reset & Base Styles
+   ============================================ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --color-primary: #710100;
+  --color-primary-hover: #8b0100;
+  --color-bg-body: #D6D1B1;
+  --color-bg-content: #ffffff;
+  --color-text-primary: #100805;
+  --color-text-heading: #2f2827;
+  --color-text-muted: #666666;
+  --color-border: #cccccc;
+  --color-shadow: rgba(0, 0, 0, 0.1);
+
+  /* Typography */
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: Georgia, "Times New Roman", Times, serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+
+  /* Layout */
+  --max-width: 1200px;
+  --max-width-content: 800px;
+  --border-radius: 4px;
+
+  /* Transitions */
+  --transition-speed: 0.2s;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-sans);
+  background: var(--color-bg-body);
+  color: var(--color-text-primary);
+}
+
+/* ============================================
+   Typography
+   ============================================ */
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 var(--spacing-sm);
+  font-family: var(--font-serif);
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--color-text-heading);
+}
+
+h1 { font-size: clamp(2rem, 5vw, 2.5rem); }
+h2 { font-size: clamp(1.75rem, 4vw, 2rem); }
+h3 { font-size: clamp(1.5rem, 3vw, 1.75rem); }
+h4 { font-size: clamp(1.25rem, 2.5vw, 1.5rem); }
+h5 { font-size: 1.25rem; }
+h6 { font-size: 1.125rem; }
+
+p {
+  margin: 0 0 var(--spacing-sm);
+  line-height: 1.7;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color var(--transition-speed), text-decoration var(--transition-speed);
+}
+
+a:hover,
+a:focus {
+  color: var(--color-primary-hover);
+  text-decoration: underline;
+}
+
+a:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 700;
+}
+
+blockquote {
+  margin: var(--spacing-md) 0;
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: #f5f5f5;
+  border-left: 4px solid var(--color-primary);
+  font-style: italic;
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  padding: 0.125rem 0.25rem;
+  background: #f5f5f5;
+  border-radius: var(--border-radius);
+}
+
+pre {
+  padding: var(--spacing-sm);
+  background: #f5f5f5;
+  border-radius: var(--border-radius);
+  overflow-x: auto;
+}
+
+pre code {
+  padding: 0;
+  background: none;
+}
+
+/* ============================================
+   Layout
+   ============================================ */
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--color-primary);
+  color: white;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  text-decoration: none;
+  z-index: 100;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+#mainBody {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  background: white;
+  box-shadow: 0 0 40px var(--color-shadow);
+}
+
+/* ============================================
+   Header & Banner
+   ============================================ */
+
+#banner {
+  background: linear-gradient(135deg, var(--color-primary) 0%, #8b0100 100%);
+  color: white;
+  padding: var(--spacing-lg) var(--spacing-md);
+  text-align: center;
+}
+
+#banner span {
+  font-family: var(--font-serif);
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
+  font-weight: 700;
+  line-height: 1.4;
+  display: block;
+}
+
+/* ============================================
+   Navigation
+   ============================================ */
+
+#menu {
+  background: #f8f8f8;
+  border-bottom: 3px solid var(--color-primary);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+#main_menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0;
+}
+
+#main_menu li {
+  margin: 0;
+}
+
+#main_menu a {
+  display: block;
+  padding: var(--spacing-sm) var(--spacing-md);
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  transition: all var(--transition-speed);
+  border-bottom: 3px solid transparent;
+}
+
+#main_menu a:hover,
+#main_menu a:focus {
+  background: #e8e8e8;
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+#main_menu li#current a,
+#main_menu li.active a {
+  background: white;
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
+}
+
+/* Mobile menu toggle (for future hamburger implementation) */
+.menu-toggle {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  #main_menu {
+    flex-direction: column;
+  }
+
+  #main_menu a {
+    text-align: center;
+    border-bottom: 1px solid var(--color-border);
+  }
+}
+
+/* ============================================
+   Main Content
+   ============================================ */
+
+#content {
+  flex: 1;
+  padding: var(--spacing-md);
+}
+
+.bodyContent {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+}
+
+/* Two-column layout for narrative pages */
+.twoCol {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  gap: var(--spacing-lg);
+  align-items: start;
+}
+
+@media (max-width: 992px) {
+  .twoCol {
+    grid-template-columns: 1fr;
+  }
+
+  #leftCol {
+    order: 2;
+  }
+
+  #rightCol {
+    order: 1;
+  }
+}
+
+/* Left sidebar (narrative nav) */
+#leftCol {
+  position: sticky;
+  top: 80px;
+}
+
+#leftCol h4 {
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-sm);
+  padding-bottom: var(--spacing-xs);
+  border-bottom: 2px solid var(--color-border);
+}
+
+#leftCol ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#leftCol ul li {
+  margin-bottom: var(--spacing-xs);
+}
+
+#leftCol ul ul {
+  margin-left: var(--spacing-sm);
+  margin-top: var(--spacing-xs);
+}
+
+#leftCol a {
+  display: block;
+  padding: 0.375rem 0.5rem;
+  border-radius: var(--border-radius);
+  transition: all var(--transition-speed);
+}
+
+#leftCol a:hover {
+  background: #f5f5f5;
+  text-decoration: none;
+  padding-left: 0.75rem;
+}
+
+.keywords ul.analysis li {
+  font-size: 0.9rem;
+}
+
+/* Right content area */
+#rightCol {
+  min-width: 0; /* Prevent grid blowout */
+}
+
+/* ============================================
+   Archive & Document Pages
+   ============================================ */
+
+.document-list {
+  display: grid;
+  gap: var(--spacing-md);
+}
+
+.document-item {
+  padding: var(--spacing-md);
+  background: #f9f9f9;
+  border-left: 4px solid var(--color-primary);
+  border-radius: var(--border-radius);
+  transition: all var(--transition-speed);
+}
+
+.document-item:hover {
+  background: #f5f5f5;
+  transform: translateX(4px);
+}
+
+.document-item h3 {
+  margin: 0 0 var(--spacing-xs);
+  font-size: 1.25rem;
+}
+
+.document-item .meta {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin-bottom: var(--spacing-xs);
+}
+
+.document-item .meta strong {
+  color: var(--color-text-primary);
+}
+
+.document-metadata {
+  background: #f9f9f9;
+  padding: var(--spacing-md);
+  border-radius: var(--border-radius);
+  margin-bottom: var(--spacing-md);
+}
+
+.document-metadata p {
+  margin-bottom: var(--spacing-xs);
+  font-size: 0.95rem;
+}
+
+.document-metadata strong {
+  color: var(--color-primary);
+}
+
+/* ============================================
+   Footer
+   ============================================ */
+
+#footcolor {
+  background: #2f2827;
+  color: white;
+  margin-top: auto;
+}
+
+#footer {
+  padding: var(--spacing-lg) var(--spacing-md);
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+}
+
+#footer ul {
+  list-style: none;
+  margin: 0 0 var(--spacing-md);
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-md);
+  justify-content: center;
+}
+
+#footer a {
+  color: #D6D1B1;
+}
+
+#footer a:hover {
+  color: white;
+}
+
+.copyStmt {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #aaa;
+  margin: 0;
+}
+
+.copyStmt a {
+  color: #ccc;
+}
+
+/* ============================================
+   Utilities
+   ============================================ */
+
+.text-center {
+  text-align: center;
+}
+
+.text-muted {
+  color: var(--color-text-muted);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* ============================================
+   Responsive Tables
+   ============================================ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--spacing-md) 0;
+}
+
+th, td {
+  padding: var(--spacing-xs) var(--spacing-sm);
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+
+th {
+  background: #f5f5f5;
+  font-weight: 700;
+  color: var(--color-text-heading);
+}
+
+@media (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}
+
+/* ============================================
+   Print Styles
+   ============================================ */
+
+@media print {
+  #menu,
+  #footer,
+  #leftCol {
+    display: none;
+  }
+
+  #mainBody {
+    box-shadow: none;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+  }
+}
+
+/* ============================================
+   Dark Mode Support (Optional)
+   ============================================ */
+
+@media (prefers-color-scheme: dark) {
+  /* Uncomment to enable dark mode
+  :root {
+    --color-bg-body: #1a1a1a;
+    --color-bg-content: #2a2a2a;
+    --color-text-primary: #e0e0e0;
+    --color-text-heading: #f0f0f0;
+    --color-border: #444444;
+  }
+
+  #mainBody {
+    background: var(--color-bg-content);
+  }
+
+  .document-item,
+  .document-metadata,
+  #leftCol a:hover {
+    background: #333333;
+  }
+  */
+}

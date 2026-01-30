@@ -1,14 +1,25 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 {{ partial "head.html" . }}
 <body>
-<div id="mainBody">
-  {{ partial "header.html" . }}
-  {{ partial "navigation.html" . }}
+  <a href="#main-content" class="skip-link">Skip to main content</a>
 
-  {{ block "main" . }}{{ end }}
+  <div id="mainBody">
+    <header role="banner">
+      {{ partial "header.html" . }}
+    </header>
 
-  {{ partial "footer.html" . }}
-</div>
+    <nav role="navigation" aria-label="Main navigation">
+      {{ partial "navigation.html" . }}
+    </nav>
+
+    <main id="main-content" role="main">
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer role="contentinfo">
+      {{ partial "footer.html" . }}
+    </footer>
+  </div>
 </body>
 </html>

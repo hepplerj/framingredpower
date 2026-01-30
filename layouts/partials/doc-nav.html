@@ -1,4 +1,5 @@
-<center>
+<nav class="document-type-nav text-center" aria-label="Document types">
+  <h3 class="sr-only">Browse by Document Type</h3>
   <p><strong>Document Type</strong></p>
   <p>
     <a href="/archive/">All</a> ({{ len .Site.RegularPages }}) |
@@ -13,4 +14,4 @@
     <a href="/archive/speeches/">Speeches</a> ({{ len (where .Site.RegularPages "Section" "speeches") }}) |
     <a href="/archive/documents/">Activist Documents</a> ({{ len (where .Site.RegularPages "Section" "documents") }})
   </p>
-</center>
+</nav>

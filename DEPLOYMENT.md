@@ -27,10 +27,17 @@ Access at: http://localhost:1313
 
 ### Production Build
 ```bash
+# Option 1: Use the build script (recommended)
+./build.sh
+
+# Option 2: Manual build
 hugo --minify
+npx -y pagefind --site public
 ```
 
 Output directory: `public/`
+
+The build script automatically runs Hugo and Pagefind to index the site for search.
 
 ## Deployment Options
 
