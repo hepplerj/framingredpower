@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.minntrib.19721104">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Protesting Indians refuse to leave BIA building despite court order</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">Protesting Indians refuse to leave BIA building despite court order</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Minneapolis Tribune</title>
+<editor></editor>
+<pubPlace>Minneapolis, MN</pubPlace>
+<publisher></publisher>
+<date value="1972-11-04">04 November 1972</date>
+<biblScope type="page"></biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-11-14</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="p"/>
+
+
+<div1 type="body">
+
+<head type="main">Protesting Indians refuse to leave BIA building despite court order</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Minneapolis Tribune</hi>, p. </p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 04, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+	<p>Militant American Indian leaders, refusing to obey a court order to vacate Bureau of Indian Affairs (BIA) headquarters, armed themselves with makeshift weapons Friday night and vowed not to leave without a fight.</p>
+
+	<p>Given an hour's grace period to comply with the order, the several hundred Indian protesters occupying the building near the White House instead used the time to clear the quarters of women and children and set up barricades.</p>
+
+	<p>One leader, Dennis Banks of the American Indian Movement, exhorted what he called his "swiftest and strongest braves" to "do anything you have to do" to evade being taken away.</p>
+
+	<p>The occupying force used broken-up furniture, electrical cable and any object at hand to barricade stairways and corridors in preparation to repulse the <sic>seige</sic> they expected. Many were armed with small missiles and sharp objects.  At various times reporters spotted a gun or two.  Federal authorities acting under Interior Department direction massed a strike force of U.S. marshals, metropolitan police, U.S. park police and officers of the Government Services Administration guard service.</p>
+
+	<p>Indian Commissioner Louis Bruce said he would stay in his office but added that he would not participate should any fighting take place between Indians and marshals.</p>
+
+	<p>"<sic>i've</sic> [sic] been trying to stop this," Bruce said. "I was concerned about housing for all the people and I was hoping the group might decide to leave peacefully and maybe this might have brought about more services (for the Indians here)."</p>
+
+	<p>Earlier in the evening intensive efforts to negotiate a way out of the incipient confrontation apparently broke down. They included a conference at the White House with administration officials by lawyer Terrence Sidley, the attorney for the Native American Legal Defense and Educational Fund.</p>
+
+	<p>The immediate issue was whether the Indian group would leave the BIA building, which they had occupied for more than 24 hours, and accept alternate quarters the federal government said it would provide. While leaders at first agreed to go, they apparently became suspicious of the government's intentions and changed their minds.</p>
+
+	<p>The protest grew militant Thursday when the group, seeking to dramatize their demands for an overhaul of federal programs affecting their people, took over the five-story building and evicted its government worker occupants.</p>
+
+	<p>The Indians gathered In Washington for the Trail of Broken Treaties Caravan to dramatize what they called their fight for survival in white America.</p>
+
+	<p>One BIA official estimated there were about 400 protesters in the BIA building and outside on the lawn at noon yesterday.  Officials said the demonstrators had caused about $250,000 damage to the building.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

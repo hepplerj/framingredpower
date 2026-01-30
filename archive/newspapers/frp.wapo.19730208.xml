@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19730208">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indians Without Jobs</title>
+<title type="sub"></title>
+<author n="Schifter, Richard">Richard Shifter</author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p>Publicly available electronic document</p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+
+<title level="a" type="main">Indians Without Jobs</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Washington Post</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1973-02-08">08 February 1973</date>
+<biblScope type="page">A22</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-05-16</date>
+
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+
+<div1 type="body">
+
+<head type="main">Indians Without Jobs</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A22</p>
+
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  February 8, 1973</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  Richard Schifter</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>CRITICS OF the &quot;Trail of Broken Treaties Caravan&quot; claim that the men and women who occupied and destroyed the premesis of the Bureau of Indian Affairs last November wer &quot;city Indians&quot; totally alienated from reservation communities.  Other observers have argued that these men and women were authentic spokesmen for Indian grievances</p>
+
+<p>In a sense both of these observations are correct.  Many of the members of the Trail of Broken Treaties Caravan came from the cities.  Few, if any, were duly authorized spokesmen of their tribes.  Tribal leaders by and large disapproved of the destruction the caravan wrought in the Indian Bureau.  But there is no doubt that viewing the pictures of bureau files and records in shambles gave some feeling of satisfaction to a good many reservation residents who would not themselves have been prepared to occupy and destroy a federal installation.</p>
+
+<p>Why do Indian people feel so deeply frustrated?  Why are they prepared to vent these frustrations on the federal agency whose assigned task it is to assist them?</p>
+
+<p>During the last six years we have seen a variety of federal legislative program suggestions in the field of Indian policy.  Both Secretary of the Interior Udall in 1967, and President Nixon, in 1970, submitted packages of Indian bills to the Congress.  (The wo packages, incidentally, did not differ materially from each other.)  Congress has failed to act on them and that is regrettable, as a number of these legislative recommendations could be of value.  But anyone who believes that enactment of any or all of these proposals would significantly alter the spirit of despair and frustration in the Indian country is sadly mistaken.</p>
+
+<p>Washington is a government town and its officialdom thinks in terms of bureaucratic abstractions.  The administration's Indian program focuses on such abstractions: Should tribal governments or federal officials operate reservation schools?  Should the department of Justice and the Interior or an independent Indian trust counsel authority have responsibility for litigating Indian water rights?  Should all Indian tribes be allowed to enter into 99-year leases of their land?  Whatever the answers which Congress ultimately supplies to these questions, the average reservation Indian's life, his sense of frustration, will not be significantly affected.</p>
+
+<p>For the single most important problem of the Indian country is unemployment, all-pervading, debilitating, chronic large-scale unemployment.  At the depth of the great depression, when our country's condition was felt to be truly desperate, the rate of male unemployment reached 25 per cent.  In the Indian country, by comparison, we experience today as an average unemployment rate of approxmiately 40 per cent.  It has been at this or at higher levels for decades.</p>
+
+<p>If anyone ever needed proof that the need to be producive and creative is not one merely instilled by our prevailing WASP culture but is a basic human need, one can find it on our Indian reservations.  There we herded Indian people in the nineteenth century, to get them out of the way of the settlers of the West.  No serious thought was given to providing a viable economic base for these hunters and fishermen who had overnight been deprived of their hunting and fishing grounds.  Adjusting to a new culture, a new environment, to new modes of living and earning a livelihood, they have desperately sought for an alternative to the dole.  Only rarely have they found it.</p>
+
+<p>When I first visited Indian reservations in 1951, I heard uniformly favorable comments about a federal program which by then had been dead for ten years, the Civilian Conservation Corps.  It had brought to the reservations what its residents wanted most: jobs.  Throughout the last 12 years, during which Indians have been inundated with a variety of federal programs, whatthey have looked for in each instance, in examining each program proposal, has been the same: jobs.  The Work Acceleration Program of 1962, the employment programs of the OEO, and the Emergency Employment Act of 1971 were all greeted by an enthusiastic Indian response.  (In the early years of OEO one of my Indian friends asked me why that agency did not concentrate on jobs for family heads instead of &quot;fooling around&quot; with a variety of other programs.  I explained what I had been told by a high administration official: &quot;They don't just want to organize another WPA.&quot;  To which my Indian friend responded: &quot;Why not?&quot;  Why not, indeed!  But these programs have been limited in scope and often short in duration.  If we really wanted to deal with the root causes of the problem which was so forcefully brought to our attention during the early November days of 1972, we need to do no more than enact a comprehensive Indian work program.</p>
+
+<p>If Indians want to find work, if might be asked, why don't they leave the reservation and look for jobs in the cities?  Or, why can't private industry provide jobs on the reservations?  A brief answer to these questions is that Indian relocation has been tried (in the 1950's) and has certainly not solved the problems of reservation communities and that past experience shows that a private development effort will not make a significant dent in as massive an unemployment problem as that which exists on our Indian reservations.</p>
+
+<p>While massive in the setting of the reservations, the problem of Indian unemployment is relatively insignificant when compared with the operation of our trillion dollar economy.  To effect a significant change in the life of reservation communities, a work program which would create about 30,000 jobs is needed.  The gross expense of such a program would not exceed $150,000,000.  Savings in welfare assistance, aid to dependent children, and a variety of other social programs would reduce the net cost to the taxpayer significantly below the amount appropriated to fund the Indian works program.  It is a price which we could easily pay if we truly wanted to attain the objective of lifting the cloud of despair which now hangs over every Indian reservation in our land.</p>
+
+<p>How would these 30,000 Indians be employed?  A good many of them could engage in conservation work, others in the development of recreation facilities, others still as aides in schools and hospitals, thus improving the quality of these public services.  Will they be indefinitely on the federal payroll?  I don't think so.  I believe that once an employment economy has been established on Indian reservations, the private sector will begin to grow and ultimately become dominant.  At any rate, it's worth a try.  It surely is a resonable alternative to another generation of paper-shuffling and sloganeering in the government and utter misery in the Indian country, an alternative to other pointless and fruitless acts of destruction.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.ct.19730201">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Three Aides Fired at Indian Bureau"</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">Columnist's aide arrested</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Chicago Tribune</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-12-03">01 February 1973</date>
+<biblScope type="page">7</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-19</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="pA10"/>
+
+
+<div1 type="body">
+
+<head type="main">Columnist's aide arrested</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Chicago Tribune</hi>, p. A10</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  February 02, 1973</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+
+<p>Les Witten, a reporter for syndicated colunist Jack Anderson, was arrested today long with four leaders of an American Indian demonstration that resulted in an estimated $2.3 million loss at the Bureau of Indian Affairs last November.</p>
+
+<p>In addition to Whitten, Federal Bureau of Investigation agents arrested Hank Adams, Anita Collins, Alison Cerri and Daniel Pigeon.  A Justice Department spokesman said all five persons were charged with receiving and possessing stolen government papers.</p>
+
+<p>Miss Collins, Adams, Miss Cerri, and Pigeon are members of the American Indian Movement, which sponsored the six-day Trail of Broken Treaties demonstration at the BIA.</p>
+
+<p>After the Indians left the bureau building Nov. 8, federal officials reported that $750,000 in paintings and artifacts were damaged or stolen.  Officials also reported the theft of thousands of papers dealing with Indian affairs.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

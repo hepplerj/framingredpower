@@ -1,0 +1,10 @@
+/* CSS Document */
+
+div.frontContent {background: white none repeat scroll 0 0; }
+table td.frontContent {text-align: center; font-size: 1.2em; }
+
+div.frontContent h2 {font-variant: small-caps; font-size: 1.9em; padding-bottom: 2px;}
+
+div.frontContent a:link {color: #710100; text-decoration: underline; }
+div.frontContent a:visited {color: #710100; text-decoration: underline;}
+div.frontContent a:hover {color: #710100; text-decoration: none; }

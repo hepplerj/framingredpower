@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.lat.19721208">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">U.S. Inaction Has Cost Indians Millions, Protest Leader Says</title>
+                <title type="sub">Documents Removed From Capital Building Indicate There Was 'Collusion, Graft and Corruption,' He Claims</title>
+                <author n="Jones, Jack">Jones, Jack</author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">U.S. Inaction Has Cost Indians Millions, Protest Leader Says</title>
+                    <title level="a" type="sub">Documents Removed From Capital Building Indicate There Was 'Collusion, Graft and Corruption,' He Claims</title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Los Angeles Times</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1972-12-08">08 December 1972</date>
+                    <biblScope type="page">C1</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-05-19</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">U.S. Inaction Has Cost Indians Millions, Protest Leader Says</head>
+                <head type="sub">Documents Removed From Capital Building Indicate There Was 'Collusion, Gaft and Corruption,' He Claims</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Los Angeles Times</hi>, p. C1</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  December 8, 1972</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  Jack Jones</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>Documents taken from the Bureau of Indian Affairs in <name type="place" reg="Washington, D.C.">Washington, D.C.</name>, during the <date n="1972-11-00">November</date> protest occupation indicate that tribes have lost millions of dollars through BIA failure to enforce reservation right-of-way agreements, a demonstration leader said here <date n="1972-12-07">Thursday</date>.</p>
+                
+                <p>&quot;It may even be in the billions,&quot; declared <name type="person" key="Means, Russell">Russell Means</name>, 33-year-old Sioux who is national coordinator of the <name type="event" key="Trail of Broken Treaties">Trail of Broken Treaties Caravan</name> and a founder of the activist <name type="organization" key="American Indian Movement">American Indian Movement</name>.</p>
+                
+                <p><name type="person" key="Means, Russell">Means</name> held a press conference at the Los Angeles Indian Center as part of what he described as a national tour by 34 <name type="event" key="Trail of Broken Treaties">Caravan</name> members to convey the facts behind Native American grievances to Indians and non-Indians alike.</p>
+                
+                <p>Most of the documents carried out of the BIA during the six-day takeover are in the process of being returned to the federal government after a group of Indians and attorneys sifted through &quot;over a ton of them&quot; during a meeting in <name type="place" reg="Tempe, Arizona">Tempe, Ariz.</name>, <name type="person" key="Means, Russell">Means</name> said.</p>
+                
+                <p>He declined to be specific about what he called evidence in the files of &quot;collusion, graft and corruption&quot; by government officials and elected representatives, but said much of the information will be released before Congress reconvenes in January.</p>
+                
+                <p>He did, however, claim that virtually all of 191 tribal reservations have been affected by BIA failure to enforce agreements dating back to 1934 under which power companies and the like were to pay &#36;5 per 10 feet of easement for the benefit of Indians.</p>
+                
+                <!--Story continues on Page 4, Col. 6-->
+                
+                <p>&quot;We intend to take some state governments to court for those back taxes,quot; said <name type="person" key="Means, Russell">Means</name>, who added that <name type="place" reg="South Dakota">South Dakota</name> already is looking over its records in the matter.</p>
+                
+                <p>Although he conceded that many Indian leaders around the country are not rallying to support the Caravan's demands for federal recognition of Indian sovereignty and enforcement of 371 disregarded treaties as well as belated Senate ratifications of more than 200 treaties negotiated in 1848, <name type="person" key="Means, Russell">Means</name> said:</p>
+                
+                <p>&quot;The purpose of Indians now is to get our minds together and see what we can do for our children.&quot;</p>
+                
+                <p>Asked whether he felt the reported &#36;2 million in damage to the BIA building was justified in the light of subsequent national attention to Indian problems, <name type="person" key="Means, Russell">Means</name> responded:</p>
+                
+                <p>&quot;The destruction of the Indian people is not justified.&quot;</p>
+                
+                <p>He pointed out that he had been against tearing up the BIA, &quot;but I was voted down.&quot;</p>
+                
+                <p>In any event, he noted, one result has been a severe change in the bureau, which the demonstrators had demanded.  &quot;We want the BIA to be more responsive,&quot; he said.</p>
+                
+                <p>With the documents going back to the government, what has happened to the artifacts and paintings also carted away from BIA?</p>
+                
+                <p>&quot;They are now in the hands of Indian people,&quot; <name type="person" key="Means, Russell">Means</name> said.</p>
+                
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

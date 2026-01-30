@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.nyt.19730112">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">An Indian Leader Pledges Return of U.S. Property</title>
+                <title type="sub"></title>
+                <author n=""></author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">An Indian Leader Pledges Return of U.S. Property</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">New York Times</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1973-01-12">12 January 1973</date>
+                    <biblScope type="page">36</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-05-19</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">An Indian Leader Pledges Return of U.S. Property</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">New York Times</hi>, p. 36</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  January 12, 1973</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  N/A</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>The documents, paintings and other property taken from the Bureau of Indian Affairs after its four-day occupation by Indians last <date n="1972-11-00">November</date> will be returned by <date n="1973-02-10">Feb. 10</date>, a negotiator for the group said <date n="1973-01-11">today</date>.</p>
+                
+                <p>Citing &quot;a division in the philosphics and personalities&quot; of members of the coalition of tribes that made up the Trail of Broken Treaties caravan, <name type="person" key="Adams, Hank">Hank Adams</name>, the Indians' principal negotiator with the Government, said at a news conference that he would personally endeavor to obtain and return the pilfered property.</p>
+                
+                <p>Mr. <name type="person" key="Adams, Hank">Adams</name>, an <name type="tribe" key="Assinaboine">Assinaboine</name> from <name type="place" reg="Puyallup, Washington" key="Puyallup, Washington">Puyallup, Wash.</name>, who is a lawyer, also said he had received information that he and seven other caravan leaders would soon be charged by the Government with criminal conspiracy to come to <name type="place" reg="Washington D.C." key="Washington D.C.">Washington</name>, trespass and destroy and steal federal property.  A spokesman for the Federal Bureau of Investigation, which has recovered a small amount of stolen property, refused to comment on the possible arrests.</p>
+                
+                <p>Caravan leaders have maintained that the Indian Bureau was seized by the 1,000 members of the caravan after attempts to obtain food, lodging for participants and interviews with key Government officials failed.</p>
+                
+                <p>According to Mr. <name type="person" key="Adams, Hank">Adams</name>, who said he had returned several thousand dollars worth of documents and paintings, &quot;the intended uses of the documents weren't fully effective.&quot;</p>
+                
+                <p>&quot;We had planned to use them to educate our many tribes and to use them in the news media to document Government impropriety,&quot; he said.</p>
+                
+                <p>&quot;But unfortunately, the announced study of the documents never took place,&quot; Mr. <name type="person" key="Adams, Hank">Adams</name> said.  He said that poor communications and fear of Federal surveillance had resulted in a situation that made it impossible to manage the documents.</p>
+                
+                <p>He said the coalition had splintered and that there was a &quot;great gap in the cohesiveness and coordination of activities.&quot;</p>
+                
+                <p>Mr. <name type="person" key="Adams, Hank">Adams</name> said, however, that there was growing acceptance among Indian nations of the list of 20 concerns forwarded to the White House during the occupation of the bureau.</p>
+                
+                <p>In a series of national, regional and state meetings of Indian tribes during the last two months, officials from more than 150 tribes have endorsed the 20-point proposal in principle and spirit, according to Mr. <name type="person" key="Adams, Hank">Adams</name>.</p>
+                
+                <p>On Tuesday, however, the White House rejected the proposals and criticized the caravan for what officials described as the &quot;wanton destruction&quot; in the bureau building and the theft of property.</p>
+                
+                <p>&quot;As we now proceed to work and look ahead with the entire Indian community, we hope that the theft of its contents will be seen as the distracting and divisive act that it was&#8212;an act which served only to impede progress already being achieved by the Administration and responsible Indian community,&quot; the White House's written response said.</p>
+                
+                <p>One of the primary requests made of the Government was for renewed treaty-making authority and creation of a commission to review treaty commitments and violations.</p>
+                
+                <p>&quot;To call for new treaties is to raise a false issue, unconstitutional in concept, misleading to Indian people and divisionary from the real problems that do need our combined energies,&quot; the White House statement said.</p>
+                
+                <p>It was signed by <name type="person" key="Garment, Leonard">Leonard Garment</name> and <name type="person" key="Carlucci, Frank">Frank Carlucci</name>, who took over negotiations between the Government and the Indians after talks between Interior Department officials reached an impasse.</p>
+                
+                <p>Mr. <name type="person" key="Adams, Hank">Adams</name> said response was virtually devoid of positive content and reflected the hostile attitude that Federal agencies and officials have maintained against independent and creative Indian thought, expressions and proposals.</p>
+                
+                <p>Mr. <name type="person" key="Adams, Hank">Adams</name> said a White House official had told him that the Federal Bureau of Investigation was concluding investigations that would allow it &quot;to get as many of you guys as we can.&quot;</p>
+                
+                <p>Mr. <name type="person" key="Adams, Hank">Adams</name> read from a Department of Interior memorandum about $65,000 in new funds to bolster the security force at the Pine Ridge Indian reservation.  He said the agency had been encouraging and funding the expansion of security forces on reservations to harass caravan members and prevent their holding meetings with tribal members.  The author of the memo could not be reached for comment.</p>
+                    
+                            
+            </div1>
+        </body>
+    </text>
+</TEI>

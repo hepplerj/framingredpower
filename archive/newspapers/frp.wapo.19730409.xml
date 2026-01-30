@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19730409">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">More Papers From BIA Found in N.C.</title>
+                <title type="sub"></title>
+                <author n=""></author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">More Papers From BIA Found in N.C.</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1973-04-09">09 April 1973</date>
+                    <biblScope type="page">A3</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-07-30</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">More Papers From BIA Found in N.C.</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A3</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  April 9, 1973</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  N/A</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>County deputies have seized and turned over to the FBI 29 boxes and file drawers of documents and papers stolen from the Bureau of Indian Affairs in Washington, authorities said today.</p>
+				
+				<p>The documents were found Saturday night in the loft of an old abandoned farmhouse after an anonymous tip.</p>
+				
+				<p>The pile of BIA documents, which appeared not to have been tampered with, was the second such group found in Robeson County recently.  Three weeks ago BIA documents stolen during the occupation of the BIA building in Washington by members of the American Indian Movement were recovered.</p>
+				
+				<p>A vocal group of indians [sic], calling themselves Tuscaroras, have been staging demonstrations and protests here in recent weeks.  The most recent development was a march to Raleigh, where the Indians hope to persuade state officials to call a meeting of the North Carolina Indian Commission to hear their demands.</p>
+				
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

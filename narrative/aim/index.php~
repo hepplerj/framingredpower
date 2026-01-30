@@ -1,0 +1,70 @@
+<?php include("../includes/header.php"); ?>
+
+<?php $thisPage="Analysis"; ?>
+
+</head>
+
+<body>
+
+<div id="mainBody">
+	
+	<?php include("../includes/navigation.php"); ?>
+<!--BEGIN MAIN CONTENT-->
+<div id="content">
+	<div class="bodyContent">
+
+		<div class="twoCol">
+    		<div class="menuSide">
+        		<h4>Analytical Concepts</h4>
+            		<div class="keywords">
+               			<ul>
+                  		  	<li>
+                      		  	<strong><a href="/narrative/">Overview</a></strong>
+                    	    </li>
+                    	    <li>
+                    	    	<strong><a href="/narrative/activism/">Race, Print Media, and Political Activism</a></strong>
+                                <ul class="analysis">
+                                	<li><a href="/narrative/activism/politics-and-image/">Politics and the Image</a></li>
+                                    <li><a href="/narrative/activism/media-1960s/">Media in the 1960s</a></li>
+                                    <li><a href="/narrative/activism/civilrights-media/">Civil Rights and Media Coverage</a></li>
+                                 </ul>
+                     	   	</li>
+                     	   	<li>
+                     		   	<strong><a href="/narrative/aim/">The American Indian Movement</a></strong>
+                                <ul class="analysis">
+                                	<li><a href="/narrative/aim/founding/">Founding Years</a></li>
+                                    <li><a href="/narrative/aim/intellectual-origins/">Intellectual Origins</a></li>
+                                    <li><a href="/narrative/aim/politics-of-media/">AIM and the Politics of Media</a></li>
+                                 </ul> 
+                    	    </li>
+                    	    <li>
+                        		<strong><a href="/narrative/tbt/">The Trail of Broken Treaties</a></strong>
+                               	<ul class="analysis">
+                                	<li><a href="/narrative/tbt/planning/">Planning, the Caravan, and the Breakdown</a></li>
+                                    <li><a href="/narrative/tbt/media-discourse-politics/">Media and the Discourse of Indian Politics</a></li>
+                                    <li><a href="/narrative/tbt/law-and-order/">Identity, Militancy, and the Politics of Law and Order</a></li>
+                                 </ul>
+                      	  	</li>
+                  	  </ul>
+        			</div>
+            </div>
+			<div class="contentSide">
+            	<h2>The American Indian Movement</h2>
+        		<p>The American Indian Movement, founded in Minneapolis, Minnesota, in 1968, learned from other activists of the 1960s about the power of media coverage<!--<span class="mapExtLink">More</span><span class="mapMenuWrap"><span class="mapMenu" style="display: none; font-size: 0.9em;">
+As a local organization, AIM led efforts to halt police mistreatment of Indians and helped Indians with the struggles of urban life, including finding jobs, providing education, and receiving financial loans.
+</span></span>-->. Drawing their inspiration from the Alcatraz occupation, AIM leaders learned that large spectacles had the ability to draw attention to themselves that allowed them to voice their agenda.  AIM proved adept at capturing sustained media coverage, especially Russell Means (Oglala Lakota) who led the capture of the <em>Mayflower</em> replica on Thanksgiving Day in 1970 during ceremonies commemorating the 350th anniversary of the Pilgrims landing, briefly occupied Mount Rushmore in 1971, and led an aborted attempt at seizing the Bureau of Indian Affairs in the same year.  Such talent secured Means's spot in AIM as a chief spokesperson.  He would articulate and epitomize most forcefully the emerging radical posture of AIM.  A native of Pine Ridge who moved to California when his father took a naval shipyards job during World War II, Means was often down the wrong track in life, caught up with drug and alcohol abuse.  Despite his vices, he completed a college degree in accounting and worked for the Rosebud Reservation tribal offices before becoming acquainted with Dennis Banks in 1969.  Though initially skeptical of AIM, he quickly embraced them and founded the second AIM chapter in Cleveland, Ohio, in 1969.</p>
+
+				<p>The group was not without its critics.  Vine Deloria Jr. <!--<span class="mapExtLink">More</span><span class="mapMenuWrap"><span class="mapMenu" style="display: none; font-size: 0.9em;">
+Vine Deloria Jr. was born a Santee Sioux in Martin, South Dakota.  He initially sought to become a minister like his father.  In 1963, he received his theology degree from the Lutheran School of Theology in Rock Island, Illinois, then received his law degree from the University of Colorado in 1970.  Deloria served as the executive director of NCAI from 1964 to 1967.  Beginning in the late 1960s, Deloria issued sharp criticism of federal Indian policy and authored several books on the subject.
+</span></span>-->, who became a leading voice on Native affairs in the 1970s, contended that AIM was too focused on gaining media coverage to manage a successful coalition.  <em>Minneapolis Tribune</em> reporter and Indian activist Gerald Vizenor (Anishinaabe) accusing the leaders of being more interested in personal publicity than confronting the challenges American Indians faced.  Whether one agreed or disagreed with AIM’s publicity tactics, the tactic succeeded.  What had begun as a small, local organization in Minneapolis exploded into a national organization within two years.</p>
+
+				<p>AIM remained largely disconnected from Indian reservations until 1972.  In February, the violent death of Raymond Yellow Thunder in Gordon, Nebraska, drew AIM to the 2,500-person town.  Yellow Thunder had been accosted by a group of white assailants, who abducted and beat the fifty-one year old.  Yellow Thunder died of his wounds several days later.  Acting upon their political connections, Yellow Thunder's sisters called upon AIM to confront the city's officials over what seemed to be tame charges of false imprisonment and involuntary manslaughter.  AIM arrived in Gordon within a week and began staging protests, marches, and boycotting Gordon businesses.  For AIM the Gordon protest could not have been more successful.  Indians residing on reservations had always harbored suspicions about the urban-based movement that fought for causes that had little impact on reservations.  The positive changes in Gordon changed that perception, and AIM began to make inroads among the Lakota people on Pine Ridge.</p>
+			</div>
+		</div>
+	</div>
+</div>
+<!--BEGINNING OF FOOTER-->
+	<?php include("../includes/footer.php"); ?>
+
+</body>
+</html>

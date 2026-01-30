@@ -1,0 +1,76 @@
+<?php include("../includes/header.php"); ?>
+
+<?php $thisPage="Analysis"; ?>
+
+</head>
+
+<body>
+
+<div id="mainBody">
+	
+	<?php include("../includes/navigation.php"); ?>
+	
+<!--BEGIN MAIN CONTENT-->
+<div id="content">
+	<div class="bodyContent">
+
+		<div class="twoCol">
+    		<div class="menuSide">
+        		<h4>Analytical Concepts</h4>
+            		<div class="keywords">
+               			<ul>
+                  		  	<li>
+                      		  	<strong><a href="/narrative/">Overview</a></strong>
+                    	    </li>
+                    	    <li>
+                    	    	<strong><a href="/narrative/activism/">Race, Print Media, and Political Activism</a></strong>
+                                <ul class="analysis">
+                                	<li><a href="/narrative/activism/politics-and-image/">Politics and the Image</a></li>
+                                    <li><a href="/narrative/activism/media-1960s/">Media in the 1960s</a></li>
+                                    <li><a href="/narrative/activism/civilrights-media/">Civil Rights and Media Coverage</a></li>
+                                 </ul>
+                     	   	</li>
+                     	   	<li>
+                     		   	<strong><a href="/narrative/aim/">The American Indian Movement</a></strong>
+                                <ul class="analysis">
+                                	<li><a href="/narrative/aim/founding/">Founding Years</a></li>
+                                    <li><a href="/narrative/aim/intellectual-origins/">Intellectual Origins</a></li>
+                                    <li><a href="/narrative/aim/politics-of-media/">AIM and the Politics of Media</a></li>
+                                 </ul> 
+                    	    </li>
+                    	    <li>
+                        		<strong><a href="/narrative/tbt/">The Trail of Broken Treaties</a></strong>
+                               	<ul class="analysis">
+                                	<li><a href="/narrative/tbt/planning/">Planning, the Caravan, and the Breakdown</a></li>
+                                    <li><a href="/narrative/tbt/media-discourse-politics/">Media and the Discourse of Indian Politics</a></li>
+                                    <li><a href="/narrative/tbt/law-and-order/">Identity, Militancy, and the Politics of Law and Order</a></li>
+                                 </ul>
+                      	  	</li>
+                  	  </ul>
+        			</div>
+            </div>
+			<div class="contentSide">
+            	<h2>Politics and the Image</h2>
+        		<p>Historians have focused their attention on the connections between the Civil Rights Movement and the media, chiefly through television news.  The broadcasted images of police dogs and fire hoses turned against protesters in the South remained fixed in the national consciousness.  Those who consider these movements and similar ones portrayed through television believe them to be key moments where Americans witnessed violence and hatred directed at African Americans.  Such broadcasts compelled white Americans to reconsider segregation in the South.  Reporters, commentators, public officials, and participants in political movements during the 1960s came to understand the power of mass media in shaping public opinion.  The study of the relationship between mass media and the protest movements is important, historian Julian Bond speculates, because &quot;until historians unravel the complex links between the southern freedom struggle and mass media, their understanding of how the Movement functioned, why it succeeded, and when and where it failed will be incomplete.&quot; </p>
+                
+				<p>The media are particularly powerful in shaping people's views of the world, as Todd Gitlin illustrates in his study of the New Left.  Through &quot;selections and omissions, through emphasis and themes,&quot; he argued, mass media are a &quot;significant social force in the forming and delimiting of public assumptions, attitudes, and moods.&quot;   Although media served an important factor in disseminating goals and communicating agendas, Gitlin concluded that the zeal for media coverage drove activists to engage in &quot;newsworthy&quot; events that did not necessarily advance their cause.  Activists struck radical poses and shifted emphasis away from the message, and instead focused on the image—the symbols, slogans, garb, and performances that made up media events.</p>
+             	
+                <p>Television matured as a mainstream news medium in the mid-1950s.  The Kefauver hearings on organized crime, Richard Nixon's &quot;Checkers&quot; speech, and the Army-McCarthy hearings in 1954 were dramatic political events viewed by millions of Americans in front of their television sets.   The big three networks provided national programming nearly twenty-four hours per day by 1970.  Local television stations propagated in major population centers throughout the country (530 were in operation in 1960 and increased to 673 by 1969) and often were affiliated with one of the big three networks.   Each network developed evening news broadcasts covering national events.  Networks planned public-affairs programming to reach audiences and compete for ratings; the Today Show launched in 1952, followed by interview programs like Meet the Press and news-magazine shows such as 60 Minutes.  Networks broke into their programming to broadcast presidential speeches, political conventions, and other national events.  Color television emerged in 1968 when NBC began broadcasting entirely in color, followed by CBS and ABC.  By October color television sets were outselling black and white for the first time.   Over seventy-eight million Americans out of 202 million owned a television, which became the principle source of news for the majority of Americans.</p>
+                
+				<p>Not every American thought television would provide benefits to American politics.  In his 1961 book <em>The Image: A Guide to Psuedo-Events in America</em>, historian Daniel Boorstin argued that the rise of mass media, including advertising and public relations, replaced heroes with celebrities, superseded truth with credibility, and favored personality over character.  Boorstin coined the term &quot;pseudo-event,&quot; an activity that became news not for fundamental reasons but because those who covered the news deemed it so.  The pseudo-event became so pervasive that few areas of news remained an &quot;authentic, uncorrupted, spontaneous event.&quot;  The pervasive reach of media, argued Boorstin, changed the way Americans thought about political democracy.  The public image of politicians superseded what Americans believed of their character or judgment.  National matters were reduced to &quot;trivial dimensions&quot; while peripheral matters like lighting, makeup, and appearance were given prominence.  Boorstin saw this as a threat to representative democracy; when the citizenry can no longer distinguish &quot;between sham and reality,&quot; between an image and truth, the image puts the future of the American republic in jeopardy.</p>
+                
+				<p>The startling rise of television in American culture introduced significant changes to the practice of politics, yet print media remained an important medium of information.  Newspapers had once been fiercely partisan and openly supported political parties throughout the nineteenth century.  In the latter half of the nineteenth century, the ideal of objectivity became a key component in the professionalization of journalism.  Objective journalism separated opinion from reports, and journalists strove to maintain neutrality.</p>   
+
+
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+<!--BEGINNING OF FOOTER-->
+	<?php include("../includes/footer.php"); ?>
+
+</body>
+</html>

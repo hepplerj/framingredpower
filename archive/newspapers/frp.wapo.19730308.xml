@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19730308">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">BIA Shakeup: 189 Out in Cold</title>
+                <title type="sub"></title>
+                <author n="Baker, Donald P.">Donald P. Baker</author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">BIA Shakeup: 189 Out in Cold</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1973-03-08">08 March 1973</date>
+                    <biblScope type="page">A1</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-06-02</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">BIA Shakeup: 189 Out in Cold</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. A1</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  March 8, 1973</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  Donald Baker</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>In a diplapidated temporary building at 3800 Newark St. NW, 189 employees of the Bureau of Indian Affairs work in slow motion, exiled from the main BIA structure downtown.</p>
+                
+                <p>They were dispatched to Tempo 8 last <date n="1972-12-04">Dec. 4</date>, ostensibly to await the repair of BIA headquarters at 1901 Constitution Ave. NW, that had been badly damaged during its occupation by militant Indians <date n="1972-11-02">Nov. 2</date> to <date n="1972-12-08">Nov. 8</date>.</p>
+                
+                <p>By now the main building has been repaired, freshly painted, equipped with new or replacement furnishings, and reoccupied by the administrative staff.  But its top two floors are vacant.</p>
+                
+                <p>&quot;We were exiled to a condemned building,&quot; said the head of a department assigned to the barracks-like structure that had been scheduled for demolition.</p>
+                
+                <p>&quot;Some feel the move was punitive,&quot; he continued.  &quot;The supporters of <name type="person" key="Bruce, Louis R.">Bruce</name> are here and <name type="person" key="Crow, John O.">Crow</name>'s friends are in the<!--story continues on Page A14, Col. 1--> renovated, carpeted, paneled offices downtown.&quot;</p>
+                
+                <p><name type="person" key="Bruce, Louis R.">Louis R. Bruce Jr.</name> was BIA commissioner at the time of the occupation, and <name type="person" key="Crow, John O.">John O. Crow</name>, a long-time BIA employee, was deputy commissioner.  The two men differed on what the government's Indian policy should be.  (<name type="person" key="Bruce, Louis R.">Bruce</name> was sympathetic to the demonstrators' demands, for example, while <name type="person" key="Crow, John O.">Crow</name> urged a hard line against them.)  Both resigned under pressure after the occupation.</p>
+                
+                <p><name type="person" key="Shaw, Carl">Carl Shaw</name>, chief of public information for the BIA, said it is &quot;entirely untrue&quot; that supporters of <name type="person" key="Bruce, Louis R.">Bruce</name> were singled out for transfer.</p>
+                
+                <p>But he did acknowledge that many of those working at Tempo 8 are likely to lose their jobs in the proposed reorganization.</p>
+                
+                <p>&quot;We had a demolished building (last November), and the best way to get people back to work was to send some to other available space,&quot; <name type="person" key="Shaw, Carl">Shaw</name> said.  &quot;In assigning employees to Tempo 9, some consideration was given to the reorganization.  Most of the RIFs (reduction in force) will come from the Tempo.&quot;</p>
+                
+                <p>He said when the reorganization is accomplished, &quot;we eventually will return to one building.&quot;</p>
+                
+                <p>Little orther than routine work is being done, said one GS-15, because &quot;we're cut off.  The mail service is bad.  HEW has repossesed the furniture, so we work, when we do, out of boxes.  Nothing productive is happening here.  People are being paid $36,000 a year to sit around.&quot;</p>
+                
+                <p>&quot;The only hope a lot of people have is <name type="person" key="Franklin, Marvin L.">Marvin</name>, and he's fading fast,&quot; he said.  (<name type="person" key="Franklin, Marvin L.">Marvin L. Franklin</name>, 56, an Oklahoma City oil executive and former chairman of the Iowa Indian antion, was named asssitant to the secretary of the Interior for Indian affairs on <date n="1973-02-06">Feb. 6</date>.)</p>
+                
+                <p><name type="person" key="Franklin, Marvin L.">Franklin</name> visited Tempo 8 the day after his appointment.  He saw typists &quot;sitting at their desks wearing gloves because it was so cold.&quot;  He said the next, worst step would be &quot;back to the teepee.&quot;</p>
+                
+                <p>The new BIA director is aware of the complaints, public affairs spokesman <name type="person" key="Shaw, Carl">Shaw</name> said yesterday, but he is hopeful that problems will be solved with reorganization.  It calls for reducing the Washington staff by 285 employees to 715, and transferring another 50 jobs to the field.</p>
+                
+                <p>One BIA employee noted that while <name type="person" key="Franklin, Marvin L.">Franklin</name> has said the bureau needs to change, he has appointed &quot;three oldline bureaucrats&quot; to be his top aides.</p>
+                
+                <p>So while the reorganization remains in the planning stage, the complaints from Tempo 8 increase.</p>
+                
+                <p>In Room 2624, <name type="person" key="Hicks, Beverly">Beverly Hicks</name>, secretary to <name type="person" key="Cornelius, T.V.">T.V. Cornelius</name>, acting director of economic development, lamented that &quot;the phone seldom rings, maybe a couple times a day.&quot;</p>
+                
+                <p>&quot;Work is at a standstill,&quot; said Mrs. <name type="person" key="Hicks, Beverly">Hicks</name>, a Comanche-Kiowa from Oklahoma.  &quot;Before, there was activity all the time.  I don't even see any Indians now.&quot;</p>
+                
+                <p>The most activity occurs in her office when it rains, she said.  Then the employees must place waste baskets under the holes in the roof to catch the water that pours in.</p>
+                
+                <p>Two table lamps, placed on the floor of the sparsely furnished office, had been &quot;salvaged from the old office,&quot; Mrs. <name type="person" key="Hicks, Beverly">Hicks</name> said.</p>
+                
+                <p>Their former quarters in the main BIA building &quot;looked like the Taj Mahal,&quot; she said.  It had been lavishly furnished by a former director.  Her boss then, <name type="person" key="Stephens, Ernie">Ernie Stephens</name>, &quot;was ashamed when Indians stopped by, it was so plush.  Now Indians would feel at home here,&quot; she said, noting the irony, &quot;but none come.&quot;</p>
+                
+                <p><name type="person" key="Stephens, Ernie">Stephens</name> quit after being transferred.  He now works for American Indian Consultants, based in <name type="place" key="Phoneix, Arizona" reg="Phoneix, Arizona">Phoenix</name>.</p>
+                
+                <p>Before the siege, services to Indians were dispensed through four program offices, three of which have been transferred to Tempo 8.</p>
+                
+                <p>The heads of two of the departments, <name type="person" key="Stephens, Ernie">Stephens</name> and community services director <name type="person" key="Peake, Ron">Ron Peake</name>, have resigned, and a third, engineering director <name type="person" key="MacNabb, Alexander S.">Alexander S. MacNabb</name> reportedly is set to leave.  Only education director <name type="person" key="Hawkins, James">James Hawkins</name>, whose office stayed downtown, remains.</p>
+                
+                <p><name type="person" key="Stephens, Ernie">Stephens</name>, <name type="person" key="Peake, Ron">Peake</name>, and <name type="person" key="MacNabb, Alexander S.">MacNabb</name> were all self-described admirers of former commissioner <name type="person" key="Bruce, Louis R.">Bruce</name>.</p>
+                
+                <p><name type="person" key="Egar, James">James Egar</name>, who was <name type="person" key="Stephens, Ernie">Stephens</name>' top assistant, said he has been stripped of his assignments.  So he now spends much of his time in Room 2617 studying law.</p>
+                
+                <p>&quot;It's the way they want it,&quot; he said.</p>
+                
+                <p><name type="person" key="Peake, Ron">Peake</name> suggested that &quot;one goal of the Trail of Broken Treaties (the coalition that seized the BIA building) was to abolish the BIA.  Well, that has nearly happened.&quot;</p>
+                
+                <p><name type="person" key="Peake, Ron">Peake</name> resigned <date n="1973-02-16">Feb. 16</date>, writing to Interior Secretary <name type="person" key="Morton, Rogers C. B.">Rogers C. B. Morton</name> that &quot;it is my deep feeling that to remain in this key job would jeopardize my credibility and impair my word.&quot;</p>
+                
+                <p>He will stay with the BIA, returning to his former position as director of housing assistance.</p>
+                
+                <p>He has remained in Room 1715 at Tempo 8, noting that his successor, <name type="person" key="Butler, Ray">Ray Butler</name>, agreed that &quot;one office here is as bad as another.&quot;</p>
+                
+                <p><name type="person" key="Peake, Ron">Peake</name> said he was responsible for programs making up about 40 per cent of the BIA's half-billion dollar budget, and &quot;for a while I didn't even have a chain.  I'm not one of those guys who has a sexual attraction to his furniture, but it was hard on moral to hold a staff meeting with half a dozen GS-15s sitting on the bare floor.&quot;</p>
+                
+                <p>He said he believes <name type="person" key="Bruce, Louis R.">Bruce</name> and his appointees were &quot;on the road to changing the delivery system (an objective of both the <name type="person" key="Nixon, Richard">Nixon</name> administration and the militant protesters) when the demonstration occurred.</p>
+                
+                <p>&quot;Since then, we have regressed rather than changed,&quot; he said.  &quot;The old bureaucratic approach has settled in.&quot;</p>
+                    
+                    
+            </div1>
+        </body>
+    </text>
+</TEI>

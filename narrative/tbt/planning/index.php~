@@ -1,0 +1,79 @@
+<?php include("../includes/header.php"); ?>
+
+<?php $thisPage="Analysis"; ?>
+
+</head>
+
+<body>
+
+<div id="mainBody">
+	
+	<?php include("../includes/navigation.php"); ?>
+	
+<!--BEGIN MAIN CONTENT-->
+<div id="content">
+	<div class="bodyContent">
+
+		<div class="twoCol">
+    		<div class="menuSide">
+        		<h4>Analytical Concepts</h4>
+            		<div class="keywords">
+               			<ul>
+                  		  	<li>
+                      		  	<strong><a href="narrative/">Overview</a></strong>
+                    	    </li>
+                    	    <li>
+                    	    	<strong><a href="narrative/printactivism.htm">Race, Print Media, and Political Activism</a></strong>
+                                <ul class="analysis">
+                                	<li><a href="narrative/activism.politicsimage.html">Politics and the Image</a></li>
+                                    <li><a href="narrative/activism.mediasixties.html">Media in the 1960s</a></li>
+                                    <li><a href="narrative/activism.civilrightsmedia.html">Civil Rights and Media Coverage</a></li>
+                                 </ul>
+                     	   	</li>
+                     	   	<li>
+                     		   	<strong><a href="narrative/aim_overview.htm">The American Indian Movement</a></strong>
+                                <ul class="analysis">
+                                	<li><a href="narrative/aim.founding.html">Founding Years</a></li>
+                                    <li><a href="narrative/aim.intellectual.html">Intellectual Origins</a></li>
+                                    <li><a href="narrative/aim.politicsofmedia.html">AIM and the Politics of Media</a></li>
+                                 </ul> 
+                    	    </li>
+                    	    <li>
+                        		<strong><a href="narrative/tbt_overview.htm">The Trail of Broken Treaties</a></strong>
+                               	<ul class="analysis">
+                                	<li><a href="narrative/tbt.planning.html">Planning, the Caravan, and the Breakdown</a></li>
+                                    <li><a href="narrative/tbt.discoursepolitics.html">Media and the Discourse of Indian Politics</a></li>
+                                    <li><a href="narrative/tbt.lawandorder.html">Identity, Militancy, and the Politics of Law and Order</a></li>
+                                 </ul>
+                      	  	</li>
+                  	  </ul>
+        			</div>
+            </div>
+			<div class="contentSide">
+            	<h2>Planning, the Caravan, and the Breakdown</h2>
+        		<p>The idea for a demonstration at the Bureau of Indian Affairs emerged in August 1972 at a Sun Dance on Leonard Crow Dog's property.  Robert Burnette, a former chairman of the Rosebud Reservation, presented the idea to those in attendance of a march on Washington, D.C., to draw attention to treaty rights and issues facing Native American communities.  The idea was well received and several Indian organizations pledged support.  Fifty representatives from various organizations met at the end of September at the New Albany Hotel in Denver to discuss plans for the march.  The group voted on two names to call the caravan, the Trail of Broken Treaties and the Pan American Native Quest for Justice.  The participants formed eleven committees to manage publicity and tasks related to the Trail.</p>
+                
+                <p>The idea took shape by the end of the two-day meeting in Denver.  Several caravans would travel from west to east across the United States to bring national attention to treaty rights.  The caravans originated from Seattle, San Francisco, and Los Angeles and would stop at Indian communities along the way to gather supporters, eventually converging on Washington, D.C., in the last week of the 1972 presidential election.  To protect their image, the organizers took precautions to ensure nobody who would &quot;cause civil disorder, block traffic, burn flags, destroy property, or shout obscenities in the street&quot; would be included in the Trail.  &quot;Today, Indian identity is defined and refined by a quality and a special degree of suffering,&quot; explained Robert Burnette in a press release.  &quot;The Caravan must be our finest hour.&quot;  Committees were formed to begin organizing supporters across the country.  Burnette went to New York, while Ho-Chunk Reuben Snake led the Midwest organizing effort and Assiniboine Hank Adams, who was active in the Pacific Northwest regarding fishing rights, worked on the West coast.   The American Indian Movement returned to Minneapolis to begin organizing their effort.</p>
+                
+                <p>The caravans started out for their destinations a week after the Denver conference.  More than a dozen organizations signed on to the Trail, either participating in the caravan or endorsing its goals, including the American Indian Movement, the National Indian Brotherhood of Canada, the National Indian Youth Council, the Native American Rights Fund, the American Indian Commission on Alcohol and Drug Abuse, the United Native Americans, the Native American Women’s Action Council, and the Coalition of Indian Controlled School Boards.   The caravan reached Minneapolis by the end of the month where they created the &quot;Twenty Points Position Paper&quot; that spoke against the &quot;quasi-protectorate status&quot; of Indian Nations.  Hank Adams crafted most of the document and voiced the Trail’s ideology and goals, which included a demand for the federal government to return to treaty-making with Indian Nations, the creation of a treaty commission to review treaty violations and appropriate compensation, and a call to conduct federal Indian policy in the context of treaty relations.  The activists planned to present these ideas to Richard Nixon and George McGovern, hoping to force Indian issues to the front of public discourse. </p>
+                
+                <p>Throughout the caravan's march to Washington, D.C., the national media remained remarkably silent.  The <em>New York Times</em> and <em>Washington Post</em> each ran only one story about the Trail before October 31.  What they reported was unremarkable, straightforward, and brief.  Each story provided basic facts about the Trail but gave no context to the reasons for the demonstration.  The New York Times first picked up the story on October 5 and printed a mere paragraph deep in the paper quoting Vernon Bellecourt that the Trail plans to &quot;remind elected officials of the common mistreatment and neglect of the American Indian,&quot; but never explained the context in which the remark is made.   The Washington Post was likewise vague in its explanation of the Trail, explaining to its readers that the protest targeted proposed funding cuts without specifying what effect or influence such cuts would have on American Indians.  </p>
+                
+                <p>The event-oriented, shallow reporting that characterized early coverage of the Trail gave way to more detail in two October 31 stories as early Trail marchers started arriving in the capital city.  The <em>Washington Post</em> reported on the purpose of the Trail and that the activists were &quot;scheduled to call for fulfillment of all U.S. treaty obligations with Indian tribes and for protection of Indian rights to water, minerals and land.&quot;   In commenting on the rise of Indian protests since 1969, the Washington Post referred to the activity as &quot;Indian activism&quot; rather than &quot;militancy.&quot;   The <em>New York Times</em>, the only other national newspaper to cover the event, also carried a balanced appraisal of the marchers.  In the early stages of the Trail the press shaped and constructed the event around the purpose of the caravan and the key leaders involved in its planning.  Central to the narratives of the two newspaper reports on the Trail is Robert Burnette, who the newspapers identified as the co-chairman of the Trail caravan.  Both news stories indicated the centrality of treaty obligations to the Trail and emphasized complaints against the Bureau of Indian Affairs.  Thus, the press attempted to understand the reason for the Trail although the depth of analysis remained shallow.  No news articles hinted at a possibility of violence.</p>
+    
+    			<p>The Trail caravan faced two problems when they began arriving in Washington.  First, with the end of the presidential campaign approaching Nixon and McGovern were out of town shoring up votes.  The demonstrators would be unable to present their Twenty Points directly to the candidates.  Second, as the caravan began arriving in Washington, D.C., at the first of November, they found their lodging arrangements had fallen apart.  Several area churches withdrew their invitation for lodging.  Many Trail members blamed the government for the lack of adequate housing, although part of the blame rests with Trail planners who failed to anticipate the logistics required for the caravan.  The National Park Service rejected their plan to hold religious ceremonies at Arlington National Cemetery for Frank Young Horse (Lakota) and Ira Hayes (Pima).  The Army claimed such an event violated their policy banning groups to engage in &quot;partisan activities&quot; at Arlington.  By the end of the first day, the activists were frustrated and tired.  They shuffled into the St. Stephen's Episcopal Church and the People's Involvement Corporation Shelter for the night. </p>
+                
+                <p>Trail activists gathered at the Bureau of Indian Affairs the next morning to discuss their plans with Commissioner Bruce.  Assistant Interior Secretary Harrison Loesch greeted the activists and permitted them to stay in the BIA auditorium while he, Bruce, and Trail leaders discussed possible housing arrangements.  The activists were told they could stay in the Department of Interior building across the street from the BIA.  Immediately, however, things began to break down.  Upon their arrival at the building, the marchers found the doors to the building locked.  Security at Interior was unaware of Loesch's agreement and never unlocked the doors.  Feeling they had been double-crossed and tricked into leaving the Bureau of Indian Affairs, the marchers returned to the BIA building.  Furthermore, General Services Administration (GSA) guards began ushering caravan members from the building.  Trail members unaware of the planned move over to the Interior building, along with those returning to the BIA from Interior, refused to leave and were met with force.  Suspicions, tension, and paranoia on both sides launched the occupation.  The guards were expelled from the building and the activists barricaded themselves inside. </p>
+                
+                <p>The press arrived shortly after the Trail members began blocking off doors and windows to prevent another attempted police eviction.  The press reframed the event away from the purpose of the Trail and its key organizers and instead now focused on the American Indian Movement and damage to the building.  Leslie Stahl of CBS failed to interview any caravan members but reported on damage to the building.  ABC's Bill Matney managed to cover the frustrations of the demonstrators.  At a press conference aired by ABC, Loesch was pressured by the media to address the Twenty Points and a specific charge that the government owed Indians money, which Loesch dismissed; he was immediately met with ridicule and profanities from Indian members in the audience.  At one point during the conference, Martha Grass (Cherokee) approached the microphone and explained:  &quot;We want someone, one of our kind, here and doing our thing for us.  Why the hell do we have to put up with some 'I don't know' people?&quot;   Remarkably, none of the national newspapers covered the Loesch press conference.</p>
+
+
+			</div>
+		</div>
+	</div>
+</div>
+<!--BEGINNING OF FOOTER-->
+	<?php include("../includes/footer.php"); ?>
+
+</body>
+</html>

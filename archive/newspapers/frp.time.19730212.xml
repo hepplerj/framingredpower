@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.time.19730212">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Pulling Anderson's Leg</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">Pulling Anderson's Leg</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Time Magazine</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1973-02-12">12 February 1973</date>
+<biblScope type="page"></biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-03-30</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="body">
+
+<head type="main">Pulling Anderson's Leg</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Time Magazine</hi></p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  February 12, 1973</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>In the continuing conflict between the Nixon Administration and the press, Columnist Jack Anderson and his trio of legmen have employed the boldest and, in Government eyes, the most outrageous guerrilla tactics. Secret memos, classified documents, off-the-record exchanges—all have found their way into Anderson's hands and columns (TIME cover, April 3). Countering with some cloak-and-dagger work of its own, the FBI last week arrested one of Anderson's men while he was loading stolen documents into his car.</p>
+
+<p>The FBI, long a favorite Anderson target, had been tipped off that Reporter Les Whitten, 44, was to receive some documents taken from the Bureau of Indian Affairs last November, when more than 600 Indians occupied and ransacked the BIA'S headquarters. Sure enough, Whitten's yellow Vega was parked in front of the northwest Washington apartment of Hank Adams, 29, a leader of the Indian coalition whose November caravan to the capital led to the BIA occupation. As Whitten placed a document-filled cardboard box on the sidewalk, three FBI agents handcuffed him and charged him with receiving and possessing stolen Government property. Four Indians, including Adams, were also taken into custody.</p>
+
+<p>Released eight hours later, Whitten insisted that he had received the material for the sole purpose of carting it back to the BIA. He claimed that Adams, who has no car, had phoned him that morning. Whitten offered to help return a load of the purloined papers; on the box found in his possession, Whitten had, in fact, written the name of FBI Agent Dennis Hyten. &quot;I wanted to get an exclusive as he [Adams] turned them in,&quot; Whitten said. &quot;I came out a little more exclusively than I anticipated.&quot;</p>
+
+<p>Whether the case will become another test of newsmen's rights under the First Amendment was unclear. Anderson and Whitten have obviously had access to BIA material for some time; eight columns in December were based on such papers. Technically, however, access and publication are not at issue; the legal question involves only receipt and possession of the stolen documents. The maximum penalty is ten years in prison and a $10,000 fine. When asked if his arrest might have a &quot;chilling effect&quot; on First Amendment rights, Whitten quipped: &quot;I was personally chilled.&quot; Anderson's response was warmer. He charged that the FBI has been following and harassing his staff. &quot;All of us are ready to join Les Whitten in jail if we must,&quot; he said, &quot;before we stop digging out and reporting the news.&quot;</p>
+
+</div1>
+</body>
+</text>
+</TEI>

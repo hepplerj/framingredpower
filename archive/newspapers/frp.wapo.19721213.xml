@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721213">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Rights and Wrongs of the Indian</title>
+<title type="sub"></title>
+<author n="Anderson, Jack">Jack Anderson</author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Anderson, Jack">Jack Anderson</author>
+<title level="a" type="main">Rights and Wrongs of the Indian</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Washington Post</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-12-12">13 December 1972</date>
+<biblScope type="page">D23</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-03-19</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="pD23"/>
+
+
+<div1 type="body">
+
+<head type="main">Rights and Wrongs of the Indian</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. D23</p>
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  December 13, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  Jack Anderson</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>The Nixon administration, while promising the Indians more authority over their own affairs, has worked secretly to keep them subjugated.</p>
+
+<p>We have dug out the evidence from thousands of documents, which the Indians stripped from government files and turned over to us.</p>
+
+<p>Indian Commissioner Louis Bruce tried, the documents show, to fulfill the promises made to the Indians.  But almost invariably, he was overruled by Assistant Interior Secretary Harrison Loesch, who finessed the Indians and favored their exploiters.</p>
+
+<p>Last week, President Nixon accepted the resignations of both men.  The President praised Loesch but offered not a word of appreciation for Bruce.</p>
+
+<p>Apparently the commissioner, himself a Mohawk, made the mistake of taking the President at his word in 1970 when he promised the Indians a &quot;policy of self-determination.&quot;</p>
+
+<p>Bruce started setting goals for the Bureau of Indian affairs.  In a Nov. 20, 1970 memo, he reported to then-Interior Secretary Walter Hickel:</p>
+
+<p>&quot;The primary emphasis by BIA in 1971 will be on assisting Indian tribes to gain a greater degree of control over educational, economic and social development on their reservations.  This is being achieved by changing the BIA from a management to a service-oriented organization.</p>
+
+<p>In the stilted language of government communications, this meant the BIA should stop managing and start serving the Indians.  Bruce reported, indeed, that he had already started to implement the President’s declared policy.</p>
+
+<p>&quot;When tribes have expressed a desire,&quot; he stated, &quot;negotiations have taken place to turn the administration and supervision of BIA funded programs to the tribes.&quot;</p>
+
+<p><hi rend="bold">Indians vs. Exploiters</hi></p>
+
+<p>Such independence for the Indians, of course, would be unpopular with the real estate, lumber and other interests that have encroached on Indian water and land rights.</p>
+
+<p>&quot;Indian fishing and hunting treaty rights have been ignored too long,&quot; declared Bruce.  &quot;Indian people have been harassed when they attempted to exercise their treaty ... rights.&quot;  Under his regime, the commissioner vowed, &quot;necessary action will be taken to honor the treaty rights guaranteed n the negotiations which took place over 100 years ago.&quot;</p>
+
+<p>He alluded to the administration's practice of putting commercial interests ahead of Indian rights, referring to this cautiously as &quot;conflicts of interest ... within the federal government.&quot;</p>
+
+<p>&quot;Legislation has been requested,&quot; he wrote, &quot;to establish an Indian Trust Council.  Authority to assist the Indian people in defense of their natural resource rights.  Approval of this legislation would help to eliminate the conflicts of interest, which presently exist within the federal government concerning the development and protection of Indian natural resources.”</p>
+
+<p>Bruce was also concerned over the fact that only 18 percent of Indian youths attend college, as compared with 50 percent of whites.  &quot;The number of Indian youths who enter graduate studies is disturbingly small,” he added.  He intended to make sure that there would be more “doctors, lawyers, engineers, and other professionally-trained Indian people.&quot;</p>
+
+<p>With less firmness, Bruce urged more assistance for Indians in urban ghettos.  He also suggested &quot;an elevation of Indian Affairs to their proper role&quot; in the administration.</p>
+
+<p>This seemed to be precisely the kind of program that the President had advocated.   But instead of supporting Bruce, the White House undermined him.</p>
+
+<p>One of America's least-liked Indians, John Crow, was installed as deputy commissioner.  Bruce remained the front man, but his powers were transferred to Crow.  With the quiet backing of the White House, Loesch and Crow blocked Bruce at almost every turn.</p>
+
+<p>We'll have more on this in our next installment from the Broken Treaties Papers.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

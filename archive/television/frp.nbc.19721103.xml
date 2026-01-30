@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.nbc.19721103">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indian Protest</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+<title level="a" type="main">Indian Protest</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">NBC</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-11-03">03 November 1972</date>
+<biblScope type="page"></biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-03-19</date>
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="p95"/>
+
+
+<div1 type="body">
+
+<head type="main">Indian Protest</head>
+
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 03, 1972</p>
+</div1>
+<div1 type="network">
+	<p><hi rend="underline">Network</hi>:  NBC</p>
+</div1>
+<div1 type="starttime">
+	<p><hi rend="underline">Begin</hi>:  5:51 pm</p>
+</div1>
+<div1 type="length">
+	<p><hi rend="underline">Duration</hi>:  01:10</p>
+</div1>
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  Vanderbilt Television News Archive</p>
+</div1>
+<div1 type="additional">
+	<p><hi rend="underline">Note</hi>:  Due to copyright restrictions, the video footage of the news broadcasts cannot be reproduced.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>JOHN CHANCELLOR:  Indians remained in the Bureau of Indian Affairs building in Washington today.  They took it over late yesterday after scuffles with police.  John Cochran reports on today's developments.</p>
+
+<p>JOHN COCHRAN:  It was peaceful if not quiet at the Indian Affairs bureau but nothing was settled today.  The Indians are waiting for the administration to respond to their demands for reforms in the way the government deals with Indians, and they're asking for a decent place to eat and sleep while in Washington.  Until they get it they vow to stay in what they call "their embassy."  An official esimates $250,000 damage in the building but there was no move to evict the Indians today.  Indian Commissioner Louis Bruce supports some of the protester's demands.</p>
+
+<p>LOUIS BRUCE:  I'm still negotiating, but I'm going to stay here.</p>
+
+<p>UNIDENFIED ACTIVIST:  Hoorah, the Commissioner said he's gonna stay here until these demands are met! [cheering]</p>
+
+<p>JOHN COCHRAN:  Commissioner Bruce said even his qualified support of the protesters could get him fired by the Nixon administration.  Meanwhile, the Indians are preparing for a long stay.  They promise there will be no violence unless the police move in again.  John Cochran, NBC News, Washington.</p>
+
+</div1>
+</body>
+</text>
+</TEI>
