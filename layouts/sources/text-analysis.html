@@ -1,0 +1,417 @@
+{{ define "main" }}
+<div id="content">
+<div class="bodyContent">
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<!-- Observable Plot -->
+<script type="module">
+import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+// Load analysis data
+const analysisData = await d3.json('/data/text-analysis.json');
+const kwicData = await d3.json('/data/kwic-index.json');
+
+// 1. WORD FREQUENCY BAR CHART
+const wordFreqSection = document.getElementById('word-frequency');
+const topN = 50;
+const wordData = analysisData.word_frequencies.slice(0, topN);
+
+const wordChart = Plot.plot({
+  width: Math.min(1000, window.innerWidth - 40),
+  height: 800,
+  marginLeft: 150,
+  x: { grid: true, label: "Frequency" },
+  y: { label: null },
+  marks: [
+    Plot.barX(wordData, {
+      x: "count",
+      y: "word",
+      sort: { y: "-x" },
+      fill: "#710100",
+      tip: true
+    }),
+    Plot.text(wordData, {
+      x: "count",
+      y: "word",
+      text: d => d.count,
+      textAnchor: "start",
+      dx: 5,
+      fill: "white",
+      fontSize: 11
+    })
+  ]
+});
+
+wordFreqSection.appendChild(wordChart);
+
+// 2. TERM FREQUENCY TIMELINE
+const timelineSection = document.getElementById('timeline');
+const dateFreq = analysisData.date_frequencies;
+
+// Convert to array format for plotting
+const timelineData = [];
+const selectedTerms = ['indian', 'indians', 'protesters', 'government', 'treaty', 'bureau'];
+
+for (const [date, words] of Object.entries(dateFreq)) {
+  for (const term of selectedTerms) {
+    if (words[term]) {
+      timelineData.push({
+        date: new Date(date),
+        term: term,
+        count: words[term]
+      });
+    }
+  }
+}
+
+const timelineChart = Plot.plot({
+  width: Math.min(1000, window.innerWidth - 40),
+  height: 400,
+  marginLeft: 60,
+  x: { label: "Date", type: "time" },
+  y: { label: "Frequency", grid: true },
+  color: { legend: true, label: "Term" },
+  marks: [
+    Plot.line(timelineData, {
+      x: "date",
+      y: "count",
+      stroke: "term",
+      strokeWidth: 2,
+      tip: true
+    }),
+    Plot.dot(timelineData, {
+      x: "date",
+      y: "count",
+      fill: "term",
+      r: 3
+    })
+  ]
+});
+
+timelineSection.appendChild(timelineChart);
+
+// 3. DOCUMENT STATISTICS
+const statsSection = document.getElementById('statistics');
+const docs = analysisData.documents;
+
+// Documents by publication
+const pubCounts = d3.rollup(docs, v => v.length, d => d.publication);
+const pubData = Array.from(pubCounts, ([pub, count]) => ({ publication: pub, count }))
+  .sort((a, b) => b.count - a.count);
+
+const pubChart = Plot.plot({
+  width: Math.min(600, window.innerWidth - 40),
+  height: 400,
+  marginLeft: 100,
+  x: { grid: true, label: "Number of Documents" },
+  y: { label: null },
+  marks: [
+    Plot.barX(pubData, {
+      x: "count",
+      y: "publication",
+      sort: { y: "-x" },
+      fill: "#710100",
+      tip: true
+    })
+  ]
+});
+
+statsSection.appendChild(pubChart);
+
+// 4. KEYWORDS IN CONTEXT (KWIC)
+const kwicSection = document.getElementById('kwic-search');
+const kwicInput = document.getElementById('kwic-input');
+const kwicResults = document.getElementById('kwic-results');
+const kwicButton = document.getElementById('kwic-button');
+
+function searchKWIC(term) {
+  if (!term || term.length < 2) {
+    kwicResults.innerHTML = '<p class="kwic-empty">Please enter a search term (at least 2 characters).</p>';
+    return;
+  }
+
+  const results = [];
+  const regex = new RegExp(`\\b(\\w*${term}\\w*)\\b`, 'gi');
+
+  for (const doc of kwicData) {
+    const matches = [...doc.text.matchAll(regex)];
+
+    for (const match of matches) {
+      const start = Math.max(0, match.index - 100);
+      const end = Math.min(doc.text.length, match.index + match[0].length + 100);
+      const context = doc.text.substring(start, end);
+
+      results.push({
+        title: doc.title,
+        date: doc.date,
+        url: doc.url,
+        context: context,
+        term: match[0]
+      });
+    }
+  }
+
+  if (results.length === 0) {
+    kwicResults.innerHTML = `<p class="kwic-empty">No results found for "${term}".</p>`;
+    return;
+  }
+
+  // Limit to first 50 results
+  const displayResults = results.slice(0, 50);
+
+  kwicResults.innerHTML = `
+    <p class="kwic-count">Found ${results.length} occurrences${results.length > 50 ? ' (showing first 50)' : ''}:</p>
+    <div class="kwic-items">
+      ${displayResults.map(r => `
+        <div class="kwic-item">
+          <div class="kwic-meta">
+            <a href="${r.url}" class="kwic-title">${r.title}</a>
+            <span class="kwic-date">${r.date || 'No date'}</span>
+          </div>
+          <div class="kwic-context">
+            ${r.context.replace(new RegExp(`\\b${r.term}\\b`, 'gi'), '<mark>$&</mark>')}
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+kwicButton.addEventListener('click', () => {
+  searchKWIC(kwicInput.value.trim());
+});
+
+kwicInput.addEventListener('keypress', (e) => {
+  if (e.key === 'Enter') {
+    searchKWIC(kwicInput.value.trim());
+  }
+});
+
+// 5. WORD CLOUD
+const wordCloudSection = document.getElementById('word-cloud');
+const cloudData = analysisData.word_frequencies.slice(0, 100);
+
+// Create SVG word cloud using simple layout
+const cloudWidth = Math.min(800, window.innerWidth - 40);
+const cloudHeight = 600;
+
+const fontScale = d3.scaleLinear()
+  .domain([d3.min(cloudData, d => d.count), d3.max(cloudData, d => d.count)])
+  .range([14, 60]);
+
+const colorScale = d3.scaleSequential(d3.interpolateReds)
+  .domain([d3.min(cloudData, d => d.count), d3.max(cloudData, d => d.count)]);
+
+// Simple grid layout for word cloud
+const svg = d3.create("svg")
+  .attr("width", cloudWidth)
+  .attr("height", cloudHeight)
+  .attr("viewBox", [0, 0, cloudWidth, cloudHeight])
+  .style("background", "#f9f9f9");
+
+const g = svg.append("g")
+  .attr("transform", `translate(${cloudWidth / 2},${cloudHeight / 2})`);
+
+// Arrange words in a spiral pattern
+const words = cloudData.map((d, i) => {
+  const angle = i * 0.5;
+  const radius = Math.sqrt(i) * 15;
+  return {
+    ...d,
+    x: Math.cos(angle) * radius,
+    y: Math.sin(angle) * radius,
+    size: fontScale(d.count)
+  };
+});
+
+g.selectAll("text")
+  .data(words)
+  .join("text")
+  .text(d => d.word)
+  .attr("font-family", "var(--font-heading)")
+  .attr("font-size", d => d.size)
+  .attr("font-weight", d => d.count > 50 ? "bold" : "normal")
+  .attr("fill", d => colorScale(d.count))
+  .attr("text-anchor", "middle")
+  .attr("x", d => d.x)
+  .attr("y", d => d.y)
+  .style("cursor", "pointer")
+  .on("click", (event, d) => {
+    kwicInput.value = d.word;
+    searchKWIC(d.word);
+    document.getElementById('kwic-search').scrollIntoView({ behavior: 'smooth' });
+  })
+  .append("title")
+  .text(d => `${d.word}: ${d.count} occurrences`);
+
+wordCloudSection.appendChild(svg.node());
+
+</script>
+
+<!-- Section: Word Frequency -->
+<section class="analysis-section">
+  <h2>Word Frequency</h2>
+  <p>The 50 most frequently occurring words in the newspaper coverage (stopwords removed). Words like "indian," "government," "protesters," and "treaty" dominate the discourse.</p>
+  <div id="word-frequency" class="visualization"></div>
+</section>
+
+<!-- Section: Timeline -->
+<section class="analysis-section">
+  <h2>Term Frequency Over Time</h2>
+  <p>Track how specific terms appear across the timeline of newspaper coverage from October 1972 to March 1973.</p>
+  <div id="timeline" class="visualization"></div>
+</section>
+
+<!-- Section: Statistics -->
+<section class="analysis-section">
+  <h2>Document Statistics</h2>
+  <p>Distribution of documents by publication source.</p>
+  <div id="statistics" class="visualization"></div>
+</section>
+
+<!-- Section: Word Cloud -->
+<section class="analysis-section">
+  <h2>Word Cloud</h2>
+  <p>Visual representation of the 100 most common words. Click any word to see it in context below.</p>
+  <div id="word-cloud" class="visualization"></div>
+</section>
+
+<!-- Section: KWIC Search -->
+<section class="analysis-section">
+  <h2>Keywords in Context (KWIC)</h2>
+  <p>Search for any term and see where it appears in the documents with surrounding context.</p>
+  <div id="kwic-search">
+    <div class="kwic-controls">
+      <input
+        type="text"
+        id="kwic-input"
+        placeholder="Enter search term (e.g., 'treaty', 'protest', 'militant')"
+        aria-label="Search term"
+      />
+      <button id="kwic-button" class="btn btn-primary">Search</button>
+    </div>
+    <div id="kwic-results"></div>
+  </div>
+</section>
+
+<style>
+.analysis-section {
+  margin: var(--spacing-xl) 0;
+  padding: var(--spacing-lg);
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.analysis-section h2 {
+  color: var(--color-primary);
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+.visualization {
+  margin: var(--spacing-md) 0;
+  overflow-x: auto;
+}
+
+.kwic-controls {
+  display: flex;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+#kwic-input {
+  flex: 1;
+  padding: 0.75rem;
+  border: 2px solid var(--color-border);
+  border-radius: var(--border-radius);
+  font-family: var(--font-body);
+  font-size: 1rem;
+}
+
+#kwic-input:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.kwic-count {
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+}
+
+.kwic-empty {
+  padding: var(--spacing-lg);
+  text-align: center;
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.kwic-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.kwic-item {
+  padding: var(--spacing-md);
+  background: #f9f9f9;
+  border-left: 4px solid var(--color-primary);
+  border-radius: var(--border-radius);
+}
+
+.kwic-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: var(--spacing-sm);
+  flex-wrap: wrap;
+  gap: var(--spacing-xs);
+}
+
+.kwic-title {
+  font-weight: 600;
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.kwic-title:hover {
+  text-decoration: underline;
+}
+
+.kwic-date {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.kwic-context {
+  line-height: 1.6;
+  color: var(--color-text-primary);
+}
+
+.kwic-context mark {
+  background: #ffeb3b;
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .kwic-controls {
+    flex-direction: column;
+  }
+
+  .analysis-section {
+    padding: var(--spacing-md);
+  }
+}
+</style>
+
+</div>
+</div>
+{{ end }}

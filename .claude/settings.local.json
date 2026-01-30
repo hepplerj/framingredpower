@@ -3,7 +3,8 @@
     "allow": [
       "Bash(wc:*)",
       "Bash(ls:*)",
-      "Bash(hugo:*)"
+      "Bash(hugo:*)",
+      "Bash(curl:*)"
     ]
   }
 }

@@ -16,7 +16,7 @@ copyright = 'Copyright (c) 2008-2026 Jason Heppler'
 
 # Permalinks
 [permalinks]
-  narrative = '/narrative/:slug/'
+  # Preserve directory structure for narrative pages
   sources = '/sources/:slug/'
   about = '/about/:slug/'
 

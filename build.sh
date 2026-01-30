@@ -4,6 +4,9 @@
 
 set -e  # Exit on error
 
+echo "📊 Analyzing text data..."
+uv run --with python-frontmatter scripts/analyze_text.py
+
 echo "🔨 Building Hugo site..."
 hugo --minify
 
