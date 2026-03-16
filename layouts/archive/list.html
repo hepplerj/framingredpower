@@ -11,7 +11,11 @@
 {{ .Content }}
 
 <div class="document-list" role="list">
-{{ range .Pages.ByDate.Reverse }}
+{{- $pages := .RegularPages -}}
+{{- if eq .File.Path "archive/_index.md" -}}
+  {{- $pages = .RegularPagesRecursive -}}
+{{- end -}}
+{{ range $pages.ByDate.Reverse }}
   <article class="document-item" role="listitem">
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p class="meta">
@@ -19,12 +23,21 @@
       {{ with .Date }}<strong>Date:</strong> <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "January 02, 2006" }}</time> | {{ end }}
       {{ with .Params.page }}<strong>Page:</strong> {{ . }}{{ end }}
     </p>
-    {{ with .Summary }}
-    <p>{{ . }}</p>
-    {{ end }}
   </article>
 {{ end }}
 </div>
+
+<style>
+.document-list .meta {
+  font-size: 1.1rem;
+  color: var(--color-text-primary);
+  margin-top: 0.5rem;
+}
+
+.document-list .meta strong {
+  font-weight: 600;
+}
+</style>
 
 </div>
 </section>
