@@ -4,6 +4,10 @@ aliases:
   - /about/index.php
 ---
 
+<aside class="site-notice">
+  <strong>A note on this project.</strong> <em>Framing Red Power</em> was originally created in 2008–2009 as a companion to my <a href="https://digitalcommons.unl.edu/historydiss/101/">Master's thesis</a> at the University of Nebraska-Lincoln. In 2026, the site was migrated from PHP to Hugo and the design slightly modernized for long-term preservation, but the content, analysis, and archival documents remain as they were when the project was completed. References to ongoing or forthcoming work reflect the original period of development.
+</aside>
+
 <h4>About the Project</h4>
 
 <p><em>Framing Red Power</em> seeks to utilize digital technologies to investigate and analyze the interaction between media and politics by studying the Trail of Broken Treaties as a significant media event. By most measures, the American Indian Movement had a propensity for grabbing headlines. While the occupation of Wounded Knee in 1973 is highly significant (and symbolic), it has received substantial attention from historians. The Trail of Broken Treaties, on the other hand, was AIM's first sustained media coverage of the sort they had always hoped to achieve. Much of this project is and will be a "work in progress" as it continues to develop as an accurate, open source environment for research, teaching, and analysis. At its core, this project hopes to shed light on the interaction betweeen the media and politics, and how this complex relationship has shaped political culture. The project will be integrated into a Master's thesis.</p>
@@ -14,17 +18,7 @@ aliases:
 
 <h4>About the Author</h4>
 
-<p>Jason is a history graduate student at the University of Nebraska-Lincoln. He is originally from South Dakota and studied History and Economics at South Dakota State University, where he graduated in May 2007. His research interests broadly encompass the twentieth century American West and Great Plains, specifically the region's political and cultural history. In addition to <em>Framing Red Power</em>, Jason is the author of two forthcoming book chapters, one on the American Indian Movement and South Dakota political culture, and the other on the Cherokee Nation's resistance to railroad construction through Indian Territory in the 1880s. He currently lives in Lincoln.</p>
-
-<h4>Contact</h4>
-
-<p>Jason A. Heppler<br>
-612 Oldfather Hall<br>
-University of Nebraska-Lincoln<br>
-Lincoln, NE 68588<br>
-
-<h4><a href="mailto: jason.heppler@huskers.unl.edu">Comments?</a><br></h4>
-</p>
+Jason is a history graduate student at the University of Nebraska-Lincoln. He is originally from South Dakota and studied History and Economics at South Dakota State University, where he graduated in May 2007. His research interests broadly encompass the twentieth century American West and Great Plains, specifically the region's political and cultural history. In addition to *Framing Red Power*, Jason is the author of two forthcoming book chapters, one on the American Indian Movement and South Dakota political culture, and the other on the Cherokee Nation's resistance to railroad construction through Indian Territory in the 1880s. He currently lives in Lincoln. [Comments?](mailto:jason@jasonheppler.org)
 
 <h4>Copyright and Conditions of Use</h4>
 
