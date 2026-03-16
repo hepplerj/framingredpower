@@ -45,24 +45,8 @@
       "count": 199
     },
     {
-      "word": "date",
-      "count": 198
-    },
-    {
-      "word": "washington",
-      "count": 198
-    },
-    {
       "word": "united",
       "count": 198
-    },
-    {
-      "word": "source",
-      "count": 190
-    },
-    {
-      "word": "xml",
-      "count": 188
     },
     {
       "word": "white",
@@ -81,15 +65,19 @@
       "count": 157
     },
     {
+      "word": "washington",
+      "count": 152
+    },
+    {
       "word": "documents",
       "count": 152
     },
     {
-      "word": "adams",
-      "count": 143
+      "word": "president",
+      "count": 142
     },
     {
-      "word": "president",
+      "word": "adams",
       "count": 142
     },
     {
@@ -101,20 +89,8 @@
       "count": 134
     },
     {
-      "word": "new",
-      "count": 132
-    },
-    {
-      "word": "author",
-      "count": 126
-    },
-    {
       "word": "secretary",
       "count": 124
-    },
-    {
-      "word": "time",
-      "count": 123
     },
     {
       "word": "broken",
@@ -133,8 +109,16 @@
       "count": 119
     },
     {
+      "word": "time",
+      "count": 119
+    },
+    {
       "word": "court",
       "count": 119
+    },
+    {
+      "word": "new",
+      "count": 118
     },
     {
       "word": "land",
@@ -143,10 +127,6 @@
     {
       "word": "department",
       "count": 112
-    },
-    {
-      "word": "original",
-      "count": 107
     },
     {
       "word": "mexican",
@@ -165,6 +145,10 @@
       "count": 105
     },
     {
+      "word": "date",
+      "count": 104
+    },
+    {
       "word": "last",
       "count": 104
     },
@@ -181,10 +165,6 @@
       "count": 100
     },
     {
-      "word": "post",
-      "count": 99
-    },
-    {
       "word": "administration",
       "count": 98
     },
@@ -193,16 +173,12 @@
       "count": 97
     },
     {
-      "word": "tei",
-      "count": 94
+      "word": "source",
+      "count": 96
     },
     {
       "word": "national",
       "count": 94
-    },
-    {
-      "word": "frp",
-      "count": 93
     },
     {
       "word": "yesterday",
@@ -229,6 +205,10 @@
       "count": 88
     },
     {
+      "word": "author",
+      "count": 87
+    },
+    {
       "word": "trail",
       "count": 87
     },
@@ -239,10 +219,6 @@
     {
       "word": "night",
       "count": 84
-    },
-    {
-      "word": "page",
-      "count": 83
     },
     {
       "word": "first",
@@ -258,7 +234,7 @@
     },
     {
       "word": "nixon",
-      "count": 81
+      "count": 80
     },
     {
       "word": "three",
@@ -310,10 +286,6 @@
     },
     {
       "word": "means",
-      "count": 71
-    },
-    {
-      "word": "times",
       "count": 71
     },
     {
@@ -398,7 +370,35 @@
     },
     {
       "word": "john",
-      "count": 57
+      "count": 56
+    },
+    {
+      "word": "however",
+      "count": 56
+    },
+    {
+      "word": "force",
+      "count": 55
+    },
+    {
+      "word": "members",
+      "count": 55
+    },
+    {
+      "word": "movement",
+      "count": 55
+    },
+    {
+      "word": "banks",
+      "count": 55
+    },
+    {
+      "word": "republic",
+      "count": 54
+    },
+    {
+      "word": "mexico",
+      "count": 54
     }
   ],
   "documents": [
@@ -409,9 +409,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 102,
+      "word_count": 90,
       "path": "archive/newspapers/frp.wapo.19730409.md",
-      "url": "/archive/frp.wapo.19730409/"
+      "url": "/archive/newspapers/frp.wapo.19730409/"
     },
     {
       "title": "BIA Shakeup: 189 Out in Cold",
@@ -420,9 +420,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 532,
+      "word_count": 520,
       "path": "archive/newspapers/frp.wapo.19730308.md",
-      "url": "/archive/frp.wapo.19730308/"
+      "url": "/archive/newspapers/frp.wapo.19730308/"
     },
     {
       "title": "Pulling Anderson's Leg",
@@ -431,9 +431,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 243,
+      "word_count": 232,
       "path": "archive/newspapers/frp.time.19730212.md",
-      "url": "/archive/frp.time.19730212/"
+      "url": "/archive/newspapers/frp.time.19730212/"
     },
     {
       "title": "2 Asked To Talk By Jury",
@@ -442,9 +442,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 712,
+      "word_count": 700,
       "path": "archive/newspapers/frp.wapo.19730212.md",
-      "url": "/archive/frp.wapo.19730212/"
+      "url": "/archive/newspapers/frp.wapo.19730212/"
     },
     {
       "title": "Indians Without Jobs",
@@ -453,9 +453,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 575,
+      "word_count": 562,
       "path": "archive/newspapers/frp.wapo.19730208.md",
-      "url": "/archive/frp.wapo.19730208/"
+      "url": "/archive/newspapers/frp.wapo.19730208/"
     },
     {
       "title": "Fellow 'Indian' Activist Turns Out to Be Officer",
@@ -464,9 +464,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 399,
+      "word_count": 386,
       "path": "archive/newspapers/frp.lat.19730204.md",
-      "url": "/archive/frp.lat.19730204/"
+      "url": "/archive/newspapers/frp.lat.19730204/"
     },
     {
       "title": "D.C. Police officer Led Double Life as an Apache Indian",
@@ -475,9 +475,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 543,
+      "word_count": 531,
       "path": "archive/newspapers/frp.wapo.19730203.md",
-      "url": "/archive/frp.wapo.19730203/"
+      "url": "/archive/newspapers/frp.wapo.19730203/"
     },
     {
       "title": "Activists' House Raided Again; BIA Documents Sought",
@@ -486,9 +486,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 424,
+      "word_count": 409,
       "path": "archive/newspapers/frp.wapo.19730201.md",
-      "url": "/archive/frp.wapo.19730201/"
+      "url": "/archive/newspapers/frp.wapo.19730201/"
     },
     {
       "title": "FBI Arrests Reporter in Stolen Data",
@@ -497,9 +497,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 566,
+      "word_count": 550,
       "path": "archive/newspapers/frp.wapo.19730201a.md",
-      "url": "/archive/frp.wapo.19730201a/"
+      "url": "/archive/newspapers/frp.wapo.19730201a/"
     },
     {
       "title": "An Indian Leader Pledges Return of U.S. Property",
@@ -508,9 +508,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 359,
+      "word_count": 346,
       "path": "archive/newspapers/frp.nyt.19730112.md",
-      "url": "/archive/frp.nyt.19730112/"
+      "url": "/archive/newspapers/frp.nyt.19730112/"
     },
     {
       "title": "U.S. Rejects Indian Demands, Says Nixon Supports Reforms",
@@ -519,9 +519,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 324,
+      "word_count": 311,
       "path": "archive/newspapers/frp.wapo.19730111.md",
-      "url": "/archive/frp.wapo.19730111/"
+      "url": "/archive/newspapers/frp.wapo.19730111/"
     },
     {
       "title": "U.S. Disputed on Injustice to Indians",
@@ -530,9 +530,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 342,
+      "word_count": 326,
       "path": "archive/newspapers/frp.wapo.19730104.md",
-      "url": "/archive/frp.wapo.19730104/"
+      "url": "/archive/newspapers/frp.wapo.19730104/"
     },
     {
       "title": "Urban Indian Is Forgotten Man",
@@ -541,9 +541,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 286,
+      "word_count": 270,
       "path": "archive/newspapers/frp.wapo.19721219.md",
-      "url": "/archive/frp.wapo.19721219/"
+      "url": "/archive/newspapers/frp.wapo.19721219/"
     },
     {
       "title": "Drums on the Potomac",
@@ -552,9 +552,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 247,
+      "word_count": 236,
       "path": "archive/newspapers/frp.time.19721218.md",
-      "url": "/archive/frp.time.19721218/"
+      "url": "/archive/newspapers/frp.time.19721218/"
     },
     {
       "title": "BIA Smugglers Tricked the Police",
@@ -563,9 +563,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 456,
+      "word_count": 440,
       "path": "archive/newspapers/frp.wapo.19721212.md",
-      "url": "/archive/frp.wapo.19721212/"
+      "url": "/archive/newspapers/frp.wapo.19721212/"
     },
     {
       "title": "Rights and Wrongs of the Indian",
@@ -574,9 +574,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 343,
+      "word_count": 327,
       "path": "archive/newspapers/frp.wapo.19721213.md",
-      "url": "/archive/frp.wapo.19721213/"
+      "url": "/archive/newspapers/frp.wapo.19721213/"
     },
     {
       "title": "Indian Bureau Chief Is Outflanked",
@@ -585,9 +585,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 284,
+      "word_count": 268,
       "path": "archive/newspapers/frp.wapo.19721214.md",
-      "url": "/archive/frp.wapo.19721214/"
+      "url": "/archive/newspapers/frp.wapo.19721214/"
     },
     {
       "title": "Indian Documents Tell Shabby Story",
@@ -596,9 +596,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 369,
+      "word_count": 353,
       "path": "archive/newspapers/frp.wapo.19721211.md",
-      "url": "/archive/frp.wapo.19721211/"
+      "url": "/archive/newspapers/frp.wapo.19721211/"
     },
     {
       "title": "Indian Affairs Shakeup",
@@ -607,9 +607,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 266,
+      "word_count": 255,
       "path": "archive/newspapers/frp.ct.19721210.md",
-      "url": "/archive/frp.ct.19721210/"
+      "url": "/archive/newspapers/frp.ct.19721210/"
     },
     {
       "title": "U.S. Inaction Has Cost Indians Millions, Protest Leader Says",
@@ -618,9 +618,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 246,
+      "word_count": 233,
       "path": "archive/newspapers/frp.lat.19721208.md",
-      "url": "/archive/frp.lat.19721208/"
+      "url": "/archive/newspapers/frp.lat.19721208/"
     },
     {
       "title": "Indians' Capital Protest Has Not Resolved Any of Their Grievances",
@@ -629,9 +629,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 758,
+      "word_count": 745,
       "path": "archive/newspapers/frp.nyt.19721207.md",
-      "url": "/archive/frp.nyt.19721207/"
+      "url": "/archive/newspapers/frp.nyt.19721207/"
     },
     {
       "title": "Shakeup in Indian Affairs Rumored",
@@ -640,9 +640,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 111,
+      "word_count": 98,
       "path": "archive/newspapers/frp.lat.19721206.md",
-      "url": "/archive/frp.lat.19721206/"
+      "url": "/archive/newspapers/frp.lat.19721206/"
     },
     {
       "title": "White House Role on Indian Scored",
@@ -651,9 +651,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 293,
+      "word_count": 279,
       "path": "archive/newspapers/frp.nyt.19721205a.md",
-      "url": "/archive/frp.nyt.19721205a/"
+      "url": "/archive/newspapers/frp.nyt.19721205a/"
     },
     {
       "title": "Sacking of Indian Bureau--a 20-Year Setback?",
@@ -662,9 +662,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 587,
+      "word_count": 574,
       "path": "archive/newspapers/frp.lat.19721124.md",
-      "url": "/archive/frp.lat.19721124/"
+      "url": "/archive/newspapers/frp.lat.19721124/"
     },
     {
       "title": "Employees of BIA To Resume Work",
@@ -673,9 +673,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 200,
+      "word_count": 185,
       "path": "archive/newspapers/frp.wapo.19721204.md",
-      "url": "/archive/frp.wapo.19721204/"
+      "url": "/archive/newspapers/frp.wapo.19721204/"
     },
     {
       "title": "Three Aides Fired at Indian Bureau",
@@ -684,9 +684,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 108,
+      "word_count": 97,
       "path": "archive/newspapers/frp.ct.19730201.md",
-      "url": "/archive/frp.ct.19730201/"
+      "url": "/archive/newspapers/frp.ct.19730201/"
     },
     {
       "title": "Three Aides Fired at Indian Bureau",
@@ -695,9 +695,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 229,
+      "word_count": 218,
       "path": "archive/newspapers/frp.ct.19721203.md",
-      "url": "/archive/frp.ct.19721203/"
+      "url": "/archive/newspapers/frp.ct.19721203/"
     },
     {
       "title": "3 Indian Officials Ousted in Shakeup",
@@ -706,9 +706,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 440,
+      "word_count": 428,
       "path": "archive/newspapers/frp.wapo.19721203.md",
-      "url": "/archive/frp.wapo.19721203/"
+      "url": "/archive/newspapers/frp.wapo.19721203/"
     },
     {
       "title": "Judge Stalls Eviction of Indians; U.S., Protesters Hold Site Talks",
@@ -717,9 +717,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 167,
+      "word_count": 155,
       "path": "archive/newspapers/frp.ct.19721105.md",
-      "url": "/archive/frp.ct.19721105/"
+      "url": "/archive/newspapers/frp.ct.19721105/"
     },
     {
       "title": "Judge Stalls Eviction of Indians; U.S., Protesters Hold Site Talks",
@@ -728,9 +728,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 154,
+      "word_count": 141,
       "path": "archive/newspapers/frp.total.md",
-      "url": "/archive/frp.total/"
+      "url": "/archive/newspapers/frp.total/"
     },
     {
       "title": "Indians Occupying U.S. Building Ask Nixon to Intercede",
@@ -739,9 +739,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 239,
+      "word_count": 228,
       "path": "archive/newspapers/frp.ct.19721106.md",
-      "url": "/archive/frp.ct.19721106/"
+      "url": "/archive/newspapers/frp.ct.19721106/"
     },
     {
       "title": "Politics Admitted in Indian Deal",
@@ -750,9 +750,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 137,
+      "word_count": 125,
       "path": "archive/newspapers/frp.ct.19721205.md",
-      "url": "/archive/frp.ct.19721205/"
+      "url": "/archive/newspapers/frp.ct.19721205/"
     },
     {
       "title": "BIA Fight: 'One Has to Go'",
@@ -761,9 +761,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 348,
+      "word_count": 335,
       "path": "archive/newspapers/frp.wapo.19721202.md",
-      "url": "/archive/frp.wapo.19721202/"
+      "url": "/archive/newspapers/frp.wapo.19721202/"
     },
     {
       "title": "Indian Affairs Hearings: Beyond the Destruction",
@@ -772,9 +772,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 566,
+      "word_count": 552,
       "path": "archive/newspapers/frp.wapo.19721202a.md",
-      "url": "/archive/frp.wapo.19721202a/"
+      "url": "/archive/newspapers/frp.wapo.19721202a/"
     },
     {
       "title": "The Nixon Permissiveness",
@@ -783,9 +783,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 407,
+      "word_count": 394,
       "path": "archive/newspapers/frp.wapo.19721127.md",
-      "url": "/archive/frp.wapo.19721127/"
+      "url": "/archive/newspapers/frp.wapo.19721127/"
     },
     {
       "title": "Activist Tells of BIA Sacking",
@@ -794,9 +794,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 860,
+      "word_count": 848,
       "path": "archive/newspapers/frp.wapo.19721125.md",
-      "url": "/archive/frp.wapo.19721125/"
+      "url": "/archive/newspapers/frp.wapo.19721125/"
     },
     {
       "title": "U.S. Accused Of Exhibiting BIA Damage",
@@ -805,9 +805,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 494,
+      "word_count": 482,
       "path": "archive/newspapers/frp.wapo.19721123.md",
-      "url": "/archive/frp.wapo.19721123/"
+      "url": "/archive/newspapers/frp.wapo.19721123/"
     },
     {
       "title": "BIA's Loesch: A Bureaucrat Unafraid to Speak Out",
@@ -816,9 +816,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 1115,
+      "word_count": 1100,
       "path": "archive/newspapers/frp.wapo.19721122.md",
-      "url": "/archive/frp.wapo.19721122/"
+      "url": "/archive/newspapers/frp.wapo.19721122/"
     },
     {
       "title": "Government Mishandled Indian Militants",
@@ -827,9 +827,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 376,
+      "word_count": 362,
       "path": "archive/newspapers/frp.ct.19721119.md",
-      "url": "/archive/frp.ct.19721119/"
+      "url": "/archive/newspapers/frp.ct.19721119/"
     },
     {
       "title": "Sioux Leader Outraged",
@@ -838,9 +838,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 82,
+      "word_count": 69,
       "path": "archive/newspapers/frp.wapo.19721118.md",
-      "url": "/archive/frp.wapo.19721118/"
+      "url": "/archive/newspapers/frp.wapo.19721118/"
     },
     {
       "title": "Indians Got Kindly Agnew Memo",
@@ -849,9 +849,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 324,
+      "word_count": 308,
       "path": "archive/newspapers/frp.wapo.19721116.md",
-      "url": "/archive/frp.wapo.19721116/"
+      "url": "/archive/newspapers/frp.wapo.19721116/"
     },
     {
       "title": "Stolen BIA Artifacts, Documents Recovered",
@@ -860,9 +860,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 335,
+      "word_count": 320,
       "path": "archive/newspapers/frp.wapo.19721115.md",
-      "url": "/archive/frp.wapo.19721115/"
+      "url": "/archive/newspapers/frp.wapo.19721115/"
     },
     {
       "title": "After the Indian Protest",
@@ -871,9 +871,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 331,
+      "word_count": 317,
       "path": "archive/newspapers/frp.wapo.19721115a.md",
-      "url": "/archive/frp.wapo.19721115a/"
+      "url": "/archive/newspapers/frp.wapo.19721115a/"
     },
     {
       "title": "Behind the Indian Protest",
@@ -882,9 +882,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 74,
+      "word_count": 60,
       "path": "archive/newspapers/frp.wapo.19721115b.md",
-      "url": "/archive/frp.wapo.19721115b/"
+      "url": "/archive/newspapers/frp.wapo.19721115b/"
     },
     {
       "title": "Led Building Takeover: Criminal Record of 3 Indian Leaders Told",
@@ -893,9 +893,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 317,
+      "word_count": 303,
       "path": "archive/newspapers/frp.ct.19721113.md",
-      "url": "/archive/frp.ct.19721113/"
+      "url": "/archive/newspapers/frp.ct.19721113/"
     },
     {
       "title": "Damage to BIA Third Heaviest Ever in U.S.",
@@ -904,9 +904,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 344,
+      "word_count": 328,
       "path": "archive/newspapers/frp.wapo.19721111a.md",
-      "url": "/archive/frp.wapo.19721111a/"
+      "url": "/archive/newspapers/frp.wapo.19721111a/"
     },
     {
       "title": "News Conference Confrontation",
@@ -915,9 +915,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 763,
+      "word_count": 748,
       "path": "archive/newspapers/frp.wapo.19721111.md",
-      "url": "/archive/frp.wapo.19721111/"
+      "url": "/archive/newspapers/frp.wapo.19721111/"
     },
     {
       "title": "Indians Ripped Up Federal Building; Indian Vandalism to Federal Building Is Set at $530,000",
@@ -926,9 +926,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 177,
+      "word_count": 166,
       "path": "archive/newspapers/frp.ct.19721110.md",
-      "url": "/archive/frp.ct.19721110/"
+      "url": "/archive/newspapers/frp.ct.19721110/"
     },
     {
       "title": "Amnesty Denied to Indians",
@@ -937,9 +937,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 785,
+      "word_count": 769,
       "path": "archive/newspapers/frp.wapo.19721110a.md",
-      "url": "/archive/frp.wapo.19721110a/"
+      "url": "/archive/newspapers/frp.wapo.19721110a/"
     },
     {
       "title": "Damage to Capital Building by Indians Put at $1.98 Million",
@@ -948,9 +948,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 207,
+      "word_count": 195,
       "path": "archive/newspapers/frp.wapo.19721110.md",
-      "url": "/archive/frp.wapo.19721110/"
+      "url": "/archive/newspapers/frp.wapo.19721110/"
     },
     {
       "title": "Indians Ripped Up Federal Building",
@@ -959,9 +959,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 394,
+      "word_count": 378,
       "path": "archive/newspapers/frp.nyt.19721110.md",
-      "url": "/archive/frp.nyt.19721110/"
+      "url": "/archive/newspapers/frp.nyt.19721110/"
     },
     {
       "title": "Indians to Be Liable for Damage",
@@ -970,9 +970,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 197,
+      "word_count": 184,
       "path": "archive/newspapers/frp.lat.19721110.md",
-      "url": "/archive/frp.lat.19721110/"
+      "url": "/archive/newspapers/frp.lat.19721110/"
     },
     {
       "title": "Indians Call Files From BIA 'Ransom'",
@@ -981,9 +981,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 302,
+      "word_count": 289,
       "path": "archive/newspapers/frp.wapo.19721109b.md",
-      "url": "/archive/frp.wapo.19721109b/"
+      "url": "/archive/newspapers/frp.wapo.19721109b/"
     },
     {
       "title": "Indians Take Documents as They Leave U.S. Building",
@@ -992,9 +992,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 423,
+      "word_count": 407,
       "path": "archive/newspapers/frp.nyt.19721209.md",
-      "url": "/archive/frp.nyt.19721209/"
+      "url": "/archive/newspapers/frp.nyt.19721209/"
     },
     {
       "title": "Indians Leave Building With Files, Artifacts",
@@ -1003,9 +1003,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 259,
+      "word_count": 246,
       "path": "archive/newspapers/frp.lat.19721109.md",
-      "url": "/archive/frp.lat.19721109/"
+      "url": "/archive/newspapers/frp.lat.19721109/"
     },
     {
       "title": "Protest by Indians Sought an End to Paternalism",
@@ -1014,9 +1014,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 548,
+      "word_count": 533,
       "path": "archive/newspapers/frp.wapo.19721109.md",
-      "url": "/archive/frp.wapo.19721109/"
+      "url": "/archive/newspapers/frp.wapo.19721109/"
     },
     {
       "title": "Indians Take Documents as They Leave U.S. Building",
@@ -1025,9 +1025,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 423,
+      "word_count": 407,
       "path": "archive/newspapers/frp.nyt.19721109.md",
-      "url": "/archive/frp.nyt.19721109/"
+      "url": "/archive/newspapers/frp.nyt.19721109/"
     },
     {
       "title": "'The Government Forced Us to Action'",
@@ -1036,9 +1036,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 504,
+      "word_count": 488,
       "path": "archive/newspapers/frp.wapo.19721109a.md",
-      "url": "/archive/frp.wapo.19721109a/"
+      "url": "/archive/newspapers/frp.wapo.19721109a/"
     },
     {
       "title": "Indians Agree to Leave Seize Federal Building",
@@ -1047,9 +1047,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 237,
+      "word_count": 224,
       "path": "archive/newspapers/frp.lat.19721108.md",
-      "url": "/archive/frp.lat.19721108/"
+      "url": "/archive/newspapers/frp.lat.19721108/"
     },
     {
       "title": "Indians Seize Files as Some Go Home",
@@ -1058,9 +1058,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 742,
+      "word_count": 727,
       "path": "archive/newspapers/frp.wapo.19721108.md",
-      "url": "/archive/frp.wapo.19721108/"
+      "url": "/archive/newspapers/frp.wapo.19721108/"
     },
     {
       "title": "Militant Indians Agree to Leave",
@@ -1069,9 +1069,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 351,
+      "word_count": 335,
       "path": "archive/newspapers/frp.nyt.19721108.md",
-      "url": "/archive/frp.nyt.19721108/"
+      "url": "/archive/newspapers/frp.nyt.19721108/"
     },
     {
       "title": "Order Delayed, Indians Stay in Offices",
@@ -1080,9 +1080,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 834,
+      "word_count": 818,
       "path": "archive/newspapers/frp.wapo.19721107a.md",
-      "url": "/archive/frp.wapo.19721107a/"
+      "url": "/archive/newspapers/frp.wapo.19721107a/"
     },
     {
       "title": "Arrest Order for Indians Stayed---They Threaten to Level Building",
@@ -1091,9 +1091,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 565,
+      "word_count": 551,
       "path": "archive/newspapers/frp.lat.19721107.md",
-      "url": "/archive/frp.lat.19721107/"
+      "url": "/archive/newspapers/frp.lat.19721107/"
     },
     {
       "title": "Indians agree to leave BIA building today, officials say",
@@ -1102,9 +1102,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 193,
+      "word_count": 182,
       "path": "archive/newspapers/frp.minntrib.19721107.md",
-      "url": "/archive/frp.minntrib.19721107/"
+      "url": "/archive/newspapers/frp.minntrib.19721107/"
     },
     {
       "title": "Eviction of Indians Delayed on Appeal",
@@ -1113,9 +1113,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 457,
+      "word_count": 441,
       "path": "archive/newspapers/frp.nyt.19721107.md",
-      "url": "/archive/frp.nyt.19721107/"
+      "url": "/archive/newspapers/frp.nyt.19721107/"
     },
     {
       "title": "Legacy of Suspicion Changes Protest Into Confrontation",
@@ -1124,9 +1124,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 505,
+      "word_count": 490,
       "path": "archive/newspapers/frp.wapo.19721107.md",
-      "url": "/archive/frp.wapo.19721107/"
+      "url": "/archive/newspapers/frp.wapo.19721107/"
     },
     {
       "title": "Behind the Indian Protest",
@@ -1135,9 +1135,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 248,
+      "word_count": 234,
       "path": "archive/newspapers/frp.wapo.19721107b.md",
-      "url": "/archive/frp.wapo.19721107b/"
+      "url": "/archive/newspapers/frp.wapo.19721107b/"
     },
     {
       "title": "Judge Orders Indians Evicted",
@@ -1146,9 +1146,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 180,
+      "word_count": 167,
       "path": "archive/newspapers/frp.lat.19721106.md",
-      "url": "/archive/frp.lat.19721106/"
+      "url": "/archive/newspapers/frp.lat.19721106/"
     },
     {
       "title": "Indians Ask Nixon to Solve Impasse",
@@ -1157,9 +1157,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 290,
+      "word_count": 277,
       "path": "archive/newspapers/frp.nyt.19721106.md",
-      "url": "/archive/frp.nyt.19721106/"
+      "url": "/archive/newspapers/frp.nyt.19721106/"
     },
     {
       "title": "Officials, Indians Parley on Protest",
@@ -1168,9 +1168,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 777,
+      "word_count": 761,
       "path": "archive/newspapers/frp.wapo.19721105a.md",
-      "url": "/archive/frp.wapo.19721105a/"
+      "url": "/archive/newspapers/frp.wapo.19721105a/"
     },
     {
       "title": "500 Indians Seize U.S. Building After Scuffle With Capital Police",
@@ -1179,9 +1179,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 442,
+      "word_count": 426,
       "path": "archive/newspapers/frp.wapo.19721105.md",
-      "url": "/archive/frp.wapo.19721105/"
+      "url": "/archive/newspapers/frp.wapo.19721105/"
     },
     {
       "title": "Indians Staying in U.S. Building",
@@ -1190,9 +1190,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 299,
+      "word_count": 286,
       "path": "archive/newspapers/frp.nyt.19721105.md",
-      "url": "/archive/frp.nyt.19721105/"
+      "url": "/archive/newspapers/frp.nyt.19721105/"
     },
     {
       "title": "Building Held Third Night",
@@ -1201,9 +1201,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 231,
+      "word_count": 218,
       "path": "archive/newspapers/frp.lat.19721105.md",
-      "url": "/archive/frp.lat.19721105/"
+      "url": "/archive/newspapers/frp.lat.19721105/"
     },
     {
       "title": "Indians Continue Occupation of BIA",
@@ -1212,9 +1212,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 565,
+      "word_count": 549,
       "path": "archive/newspapers/frp.wapo.19721104a.md",
-      "url": "/archive/frp.wapo.19721104a/"
+      "url": "/archive/newspapers/frp.wapo.19721104a/"
     },
     {
       "title": "'Indians First, Always,' Demonstrator Declares",
@@ -1223,9 +1223,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 377,
+      "word_count": 362,
       "path": "archive/newspapers/frp.wapo.19721104.md",
-      "url": "/archive/frp.wapo.19721104/"
+      "url": "/archive/newspapers/frp.wapo.19721104/"
     },
     {
       "title": "Protesting Indians refuse to leave BIA building despite court order",
@@ -1234,9 +1234,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 264,
+      "word_count": 253,
       "path": "archive/newspapers/frp.minntrib.19721104.md",
-      "url": "/archive/frp.minntrib.19721104/"
+      "url": "/archive/newspapers/frp.minntrib.19721104/"
     },
     {
       "title": "Indians in Capital Defy a Court Order",
@@ -1245,9 +1245,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 511,
+      "word_count": 495,
       "path": "archive/newspapers/frp.nyt.19721104.md",
-      "url": "/archive/frp.nyt.19721104/"
+      "url": "/archive/newspapers/frp.nyt.19721104/"
     },
     {
       "title": "Indian Protest",
@@ -1256,9 +1256,9 @@
       "types": [
         "television-reports"
       ],
-      "word_count": 139,
+      "word_count": 129,
       "path": "archive/television/frp.nbc.19721103.md",
-      "url": "/archive/frp.nbc.19721103/"
+      "url": "/archive/television/frp.nbc.19721103/"
     },
     {
       "title": "300 Indians Seize Capital Building and Close Bureau",
@@ -1267,9 +1267,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 277,
+      "word_count": 264,
       "path": "archive/newspapers/frp.lat.19721103.md",
-      "url": "/archive/frp.lat.19721103/"
+      "url": "/archive/newspapers/frp.lat.19721103/"
     },
     {
       "title": "Indians Rampage in Capital Building",
@@ -1278,9 +1278,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 421,
+      "word_count": 408,
       "path": "archive/newspapers/frp.lat.19721104.md",
-      "url": "/archive/frp.lat.19721104/"
+      "url": "/archive/newspapers/frp.lat.19721104/"
     },
     {
       "title": "500 Indians Seize U.S. Building After Scuffle With Capital Police",
@@ -1289,9 +1289,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 534,
+      "word_count": 518,
       "path": "archive/newspapers/frp.nyt.19721103.md",
-      "url": "/archive/frp.nyt.19721103/"
+      "url": "/archive/newspapers/frp.nyt.19721103/"
     },
     {
       "title": "500 Indians Here Seize U.S. Building",
@@ -1300,9 +1300,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 622,
+      "word_count": 607,
       "path": "archive/newspapers/frp.wapo.19721103.md",
-      "url": "/archive/frp.wapo.19721103/"
+      "url": "/archive/newspapers/frp.wapo.19721103/"
     },
     {
       "title": "Indians Refused Permission to Use Arlington Cemetery for Services",
@@ -1311,9 +1311,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 291,
+      "word_count": 276,
       "path": "archive/newspapers/frp.wapo.19721102.md",
-      "url": "/archive/frp.wapo.19721102/"
+      "url": "/archive/newspapers/frp.wapo.19721102/"
     },
     {
       "title": "Indians Converging on D.C. for Rallies",
@@ -1322,9 +1322,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 461,
+      "word_count": 446,
       "path": "archive/newspapers/frp.wapo.19721031.md",
-      "url": "/archive/frp.wapo.19721031/"
+      "url": "/archive/newspapers/frp.wapo.19721031/"
     },
     {
       "title": "Indians to Begin Capital Protests",
@@ -1333,9 +1333,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 204,
+      "word_count": 188,
       "path": "archive/newspapers/frp.nyt.19721031.md",
-      "url": "/archive/frp.nyt.19721031/"
+      "url": "/archive/newspapers/frp.nyt.19721031/"
     },
     {
       "title": "Twenty Points for Renewal of Contracts - Reconstruction of Indian Communities and Securing an Indian Future in America",
@@ -1344,9 +1344,9 @@
       "types": [
         "other"
       ],
-      "word_count": 3492,
+      "word_count": 3480,
       "path": "archive/other/frp.tbt.19721027.md",
-      "url": "/archive/frp.tbt.19721027/"
+      "url": "/archive/other/frp.tbt.19721027/"
     },
     {
       "title": "300 Indians Protest Proposed Fund Cut",
@@ -1355,9 +1355,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 63,
+      "word_count": 51,
       "path": "archive/newspapers/frp.wapo.19721019.md",
-      "url": "/archive/frp.wapo.19721019/"
+      "url": "/archive/newspapers/frp.wapo.19721019/"
     },
     {
       "title": "Indians to Drive to Capital",
@@ -1366,9 +1366,9 @@
       "types": [
         "newspaper-reports"
       ],
-      "word_count": 65,
+      "word_count": 52,
       "path": "archive/newspapers/frp.nyt.19721005.md",
-      "url": "/archive/frp.nyt.19721005/"
+      "url": "/archive/newspapers/frp.nyt.19721005/"
     },
     {
       "title": "Special Message to the Congress on Indian Affairs",
@@ -1377,9 +1377,9 @@
       "types": [
         "other"
       ],
-      "word_count": 3115,
+      "word_count": 3103,
       "path": "archive/other/frp.speech.19700708.md",
-      "url": "/archive/frp.speech.19700708/"
+      "url": "/archive/other/frp.speech.19700708/"
     },
     {
       "title": "General Allotment Act",
@@ -1388,9 +1388,9 @@
       "types": [
         "other"
       ],
-      "word_count": 1072,
+      "word_count": 1063,
       "path": "archive/other/frp.tbt.18870208.md",
-      "url": "/archive/frp.tbt.18870208/"
+      "url": "/archive/other/frp.tbt.18870208/"
     },
     {
       "title": "Treaty of Guadalupe Hildago",
@@ -1399,9 +1399,9 @@
       "types": [
         "other"
       ],
-      "word_count": 2842,
+      "word_count": 2833,
       "path": "archive/other/frp.tbt.18480704.md",
-      "url": "/archive/frp.tbt.18480704/"
+      "url": "/archive/other/frp.tbt.18480704/"
     },
     {
       "title": "Treaty of Guadalupe Hildago",
@@ -1410,9 +1410,9 @@
       "types": [
         "other"
       ],
-      "word_count": 2842,
+      "word_count": 2833,
       "path": "archive/other/frp.tbt.18840704.md",
-      "url": "/archive/frp.tbt.18840704/"
+      "url": "/archive/other/frp.tbt.18840704/"
     },
     {
       "title": "",
@@ -1421,20 +1421,9 @@
       "types": [
         "television-reports"
       ],
-      "word_count": 22,
+      "word_count": 15,
       "path": "archive/television/frp.tv.md",
-      "url": "/archive/frp.tv/"
-    },
-    {
-      "title": "",
-      "date": null,
-      "publication": "",
-      "types": [
-        "other"
-      ],
-      "word_count": 8,
-      "path": "archive/fbi/aim.fbi.00001.md",
-      "url": "/archive/aim.fbi.00001/"
+      "url": "/archive/television/frp.tv/"
     }
   ],
   "date_frequencies": {
@@ -1446,7 +1435,7 @@
       "bureau": 19,
       "affairs": 18,
       "bia": 17,
-      "washington": 14,
+      "washington": 13,
       "american": 13,
       "told": 13,
       "interior": 12,
@@ -1457,11 +1446,8 @@
       "bruce": 11,
       "department": 11,
       "inside": 11,
-      "xml": 10,
       "stay": 10,
       "protesters": 10,
-      "source": 9,
-      "date": 9,
       "john": 9,
       "today": 9,
       "commissioner": 9,
@@ -1470,7 +1456,6 @@
       "leave": 8,
       "demonstrators": 8,
       "office": 8,
-      "original": 7,
       "protest": 7,
       "offices": 7,
       "guards": 7,
@@ -1488,7 +1473,11 @@
       "housing": 6,
       "part": 6,
       "banks": 6,
-      "1972-11-03": 5
+      "late": 5,
+      "way": 5,
+      "nixon": 5,
+      "later": 5,
+      "bellecourt": 5
     },
     "1884-07-04": {
       "shall": 258,
@@ -1706,14 +1695,13 @@
       "bia": 14,
       "white": 12,
       "house": 12,
-      "washington": 11,
+      "washington": 9,
       "indians": 9,
       "ntca": 8,
       "yesterday": 7,
       "gsa": 7,
       "leaders": 7,
       "commissioner": 7,
-      "post": 6,
       "done": 6,
       "federal": 6,
       "national": 6,
@@ -1725,7 +1713,6 @@
       "aim": 6,
       "agreement": 6,
       "trimble": 6,
-      "source": 5,
       "officials": 5,
       "spokesmen": 5,
       "administration": 5,
@@ -1739,16 +1726,18 @@
       "chief": 5,
       "bruce": 5,
       "adams": 5,
-      "date": 4,
-      "author": 4,
-      "xml": 4,
       "ever": 4,
+      "post": 4,
       "affairs": 4,
       "cost": 4,
       "paintings": 4,
       "artifacts": 4,
       "estimates": 4,
-      "repairs": 4
+      "repairs": 4,
+      "day": 4,
+      "wednesday": 4,
+      "first": 4,
+      "amount": 4
     },
     "1972-11-05": {
       "building": 44,
@@ -1766,10 +1755,6 @@
       "interior": 9,
       "treaties": 9,
       "inside": 9,
-      "source": 8,
-      "date": 8,
-      "original": 8,
-      "xml": 8,
       "protest": 8,
       "today": 8,
       "department": 8,
@@ -1782,8 +1767,6 @@
       "friday": 7,
       "bia": 7,
       "land": 7,
-      "washington": 6,
-      "author": 6,
       "last": 6,
       "leaders": 6,
       "order": 6,
@@ -1800,7 +1783,13 @@
       "group": 6,
       "help": 6,
       "third": 5,
-      "negotiations": 5
+      "negotiations": 5,
+      "john": 5,
+      "contempt": 5,
+      "accomodations": 5,
+      "mcintire": 5,
+      "war": 5,
+      "national": 5
     },
     "1972-12-03": {
       "indian": 37,
@@ -1812,18 +1801,13 @@
       "bia": 17,
       "affairs": 15,
       "bruce": 15,
-      "source": 14,
-      "xml": 14,
       "officials": 13,
       "loesch": 13,
       "crow": 13,
       "action": 13,
-      "date": 12,
       "bureau": 12,
       "federal": 12,
       "secretary": 12,
-      "chicago": 11,
-      "tribune": 11,
       "house": 11,
       "today": 10,
       "spokesman": 10,
@@ -1831,11 +1815,7 @@
       "bodman": 9,
       "white": 8,
       "judge": 8,
-      "1972-12-03": 7,
-      "page": 7,
-      "original": 7,
-      "tei": 7,
-      "frp": 7,
+      "source": 7,
       "american": 7,
       "last": 7,
       "three": 7,
@@ -1848,11 +1828,20 @@
       "john": 6,
       "refused": 6,
       "nixon": 6,
+      "chicago": 5,
+      "tribune": 5,
+      "date": 5,
       "author": 5,
-      "washington": 5,
       "ordered": 5,
       "yesterday": 5,
-      "however": 5
+      "however": 5,
+      "protesters": 5,
+      "president": 5,
+      "talks": 5,
+      "tomorrow": 5,
+      "negotiators": 5,
+      "representatives": 5,
+      "tonight": 5
     },
     "1972-11-10": {
       "building": 43,
@@ -1865,7 +1854,6 @@
       "tribal": 14,
       "department": 13,
       "agreement": 13,
-      "source": 12,
       "officials": 12,
       "interior": 12,
       "white": 12,
@@ -1873,8 +1861,6 @@
       "spokesman": 11,
       "loesch": 11,
       "hawk": 11,
-      "date": 10,
-      "xml": 10,
       "office": 9,
       "yesterday": 9,
       "representatives": 9,
@@ -1882,7 +1868,7 @@
       "prosecution": 9,
       "bureau": 8,
       "chairmen": 8,
-      "author": 7,
+      "source": 7,
       "affairs": 7,
       "today": 7,
       "documents": 7,
@@ -1890,7 +1876,6 @@
       "broken": 7,
       "last": 7,
       "occupation": 7,
-      "washington": 7,
       "president": 7,
       "national": 7,
       "decision": 7,
@@ -1904,7 +1889,11 @@
       "night": 6,
       "set": 6,
       "reservations": 6,
-      "called": 6
+      "called": 6,
+      "american": 6,
+      "records": 6,
+      "date": 5,
+      "november": 5
     },
     "1972-11-04": {
       "indians": 53,
@@ -1929,24 +1918,19 @@
       "people": 9,
       "government": 9,
       "american": 9,
-      "source": 8,
-      "washington": 8,
-      "date": 8,
-      "xml": 8,
       "department": 8,
       "leave": 8,
       "federal": 8,
-      "author": 7,
       "day": 7,
       "protesters": 7,
       "commissioner": 7,
       "thursday": 7,
       "house": 7,
       "back": 7,
+      "washington": 6,
       "marshals": 6,
       "services": 6,
       "first": 6,
-      "original": 5,
       "stay": 5,
       "earlier": 5,
       "action": 5,
@@ -1956,19 +1940,24 @@
       "doors": 5,
       "trail": 5,
       "broken": 5,
-      "right": 5
+      "right": 5,
+      "land": 5,
+      "years": 5,
+      "country": 5,
+      "occupation": 4,
+      "source": 4
     },
     "1972-11-25": {
       "adams": 33,
       "indian": 12,
       "building": 8,
       "indians": 8,
-      "washington": 7,
       "white": 7,
       "fishing": 7,
       "net": 7,
       "bia": 6,
       "movie": 6,
+      "washington": 6,
       "police": 6,
       "leaders": 5,
       "fish": 5,
@@ -1986,7 +1975,6 @@
       "negotiations": 4,
       "documents": 4,
       "agreement": 4,
-      "post": 3,
       "banks": 3,
       "bellecourt": 3,
       "river": 3,
@@ -2000,15 +1988,16 @@
       "caravan": 3,
       "patterson": 3,
       "house": 3,
-      "source": 2,
-      "date": 2,
-      "original": 2,
-      "xml": 2,
+      "post": 2,
       "november": 2,
       "showing": 2,
       "done": 2,
       "hank": 2,
-      "inside": 2
+      "inside": 2,
+      "affairs": 2,
+      "women": 2,
+      "followed": 2,
+      "government": 2
     },
     "1972-11-08": {
       "indians": 45,
@@ -2026,16 +2015,12 @@
       "government": 7,
       "court": 7,
       "president": 7,
-      "source": 6,
-      "date": 6,
-      "xml": 6,
       "leave": 6,
       "bureau": 6,
       "officials": 6,
       "day": 6,
       "many": 6,
       "tribal": 6,
-      "author": 5,
       "negotiators": 5,
       "office": 5,
       "noon": 5,
@@ -2047,8 +2032,6 @@
       "means": 5,
       "came": 5,
       "leaders": 5,
-      "times": 4,
-      "original": 4,
       "november": 4,
       "night": 4,
       "leaving": 4,
@@ -2057,10 +2040,16 @@
       "adams": 4,
       "talks": 4,
       "tonight": 4,
-      "washington": 4,
       "security": 4,
       "around": 4,
-      "eviction": 4
+      "eviction": 4,
+      "steps": 4,
+      "carlucci": 4,
+      "budget": 4,
+      "garment": 4,
+      "nixon": 4,
+      "come": 4,
+      "task": 4
     },
     "1972-12-02": {
       "indian": 22,
@@ -2078,17 +2067,12 @@
       "water": 6,
       "land": 6,
       "president": 6,
-      "washington": 5,
       "affairs": 5,
       "commissioner": 5,
       "secretary": 5,
       "members": 5,
       "rights": 5,
       "years": 5,
-      "source": 4,
-      "post": 4,
-      "date": 4,
-      "xml": 4,
       "white": 4,
       "spokesman": 4,
       "last": 4,
@@ -2096,8 +2080,7 @@
       "kind": 4,
       "trust": 4,
       "services": 4,
-      "page": 3,
-      "original": 3,
+      "washington": 3,
       "bureau": 3,
       "taken": 3,
       "deputy": 3,
@@ -2112,7 +2095,13 @@
       "occupation": 3,
       "building": 3,
       "year": 3,
-      "criticism": 3
+      "criticism": 3,
+      "involve": 3,
+      "congress": 3,
+      "bureaucracy": 3,
+      "tribes": 3,
+      "loesch": 3,
+      "trail": 3
     },
     "1972-11-09": {
       "indian": 73,
@@ -2129,20 +2118,16 @@
       "affairs": 14,
       "files": 13,
       "house": 13,
-      "source": 12,
-      "date": 12,
-      "xml": 12,
       "means": 12,
       "people": 12,
-      "washington": 11,
       "last": 11,
-      "author": 10,
       "night": 10,
       "broken": 10,
       "treaties": 10,
       "incriminating": 10,
       "took": 10,
       "states": 10,
+      "washington": 8,
       "trail": 8,
       "interior": 8,
       "president": 8,
@@ -2152,37 +2137,37 @@
       "department": 7,
       "spokesman": 7,
       "four": 7,
-      "new": 7,
-      "times": 7,
       "began": 7,
-      "post": 6,
-      "1972-11-09": 6,
-      "page": 6,
-      "original": 6,
-      "tei": 6,
-      "frp": 6,
+      "source": 6,
+      "date": 6,
       "november": 6,
+      "author": 6,
       "seized": 6,
       "removed": 6,
-      "reports": 6
+      "reports": 6,
+      "negotiations": 6,
+      "three": 6,
+      "evidence": 6,
+      "leaving": 6,
+      "called": 6,
+      "militants": 6,
+      "ago": 6,
+      "tonight": 6,
+      "problems": 6
     },
     "1972-11-15": {
       "indians": 16,
       "bia": 14,
       "indian": 14,
-      "washington": 8,
-      "date": 8,
       "building": 8,
-      "source": 6,
-      "post": 6,
-      "xml": 6,
       "artifacts": 5,
       "documents": 5,
+      "washington": 5,
+      "date": 5,
       "spokesman": 5,
       "yesterday": 5,
       "protest": 5,
       "president": 5,
-      "author": 4,
       "stolen": 4,
       "clinton": 4,
       "house": 4,
@@ -2190,13 +2175,10 @@
       "haley": 4,
       "interior": 4,
       "set": 4,
-      "1972-11-15": 3,
-      "page": 3,
-      "original": 3,
-      "tei": 3,
-      "frp": 3,
-      "wapo": 3,
+      "source": 3,
+      "post": 3,
       "november": 3,
+      "author": 3,
       "affairs": 3,
       "came": 3,
       "white": 3,
@@ -2212,11 +2194,18 @@
       "far": 3,
       "rights": 3,
       "paiutes": 3,
-      "donald": 2,
-      "baker": 2,
       "recovered": 2,
       "speeding": 2,
-      "three": 2
+      "three": 2,
+      "bureau": 2,
+      "anadarko": 2,
+      "horton": 2,
+      "leaders": 2,
+      "took": 2,
+      "thefts": 2,
+      "announced": 2,
+      "conference": 2,
+      "protesters": 2
     },
     "1972-11-07": {
       "indians": 86,
@@ -2227,19 +2216,16 @@
       "order": 27,
       "bia": 24,
       "judge": 20,
-      "washington": 18,
       "treaties": 18,
       "pratt": 17,
       "officials": 17,
       "protesters": 16,
       "broken": 16,
+      "washington": 15,
       "appeals": 15,
       "trail": 14,
-      "source": 13,
       "bureau": 13,
       "time": 13,
-      "date": 12,
-      "xml": 12,
       "affairs": 12,
       "white": 12,
       "interior": 11,
@@ -2248,7 +2234,6 @@
       "caravan": 10,
       "group": 10,
       "many": 10,
-      "author": 9,
       "leave": 9,
       "house": 9,
       "fight": 9,
@@ -2264,11 +2249,15 @@
       "district": 8,
       "agreement": 8,
       "conference": 8,
-      "new": 8,
+      "source": 7,
       "november": 7,
       "thursday": 7,
       "came": 7,
-      "ruling": 7
+      "ruling": 7,
+      "went": 7,
+      "held": 7,
+      "department": 7,
+      "tribal": 7
     },
     "1972-12-12": {
       "indian": 33,
@@ -2281,18 +2270,10 @@
       "police": 8,
       "began": 8,
       "rights": 8,
-      "washington": 7,
-      "post": 7,
       "government": 7,
       "affairs": 7,
       "white": 7,
       "administration": 7,
-      "source": 6,
-      "date": 6,
-      "author": 6,
-      "jack": 6,
-      "anderson": 6,
-      "xml": 6,
       "building": 6,
       "files": 6,
       "papers": 6,
@@ -2302,6 +2283,8 @@
       "tribes": 5,
       "president": 5,
       "memo": 5,
+      "washington": 4,
+      "post": 4,
       "caravan": 4,
       "bureau": 4,
       "night": 4,
@@ -2311,26 +2294,27 @@
       "secretary": 4,
       "deputy": 4,
       "power": 4,
-      "1972-12-12": 3,
-      "page": 3,
-      "original": 3,
-      "tei": 3,
-      "frp": 3,
-      "wapo": 3,
+      "source": 3,
+      "date": 3,
       "december": 3,
+      "author": 3,
+      "jack": 3,
+      "anderson": 3,
       "story": 3,
       "discovered": 3,
-      "truck": 3
+      "truck": 3,
+      "sleeping": 3,
+      "bags": 3,
+      "broken": 3,
+      "federal": 3,
+      "hidden": 3,
+      "thousands": 3,
+      "treaties": 3
     },
     "1972-12-18": {
       "indians": 13,
       "bureau": 6,
       "bia": 4,
-      "time": 3,
-      "source": 2,
-      "magazine": 2,
-      "date": 2,
-      "xml": 2,
       "indian": 2,
       "operation": 2,
       "broken": 2,
@@ -2348,12 +2332,12 @@
       "commissioner": 2,
       "assistant": 2,
       "harris": 2,
-      "1972-12-18": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
       "drums": 1,
       "potomac": 1,
+      "source": 1,
+      "time": 1,
+      "magazine": 1,
+      "date": 1,
       "december": 1,
       "author": 1,
       "nov": 1,
@@ -2372,7 +2356,12 @@
       "achieved": 1,
       "national": 1,
       "notoriety": 1,
-      "urban-oriented": 1
+      "urban-oriented": 1,
+      "young": 1,
+      "called": 1,
+      "mission": 1,
+      "trail": 1,
+      "began": 1
     },
     "1972-10-31": {
       "indian": 26,
@@ -2380,16 +2369,12 @@
       "burnette": 7,
       "leaders": 6,
       "caravan": 6,
-      "washington": 5,
       "tribes": 5,
       "group": 5,
       "bureau": 5,
       "affairs": 5,
       "problems": 5,
-      "source": 4,
-      "date": 4,
-      "author": 4,
-      "xml": 4,
+      "washington": 4,
       "week": 4,
       "sioux": 4,
       "today": 4,
@@ -2410,21 +2395,25 @@
       "department": 3,
       "demonstrators": 3,
       "site": 3,
-      "new": 3,
       "park": 3,
       "potomac": 3,
-      "post": 2,
-      "1972-10-31": 2,
-      "page": 2,
-      "raul": 2,
-      "ramirez": 2,
-      "original": 2,
-      "tei": 2,
-      "frp": 2,
       "converging": 2,
+      "source": 2,
+      "date": 2,
       "october": 2,
+      "author": 2,
       "come": 2,
-      "nation": 2
+      "nation": 2,
+      "began": 2,
+      "yesterday": 2,
+      "activities": 2,
+      "first": 2,
+      "contingent": 2,
+      "broken": 2,
+      "treaties": 2,
+      "trip": 2,
+      "san": 2,
+      "francisco": 2
     },
     "1972-12-05": {
       "indian": 30,
@@ -2443,10 +2432,6 @@
       "officials": 5,
       "building": 5,
       "urban": 5,
-      "source": 4,
-      "times": 4,
-      "date": 4,
-      "xml": 4,
       "authority": 4,
       "aides": 4,
       "occupation": 4,
@@ -2455,7 +2440,6 @@
       "federal": 4,
       "many": 4,
       "bia": 4,
-      "original": 3,
       "permit": 3,
       "however": 3,
       "taken": 3,
@@ -2474,9 +2458,14 @@
       "least": 3,
       "among": 3,
       "militants": 3,
-      "los": 3,
-      "angeles": 3,
-      "recent": 3
+      "recent": 3,
+      "headquarters": 3,
+      "agency": 3,
+      "americans": 3,
+      "country": 3,
+      "national": 3,
+      "public": 3,
+      "militant": 3
     },
     "1973-02-01": {
       "whitten": 20,
@@ -2489,13 +2478,12 @@
       "fbi": 14,
       "anderson": 12,
       "boyer": 11,
-      "washington": 10,
       "house": 10,
       "stolen": 9,
+      "washington": 8,
       "collins": 8,
       "government": 8,
       "arrested": 6,
-      "post": 5,
       "last": 5,
       "american": 5,
       "indians": 5,
@@ -2508,10 +2496,6 @@
       "told": 5,
       "return": 5,
       "cartons": 5,
-      "source": 4,
-      "date": 4,
-      "author": 4,
-      "xml": 4,
       "lanier": 4,
       "women": 4,
       "affairs": 4,
@@ -2523,12 +2507,17 @@
       "federal": 4,
       "reporters": 4,
       "apartment": 4,
-      "donald": 3,
-      "baker": 3,
-      "original": 3,
+      "post": 3,
       "search": 3,
       "warrant": 3,
-      "rhode": 3
+      "rhode": 3,
+      "ave": 3,
+      "columnist": 3,
+      "jack": 3,
+      "receiving": 3,
+      "school": 3,
+      "johnny": 3,
+      "agent": 3
     },
     "1972-11-06": {
       "indians": 21,
@@ -2539,13 +2528,8 @@
       "judge": 6,
       "federal": 6,
       "court": 5,
-      "source": 4,
-      "times": 4,
-      "date": 4,
-      "xml": 4,
       "affairs": 4,
       "pratt": 4,
-      "new": 4,
       "nixon": 4,
       "banks": 4,
       "arranged": 4,
@@ -2557,18 +2541,15 @@
       "added": 3,
       "time": 3,
       "interior": 3,
+      "new": 3,
       "president": 3,
       "tonight": 3,
       "officials": 3,
       "tomorrow": 3,
       "latest": 3,
-      "los": 2,
-      "angeles": 2,
-      "1972-11-06": 2,
-      "page": 2,
-      "original": 2,
-      "tei": 2,
-      "frp": 2,
+      "source": 2,
+      "times": 2,
+      "date": 2,
       "november": 2,
       "author": 2,
       "thursday": 2,
@@ -2580,7 +2561,15 @@
       "given": 2,
       "district": 2,
       "columbia": 2,
-      "contempt": 2
+      "contempt": 2,
+      "something": 2,
+      "war": 2,
+      "deadline": 2,
+      "department": 2,
+      "evacuate": 2,
+      "treaties": 2,
+      "caravan": 2,
+      "took": 2
     },
     "1972-12-07": {
       "indian": 20,
@@ -2611,7 +2600,6 @@
       "nov": 4,
       "night": 4,
       "use": 4,
-      "new": 3,
       "protest": 3,
       "grievances": 3,
       "seizure": 3,
@@ -2632,27 +2620,21 @@
       "states": 3,
       "court": 3,
       "district": 3,
-      "statement": 3
+      "statement": 3,
+      "resolved": 2
     },
     "1972-10-05": {
       "indian": 3,
-      "source": 2,
-      "new": 2,
-      "york": 2,
-      "times": 2,
-      "date": 2,
-      "xml": 2,
       "capital": 2,
       "caravans": 2,
       "american": 2,
-      "1972-10-05": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "nyt": 1,
       "indians": 1,
       "drive": 1,
+      "source": 1,
+      "new": 1,
+      "york": 1,
+      "times": 1,
+      "date": 1,
       "october": 1,
       "author": 1,
       "leaders": 1,
@@ -2684,7 +2666,11 @@
       "angeles": 1,
       "several": 1,
       "canadian": 1,
-      "cities": 1
+      "cities": 1,
+      "hoping": 1,
+      "reach": 1,
+      "washington": 1,
+      "nov": 1
     },
     "1973-01-12": {
       "indian": 10,
@@ -2698,15 +2684,10 @@
       "officials": 5,
       "white": 5,
       "house": 5,
-      "new": 4,
       "members": 4,
       "tribes": 4,
+      "new": 3,
       "indians": 3,
-      "source": 2,
-      "york": 2,
-      "times": 2,
-      "date": 2,
-      "xml": 2,
       "return": 2,
       "author": 2,
       "paintings": 2,
@@ -2736,7 +2717,12 @@
       "interior": 2,
       "department": 2,
       "reached": 2,
-      "security": 2
+      "security": 2,
+      "leader": 1,
+      "pledges": 1,
+      "source": 1,
+      "york": 1,
+      "times": 1
     },
     "1972-12-19": {
       "indian": 12,
@@ -2745,15 +2731,6 @@
       "indians": 8,
       "reservation": 6,
       "bia": 6,
-      "source": 2,
-      "washington": 2,
-      "post": 2,
-      "date": 2,
-      "b15": 2,
-      "author": 2,
-      "jack": 2,
-      "anderson": 2,
-      "xml": 2,
       "forgotten": 2,
       "man": 2,
       "city": 2,
@@ -2777,18 +2754,27 @@
       "interior": 2,
       "secretary": 2,
       "morton": 2,
-      "1972-12-19": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "wapo": 1,
+      "source": 1,
+      "washington": 1,
+      "post": 1,
+      "b15": 1,
+      "date": 1,
       "december": 1,
+      "author": 1,
+      "jack": 1,
+      "anderson": 1,
       "fled": 1,
       "dry-dirt": 1,
       "poverty": 1,
       "seek": 1,
-      "fortune": 1
+      "fortune": 1,
+      "become": 1,
+      "american": 1,
+      "often": 1,
+      "gave": 1,
+      "hard": 1,
+      "open": 1,
+      "range": 1
     },
     "1973-02-08": {
       "indian": 28,
@@ -2805,7 +2791,6 @@
       "years": 4,
       "variety": 4,
       "problem": 4,
-      "washington": 3,
       "caravan": 3,
       "bureau": 3,
       "last": 3,
@@ -2821,11 +2806,7 @@
       "employment": 3,
       "don": 3,
       "private": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "a22": 2,
-      "xml": 2,
+      "washington": 2,
       "trail": 2,
       "broken": 2,
       "treaties": 2,
@@ -2840,7 +2821,12 @@
       "destruction": 2,
       "good": 2,
       "residents": 2,
-      "prepared": 2
+      "prepared": 2,
+      "people": 2,
+      "agency": 2,
+      "legislative": 2,
+      "interior": 2,
+      "packages": 2
     },
     "1972-11-19": {
       "indians": 14,
@@ -2861,14 +2847,6 @@
       "way": 3,
       "caravan": 3,
       "actions": 3,
-      "source": 2,
-      "chicago": 2,
-      "tribune": 2,
-      "date": 2,
-      "author": 2,
-      "nick": 2,
-      "thimmesch": 2,
-      "xml": 2,
       "militants": 2,
       "bureau": 2,
       "hundred": 2,
@@ -2892,28 +2870,29 @@
       "council": 2,
       "proposal": 2,
       "mistakes": 2,
-      "1972-11-19": 1
+      "mishandled": 1,
+      "source": 1,
+      "chicago": 1,
+      "tribune": 1,
+      "date": 1,
+      "november": 1,
+      "author": 1,
+      "nick": 1,
+      "thimmesch": 1
     },
     "1972-10-19": {
-      "washington": 3,
       "indians": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "xml": 2,
       "protest": 2,
       "proposed": 2,
+      "washington": 2,
       "american": 2,
       "indian": 2,
       "watts": 2,
-      "1972-10-19": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "wapo": 1,
       "fund": 1,
       "cut": 1,
+      "source": 1,
+      "post": 1,
+      "date": 1,
       "october": 1,
       "author": 1,
       "leader": 1,
@@ -2961,7 +2940,6 @@
       "stephens": 5,
       "peake": 5,
       "employees": 4,
-      "washington": 3,
       "affairs": 3,
       "main": 3,
       "downtown": 3,
@@ -2978,11 +2956,8 @@
       "secretary": 3,
       "room": 3,
       "hicks": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "xml": 2,
       "cold": 2,
+      "washington": 2,
       "bureau": 2,
       "exiled": 2,
       "structure": 2,
@@ -2996,7 +2971,11 @@
       "employee": 2,
       "hard": 2,
       "public": 2,
-      "jobs": 2
+      "jobs": 2,
+      "way": 2,
+      "back": 2,
+      "come": 2,
+      "bad": 2
     },
     "1973-02-12": {
       "adams": 38,
@@ -3009,30 +2988,28 @@
       "return": 11,
       "indian": 10,
       "returned": 10,
-      "time": 9,
       "asked": 9,
       "stolen": 8,
       "apartment": 8,
+      "time": 7,
       "hank": 7,
       "arrest": 7,
       "cartons": 7,
       "pigeon": 7,
-      "date": 6,
       "arrested": 6,
       "reporter": 6,
       "indians": 6,
-      "washington": 6,
       "name": 6,
       "jury": 6,
       "building": 6,
       "miss": 6,
+      "washington": 5,
       "hyten": 5,
       "grand": 5,
       "jan": 5,
       "arellano": 5,
       "told": 5,
-      "source": 4,
-      "xml": 4,
+      "date": 4,
       "jack": 4,
       "last": 4,
       "car": 4,
@@ -3048,31 +3025,26 @@
       "columns": 3,
       "taken": 3,
       "bureau": 3,
-      "affairs": 3
+      "affairs": 3,
+      "november": 3,
+      "charged": 3
     },
     "1972-11-18": {
       "sioux": 4,
       "indian": 4,
-      "washington": 3,
       "aim": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "a23": 2,
-      "xml": 2,
       "outraged": 2,
+      "washington": 2,
       "oglala": 2,
       "bureau": 2,
       "affairs": 2,
       "wilson": 2,
       "reservation": 2,
-      "1972-11-18": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "wapo": 1,
       "leader": 1,
+      "source": 1,
+      "post": 1,
+      "a23": 1,
+      "date": 1,
       "november": 1,
       "author": 1,
       "chairman": 1,
@@ -3100,7 +3072,14 @@
       "russell": 1,
       "means": 1,
       "national": 1,
-      "official": 1
+      "official": 1,
+      "seeking": 1,
+      "permission": 1,
+      "united": 1,
+      "tribes": 1,
+      "south": 1,
+      "dakota": 1,
+      "visit": 1
     },
     "1973-02-04": {
       "arellano": 15,
@@ -3116,17 +3095,12 @@
       "adams": 4,
       "whitten": 4,
       "caravan": 4,
-      "source": 3,
       "stolen": 3,
       "three": 3,
       "city": 3,
       "joined": 3,
-      "los": 2,
-      "angeles": 2,
-      "times": 2,
-      "date": 2,
-      "xml": 2,
       "activist": 2,
+      "source": 2,
       "leader": 2,
       "friend": 2,
       "american": 2,
@@ -3152,7 +3126,12 @@
       "ago": 2,
       "several": 2,
       "boyer": 2,
-      "brother": 2
+      "brother": 2,
+      "fellow": 1,
+      "turns": 1,
+      "officer": 1,
+      "los": 1,
+      "angeles": 1
     },
     "1972-12-06": {
       "indian": 4,
@@ -3161,25 +3140,18 @@
       "affairs": 3,
       "top": 3,
       "crow": 3,
-      "source": 2,
-      "los": 2,
-      "angeles": 2,
-      "times": 2,
-      "date": 2,
-      "xml": 2,
       "rumored": 2,
       "today": 2,
       "secretary": 2,
       "interior": 2,
       "bureau": 2,
       "last": 2,
-      "1972-12-06": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "lat": 1,
       "shakeup": 1,
+      "source": 1,
+      "los": 1,
+      "angeles": 1,
+      "times": 1,
+      "date": 1,
       "december": 1,
       "author": 1,
       "government": 1,
@@ -3204,7 +3176,14 @@
       "matters": 1,
       "morotn": 1,
       "sic": 1,
-      "acted": 1
+      "acted": 1,
+      "wake": 1,
+      "six-day": 1,
+      "takeover": 1,
+      "militants": 1,
+      "early": 1,
+      "november": 1,
+      "provoked": 1
     },
     "1973-01-11": {
       "government": 6,
@@ -3214,8 +3193,6 @@
       "bia": 5,
       "adams": 4,
       "assistant": 4,
-      "source": 3,
-      "washington": 3,
       "demands": 3,
       "reforms": 3,
       "white": 3,
@@ -3230,10 +3207,8 @@
       "secretary": 3,
       "interior": 3,
       "commissioner": 3,
-      "post": 2,
-      "date": 2,
-      "a15": 2,
-      "xml": 2,
+      "source": 2,
+      "washington": 2,
       "administration": 2,
       "night": 2,
       "november": 2,
@@ -3255,8 +3230,12 @@
       "bruce": 2,
       "crow": 2,
       "bodman": 2,
-      "1973-01-11": 1,
-      "page": 1
+      "rejects": 1,
+      "supports": 1,
+      "post": 1,
+      "a15": 1,
+      "date": 1,
+      "january": 1
     },
     "1972-11-23": {
       "building": 10,
@@ -3270,8 +3249,6 @@
       "government": 4,
       "employees": 4,
       "since": 4,
-      "washington": 3,
-      "date": 3,
       "federal": 3,
       "first": 3,
       "floors": 3,
@@ -3287,11 +3264,9 @@
       "tour": 3,
       "farrison": 3,
       "paint": 3,
-      "source": 2,
-      "post": 2,
-      "original": 2,
-      "xml": 2,
       "accused": 2,
+      "washington": 2,
+      "date": 2,
       "several": 2,
       "leaders": 2,
       "affairs": 2,
@@ -3308,7 +3283,11 @@
       "department": 2,
       "refused": 2,
       "comment": 2,
-      "responsibility": 2
+      "responsibility": 2,
+      "peter": 2,
+      "chairman": 2,
+      "navajo": 2,
+      "nation": 2
     },
     "1972-12-04": {
       "bia": 7,
@@ -3320,14 +3299,6 @@
       "bodman": 3,
       "secretary": 3,
       "building": 3,
-      "source": 2,
-      "washington": 2,
-      "post": 2,
-      "date": 2,
-      "author": 2,
-      "donald": 2,
-      "baker": 2,
-      "xml": 2,
       "work": 2,
       "yesterday": 2,
       "back": 2,
@@ -3349,18 +3320,26 @@
       "haley": 2,
       "damage": 2,
       "caravan": 2,
-      "1972-12-04": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "wapo": 1,
       "resume": 1,
+      "source": 1,
+      "washington": 1,
+      "post": 1,
+      "date": 1,
       "december": 1,
+      "author": 1,
+      "donald": 1,
+      "baker": 1,
       "new": 1,
       "acting": 1,
       "director": 1,
-      "expects": 1
+      "expects": 1,
+      "desks": 1,
+      "wednesday": 1,
+      "ending": 1,
+      "paid": 1,
+      "many": 1,
+      "richard": 1,
+      "named": 1
     },
     "1972-11-27": {
       "house": 17,
@@ -3376,7 +3355,6 @@
       "aides": 4,
       "occupation": 4,
       "patterson": 4,
-      "washington": 3,
       "day": 3,
       "political": 3,
       "affairs": 3,
@@ -3386,11 +3364,7 @@
       "public": 3,
       "indians": 3,
       "liberal": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "a23": 2,
-      "xml": 2,
+      "washington": 2,
       "john": 2,
       "letter": 2,
       "refused": 2,
@@ -3409,31 +3383,32 @@
       "haley": 2,
       "loesch": 2,
       "move": 2,
-      "1972-11-27": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1
+      "source": 1,
+      "post": 1,
+      "a23": 1,
+      "date": 1,
+      "november": 1,
+      "author": 1,
+      "rowland": 1,
+      "evans": 1,
+      "robert": 1
     },
     "1972-12-08": {
       "indian": 8,
       "bia": 7,
       "means": 7,
       "indians": 5,
-      "los": 3,
-      "angeles": 3,
       "documents": 3,
       "national": 3,
       "treaties": 3,
       "caravan": 3,
       "government": 3,
       "back": 3,
-      "source": 2,
-      "times": 2,
-      "date": 2,
-      "xml": 2,
       "millions": 2,
       "protest": 2,
       "leader": 2,
+      "los": 2,
+      "angeles": 2,
       "bureau": 2,
       "failure": 2,
       "enforce": 2,
@@ -3442,14 +3417,11 @@
       "federal": 2,
       "justified": 2,
       "people": 2,
-      "1972-12-08": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "lat": 1,
       "inaction": 1,
       "cost": 1,
+      "source": 1,
+      "times": 1,
+      "date": 1,
       "december": 1,
       "author": 1,
       "jack": 1,
@@ -3464,7 +3436,14 @@
       "lost": 1,
       "dollars": 1,
       "reservation": 1,
-      "right-of-way": 1
+      "right-of-way": 1,
+      "demonstration": 1,
+      "thursday": 1,
+      "even": 1,
+      "billions": 1,
+      "declared": 1,
+      "russell": 1,
+      "33-year-old": 1
     },
     "1972-11-02": {
       "services": 9,
@@ -3472,22 +3451,15 @@
       "army": 7,
       "arlington": 5,
       "cemetery": 5,
-      "washington": 4,
       "indians": 4,
       "activities": 4,
       "hold": 4,
       "use": 3,
+      "washington": 3,
       "today": 3,
       "yesterday": 3,
       "burnette": 3,
       "group": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "author": 2,
-      "raul": 2,
-      "ramirez": 2,
-      "xml": 2,
       "refused": 2,
       "permission": 2,
       "american": 2,
@@ -3506,17 +3478,24 @@
       "include": 2,
       "united": 2,
       "states": 2,
-      "1972-11-02": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "wapo": 1,
+      "source": 1,
+      "post": 1,
+      "date": 1,
       "november": 1,
+      "author": 1,
+      "raul": 1,
+      "ramirez": 1,
       "organizers": 1,
       "week": 1,
       "peaceful": 1,
-      "due": 1
+      "due": 1,
+      "begin": 1,
+      "whole": 1,
+      "different": 1,
+      "allow": 1,
+      "national": 1,
+      "request": 1,
+      "leaders": 1
     },
     "1972-11-13": {
       "indian": 9,
@@ -3542,14 +3521,6 @@
       "means": 3,
       "years": 3,
       "prison": 3,
-      "source": 2,
-      "chicago": 2,
-      "tribune": 2,
-      "date": 2,
-      "author": 2,
-      "michael": 2,
-      "satchell": 2,
-      "xml": 2,
       "told": 2,
       "three": 2,
       "indians": 2,
@@ -3568,7 +3539,15 @@
       "federal": 2,
       "investigation": 2,
       "destruction": 2,
-      "theft": 2
+      "theft": 2,
+      "sioux": 2,
+      "spokesman": 2,
+      "burnett": 2,
+      "charges": 2,
+      "sentenced": 2,
+      "paroled": 2,
+      "described": 2,
+      "schools": 2
     },
     "1973-02-03": {
       "arellano": 25,
@@ -3578,8 +3557,8 @@
       "police": 7,
       "adams": 7,
       "fbi": 6,
-      "washington": 5,
       "building": 5,
+      "washington": 4,
       "johnny": 3,
       "information": 3,
       "whitten": 3,
@@ -3596,10 +3575,6 @@
       "documents": 3,
       "apartment": 3,
       "boxes": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "xml": 2,
       "officer": 2,
       "apache": 2,
       "camper": 2,
@@ -3620,7 +3595,11 @@
       "supplied": 2,
       "hank": 2,
       "government": 2,
-      "aim": 2
+      "aim": 2,
+      "weeks": 2,
+      "treaties": 2,
+      "arrived": 2,
+      "reported": 2
     },
     "1973-01-04": {
       "morton": 9,
@@ -3638,15 +3617,6 @@
       "gave": 3,
       "back": 3,
       "treaty": 3,
-      "source": 2,
-      "washington": 2,
-      "post": 2,
-      "date": 2,
-      "b15": 2,
-      "author": 2,
-      "jack": 2,
-      "anderson": 2,
-      "xml": 2,
       "interior": 2,
       "secretary": 2,
       "rogers": 2,
@@ -3672,7 +3642,16 @@
       "non-indians": 2,
       "gold": 2,
       "acres": 2,
-      "1973-01-04": 1
+      "disputed": 1,
+      "source": 1,
+      "washington": 1,
+      "post": 1,
+      "b15": 1,
+      "date": 1,
+      "january": 1,
+      "author": 1,
+      "jack": 1,
+      "anderson": 1
     },
     "1972-12-10": {
       "indian": 8,
@@ -3686,11 +3665,6 @@
       "loesch": 3,
       "without": 3,
       "banks": 3,
-      "source": 2,
-      "chicago": 2,
-      "tribune": 2,
-      "date": 2,
-      "xml": 2,
       "administrative": 2,
       "time": 2,
       "commissioner": 2,
@@ -3715,27 +3689,28 @@
       "policies": 2,
       "submission": 2,
       "vandalism": 2,
-      "1972-12-10": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
       "shakeup": 1,
+      "source": 1,
+      "chicago": 1,
+      "tribune": 1,
+      "date": 1,
       "december": 1,
       "author": 1,
       "poleaxed": 1,
-      "malcontents": 1
+      "malcontents": 1,
+      "irresolution": 1,
+      "around": 1,
+      "november": 1,
+      "elections": 1,
+      "new": 1,
+      "management": 1
     },
     "1973-04-09": {
-      "washington": 4,
       "bia": 4,
       "documents": 4,
       "found": 3,
+      "washington": 3,
       "indian": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "xml": 2,
       "papers": 2,
       "county": 2,
       "stolen": 2,
@@ -3743,12 +3718,9 @@
       "weeks": 2,
       "indians": 2,
       "recent": 2,
-      "1973-04-09": 1,
-      "page": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
-      "wapo": 1,
+      "source": 1,
+      "post": 1,
+      "date": 1,
       "april": 1,
       "author": 1,
       "deputies": 1,
@@ -3776,7 +3748,14 @@
       "second": 1,
       "robeson": 1,
       "recently": 1,
-      "three": 1
+      "three": 1,
+      "ago": 1,
+      "occupation": 1,
+      "building": 1,
+      "members": 1,
+      "american": 1,
+      "movement": 1,
+      "recovered": 1
     },
     "1972-11-16": {
       "olmsted": 10,
@@ -3789,19 +3768,11 @@
       "banking": 5,
       "government": 4,
       "federal": 4,
-      "washington": 3,
       "memo": 3,
       "national": 3,
       "business": 3,
       "general": 3,
-      "source": 2,
-      "post": 2,
-      "date": 2,
-      "g13": 2,
-      "author": 2,
-      "jack": 2,
-      "anderson": 2,
-      "xml": 2,
+      "washington": 2,
       "files": 2,
       "morton": 2,
       "george": 2,
@@ -3828,7 +3799,15 @@
       "project": 2,
       "request": 2,
       "spokesman": 2,
-      "nixon": 2
+      "nixon": 2,
+      "rights": 2,
+      "kindly": 1,
+      "source": 1,
+      "post": 1,
+      "g13": 1,
+      "date": 1,
+      "november": 1,
+      "author": 1
     },
     "1972-11-22": {
       "loesch": 44,
@@ -3841,7 +3820,6 @@
       "water": 8,
       "assistant": 7,
       "business": 7,
-      "washington": 6,
       "government": 6,
       "don": 6,
       "crow": 6,
@@ -3849,6 +3827,7 @@
       "law": 6,
       "buy": 6,
       "money": 6,
+      "washington": 5,
       "although": 5,
       "town": 5,
       "action": 5,
@@ -3874,13 +3853,13 @@
       "gesell": 4,
       "community": 4,
       "job": 4,
-      "source": 3,
-      "post": 3,
       "nation": 3,
       "put": 3,
       "management": 3,
       "bureau": 3,
-      "took": 3
+      "took": 3,
+      "month": 3,
+      "interested": 3
     },
     "1972-12-11": {
       "indian": 15,
@@ -3894,15 +3873,6 @@
       "thousands": 3,
       "bureaucrats": 3,
       "rate": 3,
-      "source": 2,
-      "washington": 2,
-      "post": 2,
-      "date": 2,
-      "d13": 2,
-      "author": 2,
-      "jack": 2,
-      "anderson": 2,
-      "xml": 2,
       "shabby": 2,
       "story": 2,
       "treaties": 2,
@@ -3932,7 +3902,16 @@
       "per": 2,
       "cent": 2,
       "country": 2,
-      "except": 2
+      "except": 2,
+      "security": 2,
+      "away": 2,
+      "motel": 2,
+      "furtive": 2,
+      "meetings": 2,
+      "many": 2,
+      "questioned": 2,
+      "door": 2,
+      "source": 1
     }
   },
   "publication_frequencies": {
@@ -3991,7 +3970,6 @@
     "NBC": {
       "john": 5,
       "indians": 5,
-      "nbc": 4,
       "indian": 4,
       "today": 4,
       "cochran": 4,
@@ -4001,9 +3979,7 @@
       "demands": 3,
       "commissioner": 3,
       "bruce": 3,
-      "source": 2,
-      "date": 2,
-      "xml": 2,
+      "nbc": 2,
       "bureau": 2,
       "affairs": 2,
       "building": 2,
@@ -4011,15 +3987,13 @@
       "administration": 2,
       "move": 2,
       "louis": 2,
-      "1972-11-03": 1,
-      "original": 1,
-      "tei": 1,
-      "frp": 1,
       "protest": 1,
+      "date": 1,
       "november": 1,
       "network": 1,
       "begin": 1,
       "duration": 1,
+      "source": 1,
       "vanderbilt": 1,
       "television": 1,
       "archive": 1,
@@ -4038,32 +4012,32 @@
       "late": 1,
       "yesterday": 1,
       "scuffles": 1,
-      "reports": 1
+      "reports": 1,
+      "developments": 1,
+      "peaceful": 1,
+      "quiet": 1,
+      "nothing": 1,
+      "settled": 1
     },
     "Washington Post": {
       "indian": 475,
       "indians": 343,
       "building": 230,
       "bia": 228,
-      "washington": 159,
       "government": 140,
       "adams": 115,
+      "washington": 113,
       "documents": 104,
       "white": 99,
-      "source": 98,
-      "post": 98,
-      "date": 97,
       "house": 97,
       "interior": 94,
       "affairs": 93,
-      "xml": 92,
       "federal": 89,
       "loesch": 89,
       "bureau": 88,
       "yesterday": 79,
       "president": 76,
       "bruce": 74,
-      "author": 73,
       "people": 72,
       "officials": 70,
       "treaties": 68,
@@ -4074,23 +4048,28 @@
       "department": 59,
       "american": 56,
       "caravan": 55,
-      "original": 54,
       "spokesman": 54,
       "trail": 53,
+      "source": 52,
+      "post": 52,
       "commissioner": 52,
+      "date": 51,
       "last": 51,
       "land": 51,
       "crow": 50,
       "day": 49,
-      "page": 47,
       "police": 47,
       "night": 47,
-      "tei": 46,
-      "frp": 46,
-      "wapo": 46,
+      "author": 46,
       "fbi": 46,
       "court": 45,
-      "morton": 45
+      "morton": 45,
+      "whitten": 44,
+      "administration": 43,
+      "occupation": 43,
+      "nixon": 43,
+      "many": 42,
+      "told": 42
     },
     "Chicago Tribune": {
       "indian": 61,
@@ -4099,11 +4078,6 @@
       "government": 25,
       "affairs": 22,
       "bia": 21,
-      "xml": 20,
-      "source": 19,
-      "chicago": 19,
-      "tribune": 19,
-      "date": 18,
       "bureau": 17,
       "interior": 17,
       "federal": 15,
@@ -4115,19 +4089,19 @@
       "today": 11,
       "spokesman": 11,
       "house": 11,
-      "page": 10,
-      "original": 10,
-      "tei": 10,
-      "frp": 10,
-      "author": 10,
       "leaders": 10,
       "officials": 10,
       "morton": 10,
       "bellecourt": 10,
+      "source": 9,
+      "chicago": 9,
+      "tribune": 9,
       "last": 9,
       "broken": 9,
       "secretary": 9,
       "white": 9,
+      "date": 8,
+      "author": 8,
       "november": 8,
       "department": 8,
       "loesch": 8,
@@ -4141,8 +4115,13 @@
       "demonstrators": 7,
       "action": 7,
       "aim": 7,
-      "1972-12-03": 6,
-      "movement": 6
+      "movement": 6,
+      "tomorrow": 6,
+      "ordered": 6,
+      "commissioner": 6,
+      "john": 6,
+      "support": 6,
+      "refused": 6
     },
     "Los Angeles Times": {
       "indians": 109,
@@ -4152,12 +4131,6 @@
       "bia": 38,
       "bureau": 28,
       "federal": 27,
-      "source": 26,
-      "los": 26,
-      "angeles": 26,
-      "times": 25,
-      "date": 24,
-      "xml": 24,
       "affairs": 22,
       "means": 20,
       "order": 19,
@@ -4172,17 +4145,17 @@
       "officials": 15,
       "group": 15,
       "arellano": 15,
-      "original": 14,
+      "source": 14,
+      "los": 14,
+      "angeles": 14,
       "treaties": 14,
       "many": 14,
       "caravan": 14,
       "told": 14,
       "leave": 13,
+      "times": 13,
       "demonstrators": 13,
-      "page": 12,
-      "tei": 12,
-      "frp": 12,
-      "lat": 12,
+      "date": 12,
       "november": 12,
       "author": 12,
       "people": 12,
@@ -4194,7 +4167,13 @@
       "judge": 12,
       "pratt": 12,
       "night": 11,
-      "protest": 11
+      "protest": 11,
+      "trail": 11,
+      "loesch": 11,
+      "meeting": 10,
+      "refused": 10,
+      "police": 10,
+      "office": 9
     },
     "New York Times": {
       "indians": 171,
@@ -4207,20 +4186,14 @@
       "affairs": 49,
       "white": 45,
       "house": 43,
-      "new": 36,
       "interior": 36,
       "court": 36,
-      "york": 29,
       "group": 29,
-      "xml": 28,
-      "source": 27,
-      "times": 27,
-      "date": 27,
       "last": 26,
       "treaties": 25,
       "negotiations": 24,
       "caravan": 24,
-      "author": 22,
+      "new": 22,
       "leaders": 22,
       "protesters": 22,
       "states": 22,
@@ -4233,42 +4206,44 @@
       "department": 19,
       "american": 19,
       "judge": 18,
-      "original": 17,
       "militants": 17,
       "president": 17,
       "first": 17,
       "secretary": 17,
       "action": 17,
-      "william": 16,
-      "blair": 16,
       "today": 16,
       "took": 16,
       "leave": 15,
+      "york": 15,
       "problems": 15,
       "nixon": 15,
-      "district": 15
+      "district": 15,
+      "morton": 15,
+      "author": 14,
+      "members": 14,
+      "pratt": 14,
+      "bruce": 14,
+      "national": 14,
+      "source": 13,
+      "times": 13
     },
     "Time Magazine": {
       "indians": 15,
       "whitten": 10,
-      "time": 8,
       "bia": 8,
       "bureau": 7,
       "anderson": 7,
       "fbi": 5,
-      "source": 4,
-      "magazine": 4,
-      "date": 4,
-      "xml": 4,
+      "time": 4,
       "indian": 4,
       "government": 4,
       "documents": 4,
       "adams": 4,
       "last": 3,
       "stolen": 3,
-      "original": 2,
-      "tei": 2,
-      "frp": 2,
+      "source": 2,
+      "magazine": 2,
+      "date": 2,
       "december": 2,
       "author": 2,
       "affairs": 2,
@@ -4298,7 +4273,11 @@
       "harris": 2,
       "question": 2,
       "found": 2,
-      "columns": 2
+      "columns": 2,
+      "car": 2,
+      "les": 2,
+      "taken": 2,
+      "november": 2
     },
     "Minneapolis Tribune": {
       "building": 13,
@@ -4312,11 +4291,6 @@
       "house": 5,
       "federal": 5,
       "agreement": 5,
-      "source": 4,
-      "minneapolis": 4,
-      "tribune": 4,
-      "date": 4,
-      "xml": 4,
       "order": 4,
       "american": 4,
       "protesters": 4,
@@ -4330,12 +4304,12 @@
       "washington": 3,
       "broken": 3,
       "treaties": 3,
-      "original": 2,
-      "tei": 2,
-      "frp": 2,
-      "minntrib": 2,
       "protesting": 2,
       "despite": 2,
+      "source": 2,
+      "minneapolis": 2,
+      "tribune": 2,
+      "date": 2,
       "november": 2,
       "author": 2,
       "militant": 2,
@@ -4350,11 +4324,16 @@
       "force": 2,
       "marshals": 2,
       "police": 2,
-      "services": 2
+      "services": 2,
+      "administration": 2,
+      "bruce": 2,
+      "office": 2,
+      "evening": 2,
+      "apparently": 2
     }
   },
-  "total_words": 46534,
-  "unique_words": 7580,
-  "total_documents": 94,
-  "generated": "2026-01-30T13:46:17.377563"
+  "total_words": 45268,
+  "unique_words": 7511,
+  "total_documents": 93,
+  "generated": "2026-02-02T09:48:17.244148"
 }

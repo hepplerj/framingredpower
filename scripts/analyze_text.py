@@ -81,6 +81,10 @@ def analyze_documents(content_dir):
 
             all_words.extend(words)
 
+            # Determine section from file path
+            relative_path = md_file.relative_to(archive_dir)
+            section = relative_path.parts[0] if len(relative_path.parts) > 1 else 'archive'
+
             # Store document info
             doc_info = {
                 'title': title,
@@ -89,7 +93,7 @@ def analyze_documents(content_dir):
                 'types': doc_types if isinstance(doc_types, list) else [doc_types],
                 'word_count': len(words),
                 'path': str(md_file.relative_to(content_dir)),
-                'url': f"/archive/{md_file.stem}/"
+                'url': f"/archive/{section}/{md_file.stem}/"
             }
             documents.append(doc_info)
 
@@ -154,11 +158,15 @@ def generate_kwic_index(content_dir, context_words=5):
             date = post.get('date', '')
             content = clean_text(post.content)
 
+            # Determine section from file path
+            relative_path = md_file.relative_to(archive_dir)
+            section = relative_path.parts[0] if len(relative_path.parts) > 1 else 'archive'
+
             # Store full text for KWIC searches
             kwic_data.append({
                 'title': title,
                 'date': str(date) if date else None,
-                'url': f"/archive/{md_file.stem}/",
+                'url': f"/archive/{section}/{md_file.stem}/",
                 'text': content
             })
 
