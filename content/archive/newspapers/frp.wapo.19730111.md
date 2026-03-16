@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19730111.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1973-01-11</p>
-<p><strong>Page:</strong> A15</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19730111.xml">frp.wapo.19730111.xml</a></p>
-</div>
-
-<hr>
-
 <h3>U.S. Rejects Indian Demands, Says Nixon Supports Reforms</h3>
 
 

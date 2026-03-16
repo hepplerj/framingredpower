@@ -11,15 +11,6 @@ aliases:
 author: "Hank Adams"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> </p>
-<p><strong>Date:</strong> 1972-10-27</p>
-<p><strong>Author:</strong> Hank Adams</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/other/frp.tbt.19721027.xml">frp.tbt.19721027.xml</a></p>
-</div>
-
-<hr>
-
 <h3>TRAIL OF BROKEN TREATIES 20-POINT POSITION PAPER</h3>
 
 

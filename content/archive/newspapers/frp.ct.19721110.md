@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.ct.19721110.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Chicago Tribune</p>
-<p><strong>Date:</strong> 1972-11-10</p>
-<p><strong>Page:</strong> A1</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.ct.19721110.xml">frp.ct.19721110.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Ripped Up Federal Building</h3>
 
 

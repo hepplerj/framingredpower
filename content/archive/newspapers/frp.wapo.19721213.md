@@ -11,16 +11,6 @@ aliases:
 author: "Jack Anderson"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-12-12</p>
-<p><strong>Page:</strong> D23</p>
-<p><strong>Author:</strong> Jack Anderson</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721213.xml">frp.wapo.19721213.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Rights and Wrongs of the Indian</h3>
 
 

@@ -11,16 +11,6 @@ aliases:
 author: "John P. MacKenzie"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1973-02-01</p>
-<p><strong>Page:</strong> A1</p>
-<p><strong>Author:</strong> John P. MacKenzie</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19730201a.xml">frp.wapo.19730201a.xml</a></p>
-</div>
-
-<hr>
-
 <h3>FBI Arrests Reporter in Stolen Data</h3>
 
 

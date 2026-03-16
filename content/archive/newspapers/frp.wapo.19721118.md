@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19721118.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-18</p>
-<p><strong>Page:</strong> A23</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721118.xml">frp.wapo.19721118.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Sioux Leader Outraged</h3>
 
 

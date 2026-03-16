@@ -11,16 +11,6 @@ aliases:
 author: "Michael Satchell"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Chicago Tribune</p>
-<p><strong>Date:</strong> 1972-11-13</p>
-<p><strong>Page:</strong> 3</p>
-<p><strong>Author:</strong> Michael Satchell</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.ct.19721113.xml">frp.ct.19721113.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Led Building Takeover: Criminal Record of 3 Indian Leaders Told</h3>
 
 

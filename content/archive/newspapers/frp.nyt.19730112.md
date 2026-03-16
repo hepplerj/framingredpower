@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.nyt.19730112.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> New York Times</p>
-<p><strong>Date:</strong> 1973-01-12</p>
-<p><strong>Page:</strong> 36</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.nyt.19730112.xml">frp.nyt.19730112.xml</a></p>
-</div>
-
-<hr>
-
 <h3>An Indian Leader Pledges Return of U.S. Property</h3>
 
 

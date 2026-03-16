@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19721109b.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-09</p>
-<p><strong>Page:</strong> C1</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721109b.xml">frp.wapo.19721109b.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Call Files From BIA 'Ransom'</h3>
 
 

@@ -11,15 +11,6 @@ aliases:
 author: "Richard Nixon"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> </p>
-<p><strong>Date:</strong> 1970-07-08</p>
-<p><strong>Author:</strong> Richard Nixon</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/other/frp.speech.19700708.xml">frp.speech.19700708.xml</a></p>
-</div>
-
-<hr>
-
 <h3>President Nixon, Special Message to the Congress on Indian Affairs</h3>
 
 

@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19721115a.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-15</p>
-<p><strong>Page:</strong> A14</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721115a.xml">frp.wapo.19721115a.xml</a></p>
-</div>
-
-<hr>
-
 <h3>After the Indian Protest</h3>
 
 

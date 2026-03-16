@@ -11,16 +11,6 @@ aliases:
 author: "Donald P. Baker"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-05</p>
-<p><strong>Page:</strong> A1</p>
-<p><strong>Author:</strong> Donald P. Baker</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721105a.xml">frp.wapo.19721105a.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Officials, Indians Parley on Protest</h3>
 
 

@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.lat.19721105.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Los Angeles Times</p>
-<p><strong>Date:</strong> 1972-11-05</p>
-<p><strong>Page:</strong> 2</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.lat.19721105.xml">frp.lat.19721105.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Building Held Third Night</h3>
 
 

@@ -10,14 +10,6 @@ aliases:
   - /archive/other/frp.tbt.18870208.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> </p>
-<p><strong>Date:</strong> 1887-02-08</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/other/frp.tbt.18870208.xml">frp.tbt.18870208.xml</a></p>
-</div>
-
-<hr>
-
 <h3>General Allotment Act, 1887</h3>
 
 

@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.total.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Chicago Tribune</p>
-<p><strong>Date:</strong> 1972-12-03</p>
-<p><strong>Page:</strong> B10</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.total.xml">frp.total.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Judge Stalls Eviction of Indians; U.S., Protesters Hold Site Talks</h3>
 
 

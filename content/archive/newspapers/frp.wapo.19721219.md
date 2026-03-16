@@ -11,16 +11,6 @@ aliases:
 author: "Jack Anderson"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-12-19</p>
-<p><strong>Page:</strong> B15</p>
-<p><strong>Author:</strong> Jack Anderson</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721219.xml">frp.wapo.19721219.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Urban Indian Is Forgotten Man</h3>
 
 

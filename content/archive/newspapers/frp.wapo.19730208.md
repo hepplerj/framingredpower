@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19730208.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1973-02-08</p>
-<p><strong>Page:</strong> A22</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19730208.xml">frp.wapo.19730208.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Without Jobs</h3>
 
 

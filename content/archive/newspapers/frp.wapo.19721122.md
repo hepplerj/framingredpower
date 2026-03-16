@@ -11,16 +11,6 @@ aliases:
 author: "Raul Ramirez"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-22</p>
-<p><strong>Page:</strong> C1</p>
-<p><strong>Author:</strong> Raul Ramirez</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721122.xml">frp.wapo.19721122.xml</a></p>
-</div>
-
-<hr>
-
 <h3>BIA's Loesch: A Bureaucrat Unafraid to Speak Out</h3>
 
 

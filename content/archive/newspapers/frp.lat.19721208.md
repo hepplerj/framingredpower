@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.lat.19721208.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Los Angeles Times</p>
-<p><strong>Date:</strong> 1972-12-08</p>
-<p><strong>Page:</strong> C1</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.lat.19721208.xml">frp.lat.19721208.xml</a></p>
-</div>
-
-<hr>
-
 <h3>U.S. Inaction Has Cost Indians Millions, Protest Leader Says</h3>
 
 

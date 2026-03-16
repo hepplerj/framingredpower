@@ -11,16 +11,6 @@ aliases:
 author: "Donald P. Baker"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1973-02-01</p>
-<p><strong>Page:</strong> A5</p>
-<p><strong>Author:</strong> Donald P. Baker</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19730201.xml">frp.wapo.19730201.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Activists' House Raided Again; BIA Documents Sought</h3>
 
 

@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.lat.19721103.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Los Angeles Times</p>
-<p><strong>Date:</strong> 1972-11-03</p>
-<p><strong>Page:</strong> A1</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.lat.19721103.xml">frp.lat.19721103.xml</a></p>
-</div>
-
-<hr>
-
 <h3>300 Indians Seize Capital Building and Close Bureau</h3>
 
 

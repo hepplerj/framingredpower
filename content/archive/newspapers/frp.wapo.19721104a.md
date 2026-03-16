@@ -11,16 +11,6 @@ aliases:
 author: "Raul Ramirez"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-04</p>
-<p><strong>Page:</strong> A1</p>
-<p><strong>Author:</strong> Raul Ramirez</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721104a.xml">frp.wapo.19721104a.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Continue Occupation of BIA</h3>
 
 

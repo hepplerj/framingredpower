@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.ct.19721106.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Chicago Tribune</p>
-<p><strong>Date:</strong> 1972-12-03</p>
-<p><strong>Page:</strong> A8</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.ct.19721106.xml">frp.ct.19721106.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Occupying U.S. Building Ask Nixon to Intercede</h3>
 
 

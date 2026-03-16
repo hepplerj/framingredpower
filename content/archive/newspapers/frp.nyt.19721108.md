@@ -11,16 +11,6 @@ aliases:
 author: "William M. Blair"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> New York Times</p>
-<p><strong>Date:</strong> 1972-11-08</p>
-<p><strong>Page:</strong> 49</p>
-<p><strong>Author:</strong> William M. Blair</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.nyt.19721108.xml">frp.nyt.19721108.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Militant Indians Agree to Leave</h3>
 
 

@@ -11,16 +11,6 @@ aliases:
 author: "Peter Osnos"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-07</p>
-<p><strong>Page:</strong> A6</p>
-<p><strong>Author:</strong> Peter Osnos</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721107.xml">frp.wapo.19721107.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Legacy of Suspicion Changes Protest Into Confrontation</h3>
 
 

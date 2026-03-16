@@ -11,16 +11,6 @@ aliases:
 author: "Jon Katz"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-11</p>
-<p><strong>Page:</strong> A4</p>
-<p><strong>Author:</strong> Jon Katz</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721111a.xml">frp.wapo.19721111a.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Damage to BIA Third Heaviest Ever in U.S.</h3>
 
 

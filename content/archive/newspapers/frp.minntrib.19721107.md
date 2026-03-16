@@ -10,14 +10,6 @@ aliases:
   - /archive/newspapers/frp.minntrib.19721107.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Minneapolis Tribune</p>
-<p><strong>Date:</strong> 1972-11-07</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.minntrib.19721107.xml">frp.minntrib.19721107.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians agree to leave BIA building today, officials say</h3>
 
 

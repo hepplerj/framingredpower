@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.lat.19721124.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Los Angeles Times</p>
-<p><strong>Date:</strong> 1972-12-05</p>
-<p><strong>Page:</strong> B7</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.lat.19721124.xml">frp.lat.19721124.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Sacking of Indian Bureau––a 20–Year Setback?</h3>
 
 

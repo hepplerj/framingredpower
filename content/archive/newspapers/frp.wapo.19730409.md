@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19730409.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1973-04-09</p>
-<p><strong>Page:</strong> A3</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19730409.xml">frp.wapo.19730409.xml</a></p>
-</div>
-
-<hr>
-
 <h3>More Papers From BIA Found in N.C.</h3>
 
 

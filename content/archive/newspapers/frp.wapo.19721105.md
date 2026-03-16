@@ -11,16 +11,6 @@ aliases:
 author: "Paul Hodge"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-05</p>
-<p><strong>Page:</strong> A10</p>
-<p><strong>Author:</strong> Paul Hodge</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721105.xml">frp.wapo.19721105.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Another 'Wounded Knee' Was Feared Friday Night</h3>
 
 

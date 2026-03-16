@@ -11,16 +11,6 @@ aliases:
 author: "Jack Anderson"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-12-12</p>
-<p><strong>Page:</strong> K15</p>
-<p><strong>Author:</strong> Jack Anderson</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721214.xml">frp.wapo.19721214.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indian Bureau Chief Is Outflanked</h3>
 
 

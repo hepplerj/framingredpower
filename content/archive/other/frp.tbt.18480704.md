@@ -10,14 +10,6 @@ aliases:
   - /archive/other/frp.tbt.18480704.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> </p>
-<p><strong>Date:</strong> 1884-07-04</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/other/frp.tbt.18480704.xml">frp.tbt.18480704.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Treaty of Guadalupe Hildago</h3>
 
 

@@ -11,16 +11,6 @@ aliases:
 author: "Jack Anderson"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1973-01-04</p>
-<p><strong>Page:</strong> B15</p>
-<p><strong>Author:</strong> Jack Anderson</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19730104.xml">frp.wapo.19730104.xml</a></p>
-</div>
-
-<hr>
-
 <h3>U.S. Disputed on Injustice to Indians</h3>
 
 

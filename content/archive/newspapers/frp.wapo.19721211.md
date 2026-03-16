@@ -11,16 +11,6 @@ aliases:
 author: "Jack Anderson"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-12-11</p>
-<p><strong>Page:</strong> D13</p>
-<p><strong>Author:</strong> Jack Anderson</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721211.xml">frp.wapo.19721211.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indian Documents Tell Shabby Story</h3>
 
 

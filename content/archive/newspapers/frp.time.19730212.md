@@ -10,14 +10,6 @@ aliases:
   - /archive/newspapers/frp.time.19730212.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Time Magazine</p>
-<p><strong>Date:</strong> 1973-02-12</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.time.19730212.xml">frp.time.19730212.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Pulling Anderson's Leg</h3>
 
 

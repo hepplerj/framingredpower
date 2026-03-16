@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.nyt.19721105.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> New York Times</p>
-<p><strong>Date:</strong> 1972-11-05</p>
-<p><strong>Page:</strong> 37</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.nyt.19721105.xml">frp.nyt.19721105.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Staying in U.S. Building</h3>
 
 

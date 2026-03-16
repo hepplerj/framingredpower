@@ -11,16 +11,6 @@ aliases:
 author: "Raul Ramirez"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-02</p>
-<p><strong>Page:</strong> B1</p>
-<p><strong>Author:</strong> Raul Ramirez</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721102.xml">frp.wapo.19721102.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Refused Permission to Use Arlington Cemetery for Services</h3>
 
 

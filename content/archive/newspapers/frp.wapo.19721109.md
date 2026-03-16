@@ -11,16 +11,6 @@ aliases:
 author: "Peter Osnos"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-09</p>
-<p><strong>Page:</strong> C1</p>
-<p><strong>Author:</strong> Peter Osnos</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721109.xml">frp.wapo.19721109.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Protest by Indians Sought an End to Paternalism</h3>
 
 

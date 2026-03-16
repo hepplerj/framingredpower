@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.ct.19730201.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Chicago Tribune</p>
-<p><strong>Date:</strong> 1972-12-03</p>
-<p><strong>Page:</strong> 7</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.ct.19730201.xml">frp.ct.19730201.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Columnist's aide arrested</h3>
 
 

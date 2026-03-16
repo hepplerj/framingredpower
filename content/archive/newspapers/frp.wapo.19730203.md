@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19730203.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1973-02-03</p>
-<p><strong>Page:</strong> B1</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19730203.xml">frp.wapo.19730203.xml</a></p>
-</div>
-
-<hr>
-
 <h3>D.C. Police Officer Led Double Life as an Apache Indian</h3>
 
 

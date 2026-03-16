@@ -11,16 +11,6 @@ aliases:
 author: "William M. Blair"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> New York Times</p>
-<p><strong>Date:</strong> 1972-11-09</p>
-<p><strong>Page:</strong> 52</p>
-<p><strong>Author:</strong> William M. Blair</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.nyt.19721209.xml">frp.nyt.19721209.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Take Documents as They Leave U.S. Building</h3>
 
 

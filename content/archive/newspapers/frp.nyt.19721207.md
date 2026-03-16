@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.nyt.19721207.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> New York Times</p>
-<p><strong>Date:</strong> 1972-12-07</p>
-<p><strong>Page:</strong> 62</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.nyt.19721207.xml">frp.nyt.19721207.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians' Capital Protest Has Not Resolved Any of Their Grievances</h3>
 
 

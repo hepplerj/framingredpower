@@ -11,16 +11,6 @@ aliases:
 author: "William L. Claiborne"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-07</p>
-<p><strong>Page:</strong> A1</p>
-<p><strong>Author:</strong> William L. Claiborne</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721107a.xml">frp.wapo.19721107a.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Order Delayed, Indians Stay in Offices</h3>
 
 

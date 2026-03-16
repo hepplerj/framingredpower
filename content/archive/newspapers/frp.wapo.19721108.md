@@ -11,16 +11,6 @@ aliases:
 author: "Eugene L. Meyer"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-08</p>
-<p><strong>Page:</strong> B1</p>
-<p><strong>Author:</strong> Eugene L. Meyer</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721108.xml">frp.wapo.19721108.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Seize Files as Some Go Home</h3>
 
 

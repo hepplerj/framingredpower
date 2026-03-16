@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.nyt.19721106.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> New York Times</p>
-<p><strong>Date:</strong> 1972-11-06</p>
-<p><strong>Page:</strong> 21</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.nyt.19721106.xml">frp.nyt.19721106.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Ask Nixon to Solve Impasse</h3>
 
 

@@ -10,14 +10,6 @@ aliases:
   - /archive/newspapers/frp.minntrib.19721104.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Minneapolis Tribune</p>
-<p><strong>Date:</strong> 1972-11-04</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.minntrib.19721104.xml">frp.minntrib.19721104.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Protesting Indians refuse to leave BIA building despite court order</h3>
 
 

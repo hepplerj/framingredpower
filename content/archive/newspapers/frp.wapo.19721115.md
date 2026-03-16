@@ -11,16 +11,6 @@ aliases:
 author: "Donald P. Baker"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-15</p>
-<p><strong>Page:</strong> B1</p>
-<p><strong>Author:</strong> Donald P. Baker</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721115.xml">frp.wapo.19721115.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Stolen BIA Artifacts, Documents Recovered</h3>
 
 

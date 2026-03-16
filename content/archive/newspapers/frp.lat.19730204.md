@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.lat.19730204.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Los Angeles Times</p>
-<p><strong>Date:</strong> 1973-02-04</p>
-<p><strong>Page:</strong> 10</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.lat.19730204.xml">frp.lat.19730204.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Fellow 'Indian' Activist Turns Out to Be Officer</h3>
 
 

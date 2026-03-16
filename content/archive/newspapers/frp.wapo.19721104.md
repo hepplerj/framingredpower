@@ -11,16 +11,6 @@ aliases:
 author: "Peter Osnos"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-04</p>
-<p><strong>Page:</strong> A8</p>
-<p><strong>Author:</strong> Peter Osnos</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721104.xml">frp.wapo.19721104.xml</a></p>
-</div>
-
-<hr>
-
 <h3>'Indians First, Always,' Demonstrator Declares</h3>
 
 

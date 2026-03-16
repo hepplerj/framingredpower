@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.lat.19721206.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Los Angeles Times</p>
-<p><strong>Date:</strong> 1972-12-06</p>
-<p><strong>Page:</strong> 2</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.lat.19721206.xml">frp.lat.19721206.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Shakeup in Indian Affairs Rumored</h3>
 
 

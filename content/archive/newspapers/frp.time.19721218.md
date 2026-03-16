@@ -10,14 +10,6 @@ aliases:
   - /archive/newspapers/frp.time.19721218.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Time Magazine</p>
-<p><strong>Date:</strong> 1972-12-18</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.time.19721218.xml">frp.time.19721218.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Drums on the Potomac</h3>
 
 

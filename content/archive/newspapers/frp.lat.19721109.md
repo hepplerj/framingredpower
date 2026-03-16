@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.lat.19721109.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Los Angeles Times</p>
-<p><strong>Date:</strong> 1972-11-09</p>
-<p><strong>Page:</strong> A7</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.lat.19721109.xml">frp.lat.19721109.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indians Leave Building With Files, Artifacts</h3>
 
 

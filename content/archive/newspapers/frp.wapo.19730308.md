@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19730308.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1973-03-08</p>
-<p><strong>Page:</strong> A1</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19730308.xml">frp.wapo.19730308.xml</a></p>
-</div>
-
-<hr>
-
 <h3>BIA Shakeup: 189 Out in Cold</h3>
 
 

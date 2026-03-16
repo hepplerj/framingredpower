@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19721110.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-11-10</p>
-<p><strong>Page:</strong> 2</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721110.xml">frp.wapo.19721110.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Damage to Capital Building by Indians Put at $1.98 Million</h3>
 
 

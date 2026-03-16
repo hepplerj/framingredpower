@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.ct.19721210.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Chicago Tribune</p>
-<p><strong>Date:</strong> 1972-12-10</p>
-<p><strong>Page:</strong> A4</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.ct.19721210.xml">frp.ct.19721210.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indian Affairs Shakeup</h3>
 
 

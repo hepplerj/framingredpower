@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.nyt.19721205a.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> New York Times</p>
-<p><strong>Date:</strong> 1972-12-05</p>
-<p><strong>Page:</strong> 23</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.nyt.19721205a.xml">frp.nyt.19721205a.xml</a></p>
-</div>
-
-<hr>
-
 <h3>White House Role on Indian Scored</h3>
 
 

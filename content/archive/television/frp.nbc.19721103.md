@@ -10,14 +10,6 @@ aliases:
   - /archive/television/frp.nbc.19721103.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> NBC</p>
-<p><strong>Date:</strong> 1972-11-03</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/television/frp.nbc.19721103.xml">frp.nbc.19721103.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Indian Protest</h3>
 
 

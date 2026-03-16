@@ -11,16 +11,6 @@ aliases:
 author: "Nick Thimmesch"
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Chicago Tribune</p>
-<p><strong>Date:</strong> 1972-11-19</p>
-<p><strong>Page:</strong> A5</p>
-<p><strong>Author:</strong> Nick Thimmesch</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.ct.19721119.xml">frp.ct.19721119.xml</a></p>
-</div>
-
-<hr>
-
 <h3>Government Mishandled Indian Militants</h3>
 
 

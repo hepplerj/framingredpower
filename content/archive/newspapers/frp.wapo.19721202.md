@@ -10,15 +10,6 @@ aliases:
   - /archive/newspapers/frp.wapo.19721202.xml
 ---
 
-<div class="document-metadata">
-<p><strong>Source:</strong> Washington Post</p>
-<p><strong>Date:</strong> 1972-12-02</p>
-<p><strong>Page:</strong> A11</p>
-<p><strong>Original TEI XML:</strong> <a href="archive-xml/newspapers/frp.wapo.19721202.xml">frp.wapo.19721202.xml</a></p>
-</div>
-
-<hr>
-
 <h3>BIA Fight: 'One Has to Go'</h3>
 
 
