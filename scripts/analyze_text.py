@@ -48,11 +48,17 @@ def extract_words(text):
     words = [w for w in words if not w.isdigit()]
     return words
 
+def extract_ngrams(words, n):
+    """Extract n-grams from a list of already-filtered words"""
+    return [' '.join(words[i:i+n]) for i in range(len(words) - n + 1)]
+
 def analyze_documents(content_dir):
     """Analyze all document markdown files"""
     archive_dir = Path(content_dir) / 'archive'
 
     all_words = []
+    all_bigrams = []
+    all_trigrams = []
     documents = []
     words_by_date = {}
     words_by_publication = {}
@@ -80,6 +86,8 @@ def analyze_documents(content_dir):
                 continue
 
             all_words.extend(words)
+            all_bigrams.extend(extract_ngrams(words, 2))
+            all_trigrams.extend(extract_ngrams(words, 3))
 
             # Determine section from file path
             relative_path = md_file.relative_to(archive_dir)
@@ -117,6 +125,12 @@ def analyze_documents(content_dir):
     word_freq = Counter(all_words)
     top_words = word_freq.most_common(100)
 
+    bigram_freq = Counter(all_bigrams)
+    top_bigrams = bigram_freq.most_common(50)
+
+    trigram_freq = Counter(all_trigrams)
+    top_trigrams = trigram_freq.most_common(40)
+
     # Calculate word frequencies by date
     date_frequencies = {}
     for date, words in words_by_date.items():
@@ -134,6 +148,8 @@ def analyze_documents(content_dir):
 
     return {
         'word_frequencies': [{'word': word, 'count': count} for word, count in top_words],
+        'bigram_frequencies': [{'phrase': phrase, 'count': count} for phrase, count in top_bigrams],
+        'trigram_frequencies': [{'phrase': phrase, 'count': count} for phrase, count in top_trigrams],
         'documents': documents,
         'date_frequencies': date_frequencies,
         'publication_frequencies': pub_frequencies,

@@ -56,7 +56,75 @@ const wordChart = Plot.plot({
 
 wordFreqSection.appendChild(wordChart);
 
-// 2. DOCUMENT STATISTICS
+// 2. BIGRAM FREQUENCY
+const bigramSection = document.getElementById('bigram-frequency');
+const bigramData = analysisData.bigram_frequencies.slice(0, 30);
+
+const bigramChart = Plot.plot({
+  width: Math.min(1000, window.innerWidth - 40),
+  height: 600,
+  marginLeft: 200,
+  marginBottom: 60,
+  x: { grid: true, label: "Frequency", labelFontSize: 16, tickSize: 14, labelAnchor: "center", labelOffset: 40 },
+  y: { label: null, tickSize: 15 },
+  style: { fontSize: "15px" },
+  marks: [
+    Plot.barX(bigramData, {
+      x: "count",
+      y: "phrase",
+      sort: { y: "-x" },
+      fill: "#710100",
+      tip: true
+    }),
+    Plot.text(bigramData, {
+      x: "count",
+      y: "phrase",
+      text: d => d.count,
+      textAnchor: "start",
+      dx: 5,
+      fill: "white",
+      fontSize: 13
+    })
+  ]
+});
+
+bigramSection.appendChild(bigramChart);
+
+// 3. TRIGRAM FREQUENCY
+const trigramSection = document.getElementById('trigram-frequency');
+const trigramData = analysisData.trigram_frequencies.slice(0, 25);
+
+const trigramChart = Plot.plot({
+  width: Math.min(1000, window.innerWidth - 40),
+  height: 500,
+  marginLeft: 260,
+  marginBottom: 60,
+  x: { grid: true, label: "Frequency", labelFontSize: 16, tickSize: 14, labelAnchor: "center", labelOffset: 40 },
+  y: { label: null, tickSize: 15 },
+  style: { fontSize: "15px" },
+  marks: [
+    Plot.barX(trigramData, {
+      x: "count",
+      y: "phrase",
+      sort: { y: "-x" },
+      fill: "#710100",
+      tip: true
+    }),
+    Plot.text(trigramData, {
+      x: "count",
+      y: "phrase",
+      text: d => d.count,
+      textAnchor: "start",
+      dx: 5,
+      fill: "white",
+      fontSize: 13
+    })
+  ]
+});
+
+trigramSection.appendChild(trigramChart);
+
+// 5. DOCUMENT STATISTICS
 const statsSection = document.getElementById('statistics');
 const docs = analysisData.documents;
 
@@ -88,7 +156,7 @@ const pubChart = Plot.plot({
 
 statsSection.appendChild(pubChart);
 
-// 3. KEYWORDS IN CONTEXT (KWIC)
+// 6. KEYWORDS IN CONTEXT (KWIC)
 const kwicSection = document.getElementById('kwic-search');
 const kwicInput = document.getElementById('kwic-input');
 const kwicResults = document.getElementById('kwic-results');
@@ -157,7 +225,7 @@ kwicInput.addEventListener('keypress', (e) => {
   }
 });
 
-// 4. WORD CLOUD using d3-cloud (based on CHNM approach)
+// 7. WORD CLOUD using d3-cloud (based on CHNM approach)
 const wordCloudSection = document.getElementById('word-cloud');
 const cloudData = analysisData.word_frequencies.slice(0, 50);
 
@@ -244,6 +312,20 @@ wordCloudSection.appendChild(svg.node());
   <h2>Word Frequency</h2>
   <p>The 50 most frequently occurring words in the newspaper coverage (stopwords removed). Words like "indian," "government," "protesters," and "treaty" dominate the discourse.</p>
   <div id="word-frequency" class="visualization"></div>
+</section>
+
+<!-- Section: Bigram Frequency -->
+<section class="analysis-section">
+  <h2>Bigram Frequency</h2>
+  <p>The 30 most frequent two-word phrases (stopwords removed). Bigrams reveal recurring pairings like "bureau indian," "trail broken," and "white house" that shaped how events were framed.</p>
+  <div id="bigram-frequency" class="visualization"></div>
+</section>
+
+<!-- Section: Trigram Frequency -->
+<section class="analysis-section">
+  <h2>Trigram Frequency</h2>
+  <p>The 25 most frequent three-word phrases. Trigrams surface specific named entities and recurring formulations — "bureau indian affairs," "trail broken treaties," and "american indian movement" — that anchored media coverage.</p>
+  <div id="trigram-frequency" class="visualization"></div>
 </section>
 
 <!-- Section: Statistics -->
