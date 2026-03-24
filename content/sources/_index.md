@@ -9,7 +9,8 @@ The digital medium provides a variety of useful tools to analyze historical data
 
 #### Visualizations:
 
-- [**Text Analysis Dashboard**](/sources/text-analysis/): Interactive visualizations of the newspaper corpus, including word frequency charts, a clickable word cloud, keywords-in-context search, and document statistics. Analyze patterns in language and discourse across 94 archival documents from 1972-1973.
+- [**Text Analysis Dashboard**](/sources/text-analysis/): Interactive visualizations of the newspaper corpus, including word frequency charts, bigram and trigram analysis, a clickable word cloud, keywords-in-context search, and document statistics. Analyze patterns in language and discourse across 94 archival documents from 1972-1973.
+- [**Text Analysis: Methods and Data Pipeline**](/sources/text-analysis-methods/): A description of the corpus, data processing scripts, visualization techniques, and limitations behind the text analysis dashboard.
 
 #### Maps:
 
