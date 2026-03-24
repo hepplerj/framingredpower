@@ -1,34 +1,119 @@
 /**
  * Document Filtering and Sorting
- * Provides client-side filtering and sorting for document lists
+ * Provides client-side filtering and sorting for document archive table
  */
 
 (function() {
   'use strict';
 
-  // Wait for DOM to be ready
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initDocumentFilter);
+    document.addEventListener('DOMContentLoaded', init);
   } else {
-    initDocumentFilter();
+    init();
   }
 
-  function initDocumentFilter() {
-    const documentList = document.querySelector('.document-list');
-    if (!documentList) return;
+  function init() {
+    const table = document.querySelector('.document-table');
+    if (!table) return;
 
-    // Create filter controls
-    const controls = createFilterControls();
-    documentList.parentNode.insertBefore(controls, documentList);
+    const tbody = table.querySelector('tbody');
+    const rows = Array.from(tbody.querySelectorAll('tr.document-item'));
 
-    // Get all documents
-    const documents = Array.from(documentList.querySelectorAll('.document-item'));
+    // Insert controls above the table
+    const controls = createFilterControls(rows.length);
+    table.parentNode.insertBefore(controls, table);
 
-    // Add filter listeners
-    setupFilterListeners(documents);
+    // Sort state matches the default order Hugo renders (date desc)
+    let sortField = 'date';
+    let sortDir = 'desc';
+    let searchTerm = '';
+
+    // Column header click-to-sort
+    table.querySelectorAll('th[data-sort]').forEach(th => {
+      th.addEventListener('click', () => {
+        const field = th.dataset.sort;
+        if (sortField === field) {
+          sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+        } else {
+          sortField = field;
+          sortDir = field === 'date' ? 'desc' : 'asc';
+        }
+        updateSortIcons(table, sortField, sortDir);
+        syncSortSelect(sortField, sortDir);
+        applyFilters();
+      });
+
+      th.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          th.click();
+        }
+      });
+    });
+
+    // Search input
+    const searchInput = document.getElementById('search-filter');
+    if (searchInput) {
+      searchInput.addEventListener('input', debounce(e => {
+        searchTerm = e.target.value.toLowerCase();
+        applyFilters();
+      }, 300));
+    }
+
+    // Sort select (mirrors column header state; useful on mobile)
+    const sortSelect = document.getElementById('sort-select');
+    if (sortSelect) {
+      sortSelect.addEventListener('change', e => {
+        const parts = e.target.value.split('-');
+        sortDir = parts.pop();
+        sortField = parts.join('-');
+        updateSortIcons(table, sortField, sortDir);
+        applyFilters();
+      });
+    }
+
+    // Clear button
+    const clearBtn = document.getElementById('clear-filters');
+    if (clearBtn) {
+      clearBtn.addEventListener('click', () => {
+        if (searchInput) searchInput.value = '';
+        if (sortSelect) sortSelect.value = 'date-desc';
+        searchTerm = '';
+        sortField = 'date';
+        sortDir = 'desc';
+        updateSortIcons(table, sortField, sortDir);
+        applyFilters();
+      });
+    }
+
+    function applyFilters() {
+      const visible = rows.filter(row => {
+        const show = !searchTerm || row.textContent.toLowerCase().includes(searchTerm);
+        row.style.display = show ? '' : 'none';
+        return show;
+      });
+
+      visible.sort((a, b) => {
+        const valA = (a.dataset[sortField] || '').toLowerCase();
+        const valB = (b.dataset[sortField] || '').toLowerCase();
+        const cmp = valA.localeCompare(valB);
+        return sortDir === 'asc' ? cmp : -cmp;
+      });
+
+      visible.forEach(row => tbody.appendChild(row));
+      updateCount(visible.length, rows.length);
+    }
+
+    function updateCount(visible, total) {
+      const el = document.getElementById('results-count');
+      if (!el) return;
+      el.textContent = visible === total
+        ? `Showing all ${total} documents`
+        : `Showing ${visible} of ${total} documents`;
+    }
   }
 
-  function createFilterControls() {
+  function createFilterControls(total) {
     const controls = document.createElement('div');
     controls.className = 'document-controls';
     controls.innerHTML = `
@@ -44,144 +129,54 @@
             />
           </label>
         </div>
-
         <div class="filter-group">
           <label for="sort-select">Sort by:</label>
           <select id="sort-select" aria-label="Sort documents by">
             <option value="date-desc">Date (Newest first)</option>
             <option value="date-asc">Date (Oldest first)</option>
-            <option value="title-asc">Title (A-Z)</option>
-            <option value="title-desc">Title (Z-A)</option>
-            <option value="source-asc">Source (A-Z)</option>
+            <option value="title-asc">Title (A–Z)</option>
+            <option value="title-desc">Title (Z–A)</option>
+            <option value="source-asc">Source (A–Z)</option>
           </select>
         </div>
-
         <div class="filter-group">
-          <button
-            id="clear-filters"
-            class="btn-secondary"
-            aria-label="Clear all filters"
-          >
-            Clear Filters
-          </button>
+          <button id="clear-filters" class="btn-secondary" aria-label="Clear all filters">Clear Filters</button>
         </div>
       </div>
-
-      <div id="results-count" class="results-count" role="status" aria-live="polite">
-        Showing all documents
-      </div>
+      <div id="results-count" class="results-count" role="status" aria-live="polite">Showing all ${total} documents</div>
     `;
     return controls;
   }
 
-  function setupFilterListeners(documents) {
-    const searchInput = document.getElementById('search-filter');
-    const sortSelect = document.getElementById('sort-select');
-    const clearBtn = document.getElementById('clear-filters');
-    const resultsCount = document.getElementById('results-count');
-
-    let currentFilters = {
-      search: '',
-      sort: 'date-desc'
-    };
-
-    // Search filter
-    searchInput.addEventListener('input', debounce(function(e) {
-      currentFilters.search = e.target.value.toLowerCase();
-      applyFilters();
-    }, 300));
-
-    // Sort
-    sortSelect.addEventListener('change', function(e) {
-      currentFilters.sort = e.target.value;
-      applyFilters();
-    });
-
-    // Clear filters
-    clearBtn.addEventListener('click', function() {
-      searchInput.value = '';
-      sortSelect.value = 'date-desc';
-      currentFilters = { search: '', sort: 'date-desc' };
-      applyFilters();
-    });
-
-    function applyFilters() {
-      let visibleCount = 0;
-
-      // Filter documents
-      const filteredDocs = documents.filter(doc => {
-        if (!currentFilters.search) return true;
-
-        const text = doc.textContent.toLowerCase();
-        const match = text.includes(currentFilters.search);
-
-        doc.style.display = match ? '' : 'none';
-        if (match) visibleCount++;
-
-        return match;
-      });
-
-      // Sort documents
-      sortDocuments(filteredDocs, currentFilters.sort);
-
-      // Update count
-      updateResultsCount(visibleCount, documents.length);
-    }
-
-    function sortDocuments(docs, sortBy) {
-      docs.sort((a, b) => {
-        switch(sortBy) {
-          case 'date-desc':
-            return compareDates(b, a);
-          case 'date-asc':
-            return compareDates(a, b);
-          case 'title-asc':
-            return compareText(a, b, 'h2');
-          case 'title-desc':
-            return compareText(b, a, 'h2');
-          case 'source-asc':
-            return compareText(a, b, '.meta');
-          default:
-            return 0;
-        }
-      });
-
-      // Reorder in DOM
-      const list = docs[0].parentNode;
-      docs.forEach(doc => list.appendChild(doc));
-    }
-
-    function compareDates(a, b) {
-      const dateA = a.querySelector('time')?.getAttribute('datetime') || '';
-      const dateB = b.querySelector('time')?.getAttribute('datetime') || '';
-      return dateA.localeCompare(dateB);
-    }
-
-    function compareText(a, b, selector) {
-      const textA = a.querySelector(selector)?.textContent || '';
-      const textB = b.querySelector(selector)?.textContent || '';
-      return textA.localeCompare(textB);
-    }
-
-    function updateResultsCount(visible, total) {
-      if (visible === total) {
-        resultsCount.textContent = `Showing all ${total} documents`;
+  function updateSortIcons(table, activeField, dir) {
+    table.querySelectorAll('th[data-sort]').forEach(th => {
+      const icon = th.querySelector('.sort-icon');
+      if (!icon) return;
+      if (th.dataset.sort === activeField) {
+        icon.textContent = dir === 'asc' ? ' ↑' : ' ↓';
+        th.setAttribute('aria-sort', dir === 'asc' ? 'ascending' : 'descending');
       } else {
-        resultsCount.textContent = `Showing ${visible} of ${total} documents`;
+        icon.textContent = '';
+        th.setAttribute('aria-sort', 'none');
       }
+    });
+  }
+
+  function syncSortSelect(field, dir) {
+    const select = document.getElementById('sort-select');
+    if (!select) return;
+    const val = `${field}-${dir}`;
+    if (select.querySelector(`option[value="${val}"]`)) {
+      select.value = val;
     }
   }
 
-  // Debounce function for search input
   function debounce(func, wait) {
     let timeout;
-    return function executedFunction(...args) {
-      const later = () => {
-        clearTimeout(timeout);
-        func(...args);
-      };
+    return function(...args) {
       clearTimeout(timeout);
-      timeout = setTimeout(later, wait);
+      timeout = setTimeout(() => func.apply(this, args), wait);
     };
   }
+
 })();
