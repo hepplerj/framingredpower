@@ -14,11 +14,8 @@ author: "Peter Osnos"
 <h3>'Indians First, Always,' Demonstrator Declares</h3>
 
 
-<p>Source: Washington Post, p. A8</p>
 
-<p>Date: November 04, 1972</p>
 
-<p>Author(s): Peter Osnos</p>
 
 <p>The hundreds of young Indians ranging through the government-drab corridors of the Bureau of Indian Affairs these past two days share the exuberance of radical pride and anger over the age-old suffering of their people.</p>
 

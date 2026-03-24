@@ -14,11 +14,8 @@ author: "Donald P. Baker"
 <h3>Stolen BIA Artifacts, Documents Recovered</h3>
 
 
-<p>Source: Washington Post, p. B1</p>
 
-<p>Date: November 15, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>Traffic accidents and speeding arrests in three Western towns have led to the recovery of what is believed to be stolen documents and artifacts from the looted Bureau of Indian Affairs building here, a BIA spokesman said yesterday.</p>
 

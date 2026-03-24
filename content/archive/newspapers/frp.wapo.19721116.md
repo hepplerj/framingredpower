@@ -14,11 +14,8 @@ author: "Jack Anderson"
 <h3>Indians Got Kindly Agnew Memo</h3>
 
 
-<p>Source: Washington Post, p. G13</p>
 
-<p>Date: November 16, 1972</p>
 
-<p>Author(s): Jack Anderson</p>
 
 <p>One of the biggest prizes seized during the Indian raid on government files was a memo written by Vice President Agnew to Interior Secretary Rogers Morton in behalf of a banking tycoon.</p>
 

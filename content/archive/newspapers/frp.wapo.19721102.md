@@ -14,11 +14,8 @@ author: "Raul Ramirez"
 <h3>Indians Refused Permission to Use Arlington Cemetery for Services</h3>
 
 
-<p>Source: Washington Post, p. B1</p>
 
-<p>Date: November 02, 1972</p>
 
-<p>Author(s): Raul Ramirez</p>
 
 <p>Organizers of a week of peaceful activities by American Indians due to begin in Washington today said their actions may take a "whole different character" because the Department of the Army will not allow them to hold religious services at Arlington National Cemetery.</p>
 

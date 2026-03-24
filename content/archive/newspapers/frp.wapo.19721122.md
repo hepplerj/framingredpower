@@ -14,11 +14,8 @@ author: "Raul Ramirez"
 <h3>BIA's Loesch: A Bureaucrat Unafraid to Speak Out</h3>
 
 
-<p>Source: Washington Post, p. C1</p>
 
-<p>Date: November 22, 1972</p>
 
-<p>Author(s): Raul Ramirez</p>
 
 <p>Harrison Loesch is an unusual Washington bureaucrat who has not been afraid to speak out about judges, his own boss, Interior Secretary Rogers C. B. Morton, the Nixon administration generally (although Loesch is a presidential appointee) and, especially the nation's Indians.</p>
 

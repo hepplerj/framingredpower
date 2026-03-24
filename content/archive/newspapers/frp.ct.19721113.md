@@ -14,11 +14,8 @@ author: "Michael Satchell"
 <h3>Led Building Takeover: Criminal Record of 3 Indian Leaders Told</h3>
 
 
-<p>Source: Chicago Tribune, p. 3</p>
 
-<p>Date: November 13, 1972</p>
 
-<p>Author(s): Michael Satchell</p>
 
 <p>Three of the principal leaders of Indians who looted files, destroyed or stole irreplaceable Indian artifacts, and caused nearly $2 million in damage during last week's six-day occupation of the Bureau of Indian Affairs building here have extensive criminal records in Minneapolis.</p>
 

@@ -13,11 +13,8 @@ aliases:
 <h3>Protesting Indians refuse to leave BIA building despite court order</h3>
 
 
-<p>Source: Minneapolis Tribune, p.</p>
 
-<p>Date: November 04, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Militant American Indian leaders, refusing to obey a court order to vacate Bureau of Indian Affairs (BIA) headquarters, armed themselves with makeshift weapons Friday night and vowed not to leave without a fight.</p>
 

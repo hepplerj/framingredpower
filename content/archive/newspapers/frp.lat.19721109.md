@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Leave Building With Files, Artifacts</h3>
 
 
-<p>Source: Los Angeles Times, p. A7</p>
 
-<p>Date: November 07, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>After taking many files and native American artifacts, militant Indians Wednesday night handed back to the government the federal building they seized a week ago to protest federal treatment of the redman.</p>
 

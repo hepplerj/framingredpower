@@ -14,11 +14,8 @@ author: "Donald P. Baker"
 <h3>Activists' House Raided Again; BIA Documents Sought</h3>
 
 
-<p>Source: Washington Post, p. A5</p>
 
-<p>Date: February 01, 1973</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>The three-story brick row house at 1747 Lanier Pl. NW has been occupied by a variety of newsworthy persons in the last few years: Lesie Bacon, once a suspect in the 1971 bombing of the Capitol, and a series of May Day, Cantonsville 9 and other antiwar activists and rebel American Indians.</p>
 

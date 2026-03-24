@@ -13,11 +13,8 @@ aliases:
 <h3>An Indian Leader Pledges Return of U.S. Property</h3>
 
 
-<p>Source: New York Times, p. 36</p>
 
-<p>Date: January 12, 1973</p>
 
-<p>Author(s): N/A</p>
 
 <p>The documents, paintings and other property taken from the Bureau of Indian Affairs after its four-day occupation by Indians last November will be returned by Feb. 10, a negotiator for the group said today.</p>
 

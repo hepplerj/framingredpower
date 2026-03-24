@@ -14,11 +14,8 @@ author: "Donald P. Baker"
 <h3>Employees of BIA To Resume Work</h3>
 
 
-<p>Source: Washington Post, p. C1</p>
 
-<p>Date: December 04, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>The new acting director of the Bureau of Indian Affairs said yesterday that he expects all BIA employees to be back at their desks Wednesday, ending more than a month of paid leave for many of the bureau's 450 employees.</p>
 

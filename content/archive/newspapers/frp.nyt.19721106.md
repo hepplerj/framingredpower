@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Ask Nixon to Solve Impasse</h3>
 
 
-<p>Source: New York Times, p. 21</p>
 
-<p>Date: November 06, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Indians occupying the Bureau of Indian Affairs building urged President Nixon tonight to help find a solution in the impasse between the demonstrators and Federal officials, who have given the Indians an ultimatum to evacuate by tomorrow morning.</p>
 

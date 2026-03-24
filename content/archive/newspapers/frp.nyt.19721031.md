@@ -17,11 +17,8 @@ author: "William M. Blair"
 <h3>Demonstrations This Week to Ask Wide U.S. Help</h3>
 
 
-<p>Source: New York Times, p. 31</p>
 
-<p>Date: October 31, 1972</p>
 
-<p>Author(s): William M. Blair</p>
 
 <p>Groups of American Indians will be in the nation's capital this week in an effort to gain through "peaceful demonstrations" the economic and social benefits that they believe are due them as "first citizens of the land."</p>
 

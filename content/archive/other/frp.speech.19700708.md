@@ -14,11 +14,8 @@ author: "Richard Nixon"
 <h3>President Nixon, Special Message to the Congress on Indian Affairs</h3>
 
 
-<p>Source: Josephy, Alvin M., Jr. Red Power: The American Indians' Fight for Freedom, 1971</p>
 
-<p>Date: July 08, 1970</p>
 
-<p>Author(s): Richard Nixon</p>
 
 <p>To the Congress of the United States:</p>
 

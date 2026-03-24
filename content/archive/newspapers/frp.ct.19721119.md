@@ -14,11 +14,8 @@ author: "Nick Thimmesch"
 <h3>Government Mishandled Indian Militants</h3>
 
 
-<p>Source: Chicago Tribune, p. A5</p>
 
-<p>Date: November 19, 1972</p>
 
-<p>Author(s): Nick Thimmesch</p>
 
 <p>The Bureau of Indian Affairs building was gutted by several hundred of its most celebrated constituents recently in what the Nixon administration called a symbolic massacre, an orgy of violence. The cost: more than $2 million. Indian advancement: zero. Public reaction: small support, mostly outrage.</p>
 

@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Call Files From BIA 'Ransom'</h3>
 
 
-<p>Source: Washington Post, p. C1</p>
 
-<p>Date: November 9, 1972</p>
 
-<p>Author(s): Eugene L. Meyer</p>
 
 <p>"It's a ransom, we know it," Indian leader Dennis Banks said of documents reported seized and removed from the Bureau of Indian Affairs. Having obtained the ransom, Banks said yesterday, all "non–BIA" Indians would leave the Bureau of Indian Affairs building.</p>
 

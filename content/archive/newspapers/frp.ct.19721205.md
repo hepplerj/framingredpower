@@ -13,11 +13,8 @@ aliases:
 <h3>Politics Admitted in Indian Deal</h3>
 
 
-<p>Source: Chicago Tribune, p. B10</p>
 
-<p>Date: December 05, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Rogers C. B. Morton today said "the political environment" was considered when the administration decided against forcing protesting Indians out of the Bureau of Indian Affairs shortly before electon day last month.</p>
 

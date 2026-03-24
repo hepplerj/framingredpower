@@ -13,11 +13,8 @@ aliases:
 <h3>300 Indians Seize Capital Building and Close Bureau</h3>
 
 
-<p>Source: Los Angeles Times, p. A1</p>
 
-<p>Date: November 03, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>A militant Indian group occupied the Bureau of Indian Affairs building Thursday and later announced that government officials had agreed to let them spend the night in the building.</p>
 

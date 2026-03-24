@@ -13,11 +13,8 @@ aliases:
 <h3>Indian Affairs Shakeup</h3>
 
 
-<p>Source: Chicago Tribune, p. A4</p>
 
-<p>Date: December 10, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>The Bureau of Indian Affairs, which was poleaxed by Indian malcontents and administrative irresolution around the time of the November elections, is under new management. Deputy Commissioner John O. Crow has resigned, after saying publicly of Commissioner Louis R. Bruce, "I don't like the support he gave to the unruly mob. He couldn't administer anything." Ronald L. Siegler, White House press secretary, has announced that Bruce and Harrison Loesch, assistant secretary of the interior, are "leaving their posts." Bruce departs without the usual words of praise; Loesch rated "the appreciation of the administration" All three—Crow, Bruce, and Loesch—had earlier been suspended from their functions by Secretary Rogers C. B. Morton.</p>
 

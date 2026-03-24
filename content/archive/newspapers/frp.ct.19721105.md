@@ -15,7 +15,6 @@ aliases:
 
 <p>Title: Judge Stalls Eviction of Indians; U.S., Protesters Hold Site Talks</p>
 
-<p>Source: Chicago Tribune, November 05, 1972, p. B10.</p>
 
 <p>Hundreds of American Indians, some wearing warpaint and armed with makeshift tomahawks, held the Bureau of Indian Affairs for a third night today when a federal judge refused to allow the government to evict them.</p>
 

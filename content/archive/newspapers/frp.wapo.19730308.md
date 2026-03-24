@@ -13,11 +13,8 @@ aliases:
 <h3>BIA Shakeup: 189 Out in Cold</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: March 8, 1973</p>
 
-<p>Author(s): Donald Baker</p>
 
 <p>In a diplapidated temporary building at 3800 Newark St. NW, 189 employees of the Bureau of Indian Affairs work in slow motion, exiled from the main BIA structure downtown.</p>
 

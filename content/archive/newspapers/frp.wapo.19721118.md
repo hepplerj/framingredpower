@@ -13,11 +13,8 @@ aliases:
 <h3>Sioux Leader Outraged</h3>
 
 
-<p>Source: Washington Post, p. A23</p>
 
-<p>Date: November 18, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>The chairman of the Oglala Sioux Tribal Council says he was outraged at destruction during Indian occupations of the Bureau of Indian Affairs building in Washington and a museum in Nebraska this week.</p>
 

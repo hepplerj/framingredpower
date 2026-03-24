@@ -13,11 +13,8 @@ aliases:
 <h3>U.S. Accused Of Exhibiting BIA Damage</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 23, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>Several Indian leaders have accused the federal government of delaying restoration of the Bureau of Indian Affairs building so that damage incurred in a six-day seige there can be shown to the public.</p>
 

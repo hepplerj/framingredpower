@@ -17,11 +17,8 @@ author: "Donald P. Baker"
 <h3>Damage Put At $700,000; Charges Eyed</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 10, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>An agreement signed by representatives of President Nixon recommending against prosecutions for the occupation of the Bureau of Indian Affairs building "in no way" granted amnesty, a White House spokesman said last night.</p>
 

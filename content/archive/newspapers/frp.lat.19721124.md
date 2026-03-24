@@ -13,11 +13,8 @@ aliases:
 <h3>Sacking of Indian Bureau––a 20–Year Setback?</h3>
 
 
-<p>Source: Los Angeles Times, p. B7</p>
 
-<p>Date: November 24, 1972</p>
 
-<p>Author(s): James E. Officer</p>
 
 <p>In mulling over the recent destructive raid on the building that houses the Bureau of Indian Affairs in Washington, I keep asking myself whether a similar event might have occurred at the headquarters of any other federal agency. For example, would government officials have stood aside and permitted a group of unhappy farmers to dismantle the Department of Agriculture, or a group of dissident veterans to sack the VA?</p>
 

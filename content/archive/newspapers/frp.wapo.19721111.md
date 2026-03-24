@@ -14,11 +14,8 @@ author: "Donald P. Baker"
 <h3>News Conference Confrontation</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 11, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>Representatives of two Indian organizations charged one another yesterday with misusing federal money as the debate among Indians themselves continued in the aftermath of the sacking of the Bureau of Indian Affairs building.</p>
 

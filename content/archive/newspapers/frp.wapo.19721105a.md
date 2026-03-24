@@ -14,11 +14,8 @@ author: "Donald P. Baker"
 <h3>Officials, Indians Parley on Protest</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 05, 1972</p>
 
-<p>Author(s): Donald P. Baker and Raul Ramirez</p>
 
 <p>Protesting American Indians continued a third day of occupation of the Bureau of Indian Affairs building last night as negotiations with federal officials were adjourned after four hours.</p>
 

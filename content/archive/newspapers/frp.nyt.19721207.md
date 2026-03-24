@@ -13,11 +13,8 @@ aliases:
 <h3>Indians' Capital Protest Has Not Resolved Any of Their Grievances</h3>
 
 
-<p>Source: New York Times, p. 62</p>
 
-<p>Date: December 7, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>One month after the seizure of the Bureau of Indian Affairs, hostility between the Government and militant Indians persists, and no progress toward resolution of grievances has been made.</p>
 

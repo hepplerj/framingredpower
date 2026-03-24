@@ -13,11 +13,8 @@ aliases:
 <h3>Judge Orders Indians Evicted</h3>
 
 
-<p>Source: Los Angeles Times, p. 1</p>
 
-<p>Date: November 06, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>A federal judge today ordered the government to retake the Bureau of Indian Affairs held since Thursday by Indian demonstrators and to arrest all protesters who refused to comply with his order.</p>
 

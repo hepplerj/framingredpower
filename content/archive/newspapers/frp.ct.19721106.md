@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Occupying U.S. Building Ask Nixon to Intercede</h3>
 
 
-<p>Source: Chicago Tribune, p. A8</p>
 
-<p>Date: November 06, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Indians occupying the Bureau of Indian Affairs building urged President Nixon tonight to help find a solution in the impasse between the demonstrators and federal officials, who have given the Indians an ultimatum to evacuate by tomorrow morning.</p>
 

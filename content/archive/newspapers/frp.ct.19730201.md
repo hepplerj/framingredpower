@@ -13,11 +13,8 @@ aliases:
 <h3>Columnist's aide arrested</h3>
 
 
-<p>Source: Chicago Tribune, p. A10</p>
 
-<p>Date: February 02, 1973</p>
 
-<p>Author(s): N/A</p>
 
 <p>Les Witten, a reporter for syndicated colunist Jack Anderson, was arrested today long with four leaders of an American Indian demonstration that resulted in an estimated $2.3 million loss at the Bureau of Indian Affairs last November.</p>
 

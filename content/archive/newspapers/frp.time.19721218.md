@@ -13,11 +13,8 @@ aliases:
 <h3>Drums on the Potomac</h3>
 
 
-<p>Source: Time Magazine</p>
 
-<p>Date: December 18, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Until Nov. 2 most people outside the Bureau of Indian Affairs–including many of the Indians it was created to serve–took little notice of its operation. On that day, however, the bureau achieved national notoriety when 600 urban-oriented young Indians, who called their mission "the Trail of Broken Treaties," began a seven-day occupation of the building. They were protesting the bureau's inefficiency and its indifference to the pyramiding problems faced by Indians, especially in the cities. Uncertain how to handle the militants and anxious to minimize the pre-election publicity that accompanied their trashing of the building, the Administration bought its way out of the mess by giving the Indians $66,650 in "travel expenses" to clear the area.</p>
 

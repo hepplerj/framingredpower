@@ -13,11 +13,8 @@ aliases:
 <h3>Damage to Capital Building by Indians Put at $1.98 Million</h3>
 
 
-<p>Source: Washington Post, p. 2</p>
 
-<p>Date: November 10, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>The seizure and occupation by protesting Indians of the Bureau of Indian Affairs Building will cost the government $1.98 million to repair the damage, the Interior Department estimated today.</p>
 

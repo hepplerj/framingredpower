@@ -13,11 +13,8 @@ aliases:
 <h3>U.S. Inaction Has Cost Indians Millions, Protest Leader Says</h3>
 
 
-<p>Source: Los Angeles Times, p. C1</p>
 
-<p>Date: December 8, 1972</p>
 
-<p>Author(s): Jack Jones</p>
 
 <p>Documents taken from the Bureau of Indian Affairs in Washington, D.C., during the November protest occupation indicate that tribes have lost millions of dollars through BIA failure to enforce reservation right-of-way agreements, a demonstration leader said here Thursday.</p>
 

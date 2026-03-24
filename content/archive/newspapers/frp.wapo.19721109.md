@@ -14,11 +14,8 @@ author: "Peter Osnos"
 <h3>Protest by Indians Sought an End to Paternalism</h3>
 
 
-<p>Source: Washington Post, p. C1</p>
 
-<p>Date: November 09, 1972</p>
 
-<p>Author(s): Peter Osnos</p>
 
 <p>The Indians who came to Washington on the "Trail of Broken Treaties" carried a plan to completely redesign the relationship of their people to the federal government that for so long has made decisions for them.</p>
 

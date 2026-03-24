@@ -13,11 +13,8 @@ aliases:
 <h3>Indians agree to leave BIA building today, officials say</h3>
 
 
-<p>Source: Minneapolis Tribune, p.</p>
 
-<p>Date: November 07, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Protesting Indians agreed Tuesday night to leave the Bureau of Indian Affairs Building they held for almost a week after reaching an agreement with government negotiators, the White House said.</p>
 

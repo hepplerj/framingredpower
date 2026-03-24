@@ -13,11 +13,8 @@ aliases:
 <h3>Arrest Order for Indians Stayed---They Threaten to Level Building</h3>
 
 
-<p>Source: Los Angeles Times, p. A16</p>
 
-<p>Date: November 07, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>A federal appeals court Monday delayed for two days a lower-court order for the arrest of Indians who have held the Bureau of Indian Affairs building since Thursday. One Indian spokesman said the demonstrators would wreck the building unless concessions were made.</p>
 

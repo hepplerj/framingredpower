@@ -13,11 +13,8 @@ aliases:
 <h3>Behind the Indian Protest</h3>
 
 
-<p>Source: Washington Post, p. A18</p>
 
-<p>Date: November 7, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Once again, in the seizure of the Bureau of Indian Affairs building by a group of Indians, Washington is witness to a protest which itself has become a focus of media attention and public dispute, while the purpose for which the Indians came to town is largely ignored. We leave it to the sponsors of this particular demonstration to decide whether their tactics have helped or hurt their cause. Here we offer some notes on the cause.</p>
 

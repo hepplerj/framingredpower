@@ -13,11 +13,8 @@ aliases:
 <h3>BIA Fight: 'One Has to Go'</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: December 2, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>A White House spokesman last night reacted to namecalling by a top official of the Bureau of Indian Affairs by saying "we are sick and tired of the polarization" there and promised that "measures will be taken to get rid of it."</p>
 

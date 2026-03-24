@@ -14,11 +14,8 @@ author: "Jack Anderson"
 <h3>Urban Indian Is Forgotten Man</h3>
 
 
-<p>Source: Washington Post, p. B15</p>
 
-<p>Date: December 19, 1972</p>
 
-<p>Author(s): Jack Anderson</p>
 
 <p>The urban Indian, who fled the dry-dirt poverty of the reservation to seek his fortune in the city, has become American’s forgotten man.</p>
 

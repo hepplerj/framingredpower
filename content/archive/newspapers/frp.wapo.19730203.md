@@ -13,11 +13,8 @@ aliases:
 <h3>D.C. Police Officer Led Double Life as an Apache Indian</h3>
 
 
-<p>Source: Washington Post, p. B1</p>
 
-<p>Date: February 03, 1973</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>When the familiar red Volkswagen camper stopped in front of 1747 Lanier Pl. NW. on Wednesday, the only difference from its many previous appearances was that its driver, Johnny Arellano, was not alone.</p>
 

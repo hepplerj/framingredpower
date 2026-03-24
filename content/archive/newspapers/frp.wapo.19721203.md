@@ -13,11 +13,8 @@ aliases:
 <h3>3 Indian Officials Ousted in Shakeup</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: December 3, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>The three federal officials primarily responsible for the government's dealing with Indians were relieved of their duties yesterday by Interior Secretary Rogers C. B. Morton.</p>
 

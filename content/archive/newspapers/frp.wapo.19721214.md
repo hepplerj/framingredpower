@@ -14,11 +14,8 @@ author: "Jack Anderson"
 <h3>Indian Bureau Chief Is Outflanked</h3>
 
 
-<p>Source: Washington Post, p. K15</p>
 
-<p>Date: December 14, 1972</p>
 
-<p>Author(s): Jack Anderson</p>
 
 <p>Congress pledged in 1789 that Indian “lands and property shall never be taken from them without their consent. This is the story of what happened to an official who thought the treaty should be observed.</p>
 

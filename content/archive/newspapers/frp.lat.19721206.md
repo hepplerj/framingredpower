@@ -13,11 +13,8 @@ aliases:
 <h3>Shakeup in Indian Affairs Rumored</h3>
 
 
-<p>Source: Los Angeles Times, p. 2</p>
 
-<p>Date: December 6, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>The government's top three federal officials in charge of Indian affairs will be fired shortly, sources said today.</p>
 

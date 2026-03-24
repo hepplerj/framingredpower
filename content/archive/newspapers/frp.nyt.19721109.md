@@ -14,11 +14,8 @@ author: "William M. Blair"
 <h3>Indians Take Documents as They Leave U.S. Building</h3>
 
 
-<p>Source: New York Times, p. 52</p>
 
-<p>Date: November 09, 1972</p>
 
-<p>Author(s): William M. Blair</p>
 
 <p>Loaded with what they called "incriminating" documents purloined from Federal files, Indian militants began leaving the Bureau of Indian Affairs Building today. They took over the building a week ago.</p>
 

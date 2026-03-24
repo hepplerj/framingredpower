@@ -13,11 +13,8 @@ aliases:
 <h3>2 Asked To Talk By Jury</h3>
 
 
-<p>Source: Washington Post, p. C1</p>
 
-<p>Date: February 12, 1973</p>
 
-<p>Author(s): Donald Baker</p>
 
 <p>A federal grand jury here, investigating the theft of documents from the Bureau of Indian Affairs, has asked reporter Leslie H. Whitten Jr. and Indian activist Henry L. (Hank) Adams to testify before it Wednesday</p>
 

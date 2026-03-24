@@ -14,11 +14,8 @@ author: "Raul Ramirez"
 <h3>Indians Continue Occupation of BIA</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 04, 1972</p>
 
-<p>Author(s): Raul Ramirez</p>
 
 <p>Most of a group of 400 protesting Indians, who vowed to remain in the Bureau of Indian Affairs until their demands for "self-determination" are met, continued their second day of occupation of the building early today.</p>
 

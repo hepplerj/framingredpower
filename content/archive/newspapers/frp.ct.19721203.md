@@ -13,11 +13,8 @@ aliases:
 <h3>Three Aides Fired at Indian Bureau</h3>
 
 
-<p>Source: Chicago Tribune, p. 7</p>
 
-<p>Date: December 03, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Interior Secretary Rogers C. B. Morton today stripped supervision of Indian affairs from the top three men involved, saying he was taking personal command to "put Indian operations back to work."</p>
 

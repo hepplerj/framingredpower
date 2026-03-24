@@ -13,11 +13,8 @@ aliases:
 <h3>Indians to Be Liable for Damage</h3>
 
 
-<p>Source: Los Angeles Times, p. A5</p>
 
-<p>Date: November 10, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>An agreement signed by representatives of President Nixon recommending "no prosecution for the seizure and occupation" of the Bureau of Indian Affairs building "in no way" granted amnesty for the "extraordinary damage and theft of government property" which occurred during a seven-day seige of the building, a White House spokesman said Thursday.</p>
 

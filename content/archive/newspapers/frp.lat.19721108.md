@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Agree to Leave Seized Federal Building</h3>
 
 
-<p>Source: Los Angeles Times, p. A6</p>
 
-<p>Date: November 08, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Protesting Indians agreed Tuesday night to leave the Bureau of Indian Affairs building they held for almost a week after reaching an agreement with government negotiators, the White House said.</p>
 

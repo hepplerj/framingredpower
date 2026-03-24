@@ -14,11 +14,8 @@ author: "John P. MacKenzie"
 <h3>FBI Arrests Reporter in Stolen Data</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: February 01, 1973</p>
 
-<p>Author(s): John P. MacKenzie and Donald P. Baker</p>
 
 <p>FBI agents arrested Leslie H. Whitten, investigative reporter for columnist Jack Anderson, on a Washington street yesterday and charged him, along with two other persons, with illegally receiving documents stolen from the Bureau of Indian Affairs last November.</p>
 

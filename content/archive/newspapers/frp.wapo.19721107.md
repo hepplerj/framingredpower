@@ -14,11 +14,8 @@ author: "Peter Osnos"
 <h3>Legacy of Suspicion Changes Protest Into Confrontation</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 07, 1972</p>
 
-<p>Author(s): Peter Osnos</p>
 
 <p>"We come in peace," the Indian leaders of the "Trail of Broken Treaties" caravan said last week as they arrived in Washington for a round of issue workshops, spiritual services and meetings with government officials.</p>
 

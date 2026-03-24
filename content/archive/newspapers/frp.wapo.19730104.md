@@ -14,11 +14,8 @@ author: "Jack Anderson"
 <h3>U.S. Disputed on Injustice to Indians</h3>
 
 
-<p>Source: Washington Post, p. B15</p>
 
-<p>Date: January 04, 1973</p>
 
-<p>Author(s): Jack Anderson</p>
 
 <p>Interior Secretary Rogers Morton, usually an affable sort, pulled a long face the other day and attacked us for our "great injustice to the Indian people."</p>
 

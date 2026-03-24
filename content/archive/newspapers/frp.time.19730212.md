@@ -13,11 +13,8 @@ aliases:
 <h3>Pulling Anderson's Leg</h3>
 
 
-<p>Source: Time Magazine</p>
 
-<p>Date: February 12, 1973</p>
 
-<p>Author(s): N/A</p>
 
 <p>In the continuing conflict between the Nixon Administration and the press, Columnist Jack Anderson and his trio of legmen have employed the boldest and, in Government eyes, the most outrageous guerrilla tactics. Secret memos, classified documents, off-the-record exchanges—all have found their way into Anderson's hands and columns (TIME cover, April 3). Countering with some cloak-and-dagger work of its own, the FBI last week arrested one of Anderson's men while he was loading stolen documents into his car.</p>
 

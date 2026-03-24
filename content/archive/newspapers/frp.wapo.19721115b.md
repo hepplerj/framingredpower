@@ -13,11 +13,8 @@ aliases:
 <h3>Behind the Indian Protest</h3>
 
 
-<p>Source: Washington Post, p. A15</p>
 
-<p>Date: November 15, 1972</p>
 
-<p>Author(s): C.E. Harris</p>
 
 <p>In your editorial "Behind the Indian Protest" you stated: "That any President would propose or any Congress grant sovereign-nation status to Indians is, frankly, inconceivable." I should like for you to explain to me why it is inconceivable.</p>
 

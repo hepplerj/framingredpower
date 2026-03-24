@@ -14,11 +14,8 @@ author: "Raul Ramirez"
 <h3>Indians Converging on D.C. for Rallies</h3>
 
 
-<p>Source: Washington Post, p. C1</p>
 
-<p>Date: October 31, 1972</p>
 
-<p>Author(s): Raul Ramirez</p>
 
 <p>Proclaiming, "We come here in peace," leaders of a coalition of 250 of the nation's 300 American Indian tribes began converging in Washington yesterday for a week of activities aimed at dramatizing the traditions and the needs of their people.</p>
 

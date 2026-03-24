@@ -13,11 +13,8 @@ aliases:
 <h3>Indian Affairs Hearings: Beyond the Destruction</h3>
 
 
-<p>Source: Washington Post, p. A22</p>
 
-<p>Date: December 2, 1972</p>
 
-<p>Author(s): Bobbie Greene Kilberg</p>
 
 <p>When the White House Indian Affairs Subcommittee holds hearings Dec. 4-6, the destruction and damage to the Bureau of Indian Affairs that occurred during the occupation by the Trail of Broken Treaties Caravan will once again be directed to the public's attention. Only government witnesses will be heard in the hearings, which are certain to receive a good deal of newsaper and TV coverage. While no responsible person can condone the destruction and the theft of important files and valuable Indian art and artifacts, those should not be the only facts the public remembers from the hearings. Some effort should be made to look back at the week of Nov. 2 to recall who the members of the Trail of Broken Treaties Caravan were and why they came to Washington. Someone should point out that the majority of them came with peaceful intentions; that they came, as one Caravan member put it, "to focus national attention on the state of our lives, on our very poor health, education and housing, the poorest in the nation, and onthe continuous violation of our water, land and treaty rights."</p>
 

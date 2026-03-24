@@ -14,11 +14,8 @@ author: "Eugene L. Meyer"
 <h3>Indians Seize Files as Some Go Home</h3>
 
 
-<p>Source: Washington Post, p. B1</p>
 
-<p>Date: November 08, 1972</p>
 
-<p>Author(s): Eugene L. Meyer</p>
 
 <p>Spokesmen for American Indians occupying the Bureau of Indian Affairs said yesterday that they have read and removed from the building boxes of files that they say show "scandalous if not criminal" exploitation of Indians by senators, congressmen, BIA officials and corporate interests.</p>
 

@@ -14,11 +14,8 @@ author: "William M. Blair"
 <h3>Eviction of Indians Delayed on Appeal</h3>
 
 
-<p>Source: New York Times, p. 73</p>
 
-<p>Date: November 07, 1972</p>
 
-<p>Author(s): William M. Blair</p>
 
 <p>A Federal judge gave the Government permission today to retake the Bureau of Indian Affairs building from militant Indians, but a Federal appeals court stayed the order until Wednesday.</p>
 

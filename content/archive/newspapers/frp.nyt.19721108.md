@@ -14,11 +14,8 @@ author: "William M. Blair"
 <h3>Militant Indians Agree to Leave</h3>
 
 
-<p>Source: New York Times, p. 49</p>
 
-<p>Date: November 08, 1972</p>
 
-<p>Author(s): William M. Blair</p>
 
 <p>Militant Indians agreed tonight to evacuate the Bureau of Indian Affairs building, which they have held for six days.</p>
 

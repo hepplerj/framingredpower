@@ -13,7 +13,6 @@ aliases:
 <h3>Indian Protest</h3>
 
 
-<p>Date: November 03, 1972</p>
 
 <p>Network: NBC</p>
 
@@ -21,7 +20,6 @@ aliases:
 
 <p>Duration: 01:10</p>
 
-<p>Source: Vanderbilt Television News Archive</p>
 
 <p>Note: Due to copyright restrictions, the video footage of the news broadcasts cannot be reproduced.</p>
 

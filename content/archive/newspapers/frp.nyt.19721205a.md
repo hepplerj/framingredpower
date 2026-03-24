@@ -13,11 +13,8 @@ aliases:
 <h3>White House Role on Indian Scored</h3>
 
 
-<p>Source: New York Times, p. 23</p>
 
-<p>Date: December 5, 1972</p>
 
-<p>Author(s): William M. Blair</p>
 
 <p>The White House was accused today of usurping the Congressionally delegated authority of the Secretary of the Interior as a House panel opened an investigation into the Indian takeover and ransacking of the Bureau of Indian Affairs last month.</p>
 

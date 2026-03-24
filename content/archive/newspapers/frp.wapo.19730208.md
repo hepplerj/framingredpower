@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Without Jobs</h3>
 
 
-<p>Source: Washington Post, p. A22</p>
 
-<p>Date: February 8, 1973</p>
 
-<p>Author(s): Richard Schifter</p>
 
 <p>CRITICS OF the "Trail of Broken Treaties Caravan" claim that the men and women who occupied and destroyed the premesis of the Bureau of Indian Affairs last November wer "city Indians" totally alienated from reservation communities. Other observers have argued that these men and women were authentic spokesmen for Indian grievances</p>
 

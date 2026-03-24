@@ -14,11 +14,8 @@ author: "Jon Katz"
 <h3>Damage to BIA Third Heaviest Ever in U.S.</h3>
 
 
-<p>Source: Washington Post, p. A4</p>
 
-<p>Date: November 11, 1972</p>
 
-<p>Author(s): Jon Katz</p>
 
 <p>Damage done to the Bureau of Indian Affairs by protesting Indians this week was the most extensive ever committed by U.S. Citizens on a federal building, government officials said yesterday.</p>
 

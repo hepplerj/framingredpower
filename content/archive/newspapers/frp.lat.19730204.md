@@ -13,11 +13,8 @@ aliases:
 <h3>Fellow 'Indian' Activist Turns Out to Be Officer</h3>
 
 
-<p>Source: Los Angeles Times, p. 10</p>
 
-<p>Date: February 04, 1973</p>
 
-<p>Author(s): N/A</p>
 
 <p>It came as a jolt to Indian activist leader Anita Collins when a trusted "Apache" friend, John Arellano, pulled out a badge and said: "'Nita, I hate to tell you this, but I'm a cop."</p>
 

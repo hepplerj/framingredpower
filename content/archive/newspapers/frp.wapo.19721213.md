@@ -14,11 +14,8 @@ author: "Jack Anderson"
 <h3>Rights and Wrongs of the Indian</h3>
 
 
-<p>Source: Washington Post, p. D23</p>
 
-<p>Date: December 13, 1972</p>
 
-<p>Author(s): Jack Anderson</p>
 
 <p>The Nixon administration, while promising the Indians more authority over their own affairs, has worked secretly to keep them subjugated.</p>
 

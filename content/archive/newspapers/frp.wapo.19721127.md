@@ -13,11 +13,8 @@ aliases:
 <h3>The Nixon Permissiveness</h3>
 
 
-<p>Source: Washington Post, p. A23</p>
 
-<p>Date: November 27, 1972</p>
 
-<p>Author(s): Rowland Evans and Robert Novak</p>
 
 <p>On Thanksgiving Day, White House Counsel John Dean sent a letter to the House Interior Committee, dropping an iron curtain of secrecy over a shocking exhibition by President Nixon that matched the worst permissiveness he has so harshly decried in his political opponents.</p>
 

@@ -14,11 +14,8 @@ author: "Donald P. Baker"
 <h3>'The Government Forced Us to Action'</h3>
 
 
-<p>Source: Washington Post, p. C1</p>
 
-<p>Date: November 09, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>"We're having a fight to get our land back," said Kermit Fraser as he swung a club at a battered picture of the Old West.</p>
 

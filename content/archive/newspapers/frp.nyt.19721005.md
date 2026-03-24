@@ -13,11 +13,8 @@ aliases:
 <h3>Indians to Drive to Capital</h3>
 
 
-<p>Source: New York Times, p. 95</p>
 
-<p>Date: October 05, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Indian leaders disclosed today plans for a series of automobile caravans to the nation's capital to "remind elected officials of the common mistreatment and neglect of the American Indian." Vernon Bellecourt, national codirector of the American Indian Movement, said that seven separate caravans would start this month from Seattle, San Francisco, Los Angeles and several Canadian cities, hoping to reach Washington on Nov. 1.</p>
 

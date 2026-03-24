@@ -14,11 +14,8 @@ author: "Peter Osnos"
 <h3>500 Indians Here Seize U.S. Building</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 03, 1972</p>
 
-<p>Author(s): Peter Osnos and Raul Ramirez</p>
 
 <p>At least 500 Indians barricaded themselves inside the Bureau of Indian Affairs building yesterday evening in the first day of the planned week of protests that organizers had said would be peaceful.</p>
 

@@ -14,11 +14,8 @@ author: "Jack Anderson"
 <h3>BIA Smugglers Tricked the Police</h3>
 
 
-<p>Source: Washington Post, p. B15</p>
 
-<p>Date: December 12, 1972</p>
 
-<p>Author(s): Jack Anderson</p>
 
 <p>The startling story can now be told how Indian activists used a police escort to help smuggle stolen government documents out of Washington.</p>
 

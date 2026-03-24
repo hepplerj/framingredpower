@@ -13,11 +13,8 @@ aliases:
 <h3>Activist Tells of BIA Sacking Brutality Movie Called Spark</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 25, 1972</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>"Showing that movie may have done it," Hank Adams said as he attempted to reconstruct the scene inside the Bureau of Indian Affairs building just before it was sacked.</p>
 

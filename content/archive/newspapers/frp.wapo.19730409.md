@@ -13,11 +13,8 @@ aliases:
 <h3>More Papers From BIA Found in N.C.</h3>
 
 
-<p>Source: Washington Post, p. A3</p>
 
-<p>Date: April 9, 1973</p>
 
-<p>Author(s): N/A</p>
 
 <p>County deputies have seized and turned over to the FBI 29 boxes and file drawers of documents and papers stolen from the Bureau of Indian Affairs in Washington, authorities said today.</p>
 

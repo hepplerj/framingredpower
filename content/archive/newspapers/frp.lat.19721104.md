@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Rampage in Capital Building</h3>
 
 
-<p>Source: Los Angeles Times, p. 1</p>
 
-<p>Date: November 04, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Rampaging Indians, 400 strong, reduced the Bureau of Indian Affairs building to a shambles and refused again earlier today to abandon the premesis.</p>
 

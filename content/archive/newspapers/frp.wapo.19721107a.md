@@ -14,11 +14,8 @@ author: "William L. Claiborne"
 <h3>Order Delayed, Indians Stay in Offices</h3>
 
 
-<p>Source: Washington Post, p. A1</p>
 
-<p>Date: November 07, 1972</p>
 
-<p>Author(s): William L. Claiborne</p>
 
 <p>Granted an 11th-hour reprieve by the U.S. Court of Appeals, several hundred heavily armed Indian protesters retained control of the Bureau of Indian Affairs building last night for the fifth consecutive day.</p>
 

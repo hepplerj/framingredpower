@@ -13,11 +13,8 @@ aliases:
 <h3>U.S. Rejects Indian Demands, Says Nixon Supports Reforms</h3>
 
 
-<p>Source: Washington Post, p. A15</p>
 
-<p>Date: January 11, 1973</p>
 
-<p>Author(s): Donald P. Baker</p>
 
 <p>The White House has responded officially to the 20 proposals submitted by the Trail of Broken Treaties by either rejecting the Indians' demands or arguing that reforms they had proposed are supported already by the Nixon administration.</p>
 

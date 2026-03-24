@@ -14,11 +14,8 @@ author: "Jack Anderson"
 <h3>Indian Documents Tell Shabby Story</h3>
 
 
-<p>Source: Washington Post, p. D13</p>
 
-<p>Date: December 11, 1972</p>
 
-<p>Author(s): Jack Anderson</p>
 
 <p>The Broken Treaties Papers, which were smuggled out of government files by wrathful Indians during their occupation of the Bureau of Indian Affairs building, have been scattered in secret stashes across the United States and Canada.</p>
 

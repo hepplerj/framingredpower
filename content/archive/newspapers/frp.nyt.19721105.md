@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Staying in U.S. Building</h3>
 
 
-<p>Source: New York Times, p. 37</p>
 
-<p>Date: November 05, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Members of the American Indian Movement continued to occupy the Bureau of Indian Affairs building today after an early morning agreement with Government officials that Federal marshals would not try to evict them pending further negotiations over their grievances.</p>
 

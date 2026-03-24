@@ -14,11 +14,8 @@ author: "William M. Blair"
 <h3>Indians in Capital Defy a Court Order</h3>
 
 
-<p>Source: New York Times, p. 42</p>
 
-<p>Date: November 04, 1972</p>
 
-<p>Author(s): William M. Blair</p>
 
 <p>American Indian militants defied a Federal court order last night and barricaded themselves in the Bureau of Indian Affairs building for the second successive night.</p>
 

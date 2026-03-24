@@ -13,11 +13,8 @@ aliases:
 <h3>After the Indian Protest</h3>
 
 
-<p>Source: Washington Post, p. A14</p>
 
-<p>Date: November 15, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>No one who saw or sensed the very real furies possessing the Indians who took over the Bureau of Indian Affairs building will challenge the administration's judgment in stalling and in negotiating their evacuation, rather than inviting another "Attica" by trying to oust them by force. Ordered by a court to house and feed the protesters, the White House then wisely decided to implement the order by sending them home. None of their substantive demands—aimed at nothing less than a transformation of federal-Indian relations—was granted, but the administration did set up a taskforce to respond to the Indians in 60 days and to report to the President in six months. It was a responsible way to defuse a powder keg and yet to address the serious grievances underneath. How ironic that the President's own strictures against "permissiveness" should now be thrown back at him, from the political right.</p>
 

@@ -14,11 +14,8 @@ author: "William M. Blair"
 <h3>Indians Take Documents as They Leave U.S. Building</h3>
 
 
-<p>Source: New York Times, p. 17</p>
 
-<p>Date: November 10, 1972</p>
 
-<p>Author(s): William M. Blair</p>
 
 <p>Militant American Indians left behind them today a battered Bureau of Indian Affairs Building that may take months to restore to usefulness.</p>
 

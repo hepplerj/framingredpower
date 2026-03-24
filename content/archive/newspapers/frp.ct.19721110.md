@@ -13,11 +13,8 @@ aliases:
 <h3>Indians Ripped Up Federal Building</h3>
 
 
-<p>Source: Chicago Tribune, p. 3</p>
 
-<p>Date: November 10, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>Protesting Indians caused $530,000 damage to the office of the Bureau of Indian Affairs, government officials said today. They estimated that employees will not be able to return to work until at least a week from tomorrow.</p>
 

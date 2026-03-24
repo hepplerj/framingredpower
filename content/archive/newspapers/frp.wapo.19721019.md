@@ -13,11 +13,8 @@ aliases:
 <h3>300 Indians Protest Proposed Fund Cut</h3>
 
 
-<p>Source: Washington Post, p. A8</p>
 
-<p>Date: October 19, 1972</p>
 
-<p>Author(s): N/A</p>
 
 <p>The leader of the American Indian Movement says "it may take another Watts" before the United States realizes "the plight of the American Indians."</p>
 

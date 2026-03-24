@@ -14,11 +14,8 @@ author: "Paul Hodge"
 <h3>Another 'Wounded Knee' Was Feared Friday Night</h3>
 
 
-<p>Source: Washington Post, p. A10</p>
 
-<p>Date: November 05, 1972</p>
 
-<p>Author(s): Paul Hodge</p>
 
 <p>Friday night, most of the more than 500 American Indians inside the Bureau of Indian Affairs building armed themselves with clubs, knives and a few bows and arrows and put on (lipstick) war paint for what they predicted might be "another Wounded Knee"--the famous 1890 battle in which an Army regiment massacred 250 to 300 Sioux Indians, most of them women and children.</p>
 
