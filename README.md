@@ -1,8 +1,4 @@
-# Framing Red Power - Hugo Migration
-
-This repository contains the Hugo-based version of the Framing Red Power digital history project, migrated from the original PHP-based site.
-
-## About the Project
+# Framing Red Power
 
 Framing Red Power explores the history of the Trail of Broken Treaties, newspaper coverage, and the American Indian Movement's use of media in crafting their image during the 1972-1973 period.
 
