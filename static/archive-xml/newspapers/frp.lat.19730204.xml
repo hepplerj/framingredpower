@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.lat.19730204">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Fellow 'Indian' Activist Turns Out to Be Officer</title>
+                <title type="sub">Trusted Friend in Occupation of Building Aids in Arrest on Possession of Papers</title>
+                <author n=""></author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">Fellow 'Indian' Activist Turns Out to Be Officer</title>
+                    <title level="a" type="sub">Trusted Friend in Occupation of Building Aids in Arrest on Possession of Papers</title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Los Angeles Times</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1973-02-04">04 February 1973</date>
+                    <biblScope type="page">10</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-05-19</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">Fellow 'Indian' Activist Turns Out to Be Officer</head>
+                <head type="sub">Trusted Friend in Occupation of Building Aids in Arrest on Possession</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Los Angeles Times</hi>, p. 10</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  February 04, 1973</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  N/A</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>It came as a jolt to Indian activist leader <name type="person" key="Collins, Anita">Anita Collins</name> when a trusted &quot;Apache&quot; friend, <name type="person" key="Arellano, John G.">John Arellano</name>, pulled out a badge and said: &quot;'Nita, I hate to tell you this, but I'm a cop.&quot;</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name>, a 25&#8211;year&#8211;old Mexican&#8211;American, and no Indian, had infiltrated the Indian movement four months earlier and was with the police when they arrested her Wednesday.</p>
+                
+                <p>He is the source quoted by the FBI in the charges against <name type="person" key="Collins, Anita">Miss Collins</name>, Indian leader <name type="person" key="Adams, Hank">Hank Adams</name> and investigative reporter <name type="person" key="Whitten, Leslie H. Jr.">Leslie H. Whitten</name>, who are accused of unlawfully possessing documents stolen from the Bureau of Indian Affairs building last <date n="1972-11-00">November</date>.</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name> told FBI agents that <name type="person" key="Collins, Anita">Miss Collins</name> had picked up three boxes of stolen documents at the bus station the night before.  Indian leaders said he had driven her there.</p>
+                
+                <p>Agents handcuffed <name type="person" key="Adams, Hank">Adams</name> and <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> as they carried three cartons of documents from <name type="person" key="Adams, Hank">Adams</name>' apartment to <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name>'s car.  <name type="person" key="Adams, Hank">Adams</name> said they were on the way to the BIA to return the material; <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> said he was along to get a story.</p>
+                
+                <head type="sub">Closest Friend</head>
+                
+                <p><name type="person" key="Collins, Anita">Miss Collins</name> had been <name type="person" key="Arellano, John G.">Arellano</name>'s closest friend among the Indians.  He had used his association with her to become part of the nucleus of Indian demonstrators who occupied the BIA building.  Later, he was able to keep up communications with Indians who scattered after taking part of the Trail of Broken Treaties caravan that climaxed with the ransacking of the building.</p>
+                
+                <p>District of Columbia police said <name type="person" key="Arellano, John G.">Arellano</name> began his intrigue by studying Indian history and customs.  His long, black hair and high cheekbones helped him pass for an Indian.</p>
+                
+                <p>He had drawn the assignment as a city policeman, but after the BIA building was damaged the affair became a federal matter.</p>
+                
+                <p>Meanwhile, <name type="person" key="Arellano, John G.">Arellano</name> had told some of the Indians he had been born on a reservation but his parents died and he was sent to a city to live.  Friends said he told them he joined the caravan to &quot;regain his Indian roots&quot; and to reestablish a sense of identity.</p>
+                
+                <p><name type="person" key="Collins, Anita">Miss Collins</name> said she felt sorry for him and that he acted like many city Indians who do not understand the reservation life.</p>
+                
+                <head type="sub">Melted Into Crowd</head>
+                
+                <p>It was easy for <name type="person" key="Arellano, John G.">Arellano</name> to melt into the crowd in the melee after the caravan took over the BIA building.</p>
+                
+                <p>Of the hundreds of Indians who barricaded themselves inside, most were strangers, coming from more than three dozen states.</p>
+                
+                <p>There was no registration list.  The leaders of the <name type="organization" key="American Indian Movement">American Indian Movement</name> kept warning people that spies and police undercover informers probably were inside and said everyone should be on guard.  If they saw a stranger they were to ask &quot;Are you an Indian?  Prove it.&quot;</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name>'s association with <name type="person" key="Collins, Anita">Miss Collins</name> presumably saved him from being put on the spot.  He was a mamber of the AIM security guard, watching rooms where the Indians made makeshift gasoline bombs, wrecked furniture and ultimately ransacked files.</p>
+                
+                <p>When some Indians filled orange juice bottles with gasoline, <name type="person" key="Arellano, John G.">Arellano</name> relayed that fact to police.</p>
+                
+                <p><name type="person" key="Arellano, John G.">Arellano</name> is shown in picture after picture taken of the BIA invaders, with a club or a knife raised high as he joined others in defending what the Indians called their embassy.</p>
+                
+                <p>Once the demonstrators left town, <name type="person" key="Arellano, John G.">Arellano</name> ingratiated himself with the core group left behind by producing a new van to replace their broken-down one.  He said his mother in Colorado had received some unexpected insurance money from a car wreck.</p>
+                
+                <p>No one was certain where he lived, however.  He told some people he joined the caravan in <name type="place" reg="Boulder, Colorado" key="Boulder, Colorado">Boulder, Colo.</name>, but <name type="person" key="Collins, Anita">Miss Collins</name> thought he had hitchhiked to <name type="place" reg="Washington D.C." key="Washington D.C.">Washington</name>.</p>
+                
+                <p>Two weeks ago, when Indians said all stolen documents would be returned, <name type="person" key="Arellano, John G.">Arellano</name> was one of several persons who made numerous calls to find out what documents might come back and when, Indians said.  This may have given him a good pipeline to which Indians had what.</p>
+                
+                <p>Since the arrest, <name type="person" key="Arellano, John G.">Arellano</name> has dropped out of sight.</p>
+                
+                <p>After <name type="person" key="Arellano, John G.">Arellano</name>'s true identity was revealed, <name type="person" key="Boyer, LaNada">LaNada Boyer</name>, at whose home <name type="person" key="Collins, Anita">Miss Collins</name> was arrested, recalled a prophetic incident, ignored at the time.</p>
+                
+                <p>When an Indian drank too much and got sick at a party several weeks ago, <name type="person" key="Boyer, LaNada">Miss Boyer</name> told <name type="person" key="Arellano, John G.">Arellano</name>, &quot;Go Help your brother.&quot;</p>
+                
+                <p>&quot;He's no brother of mine,&quot; the informer replied.</p>
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

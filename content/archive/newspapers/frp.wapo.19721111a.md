@@ -1,0 +1,63 @@
+---
+title: "Damage to BIA Third Heaviest Ever in U.S."
+date: 1972-11-11
+document_types: ["newspaper-reports"]
+publication: "washington-post"
+source: "Washington Post"
+page: "A4"
+tei_original: "/archive-xml/newspapers/frp.wapo.19721111a.xml"
+aliases:
+  - /archive/newspapers/frp.wapo.19721111a.xml
+author: "Jon Katz"
+---
+
+<h3>Damage to BIA Third Heaviest Ever in U.S.</h3>
+
+
+
+
+
+<p>Damage done to the Bureau of Indian Affairs by protesting Indians this week was the most extensive ever committed by U.S. Citizens on a federal building, government officials said yesterday.</p>
+
+<p>Spokesmen for the General Services Administration, the Library of Congress, and the National Archives said they knew of only two other incidents that surpassed in cost the week-long occupation of the BIA building: the burning of Washington by the British in 1814 and the destruction of government buildings in the San Francisco earthquake in 1906.</p>
+
+<p>In addition, the Interior Department said yesterday that the theft and damage done to paintings and artifacts destroyed the most varied and extensive collection of Indian art in the world.</p>
+
+<p>The government's estimates yesterday priced the damage at $2.28 million in destroyed property, lost or damaged records, structural damage to the BIA building, "lost hours" for employees, and pilfered or damaged paintings and artifacts.</p>
+
+<p>That figure, said the GSA, the government's landlord, does not include overtime for GSA security personnel, D.C. police who were standing by, and an estimated 100 U.S. marshals flown into the city from all over the country.</p>
+
+<p>The GSA said the damage done to the building by an estimated 300 Indians surpassed the total damage done to all federal properties in 1971 through vandalism, sabotage, protest or other causes. The 1971 figure, which does not include thefts, was $728,000, said the GSA.</p>
+
+<p>GSA officials said the Indian protest was one of the longest in history aimed at a single building.</p>
+
+<p>A spokesman for the Library of Congress said they could find "nothing to compare with the damage done" to the BIA following a search of records.</p>
+
+<p>"As far as we know, no group of citizens had ever done that kind of damage to a federal building," said the library official.</p>
+
+<p>The official said the weeklong Mayday protests against the Vietnam war in 1971 were estimated to have cost the city of Washington $2.5 million, but that figure included police overtime, cleanups, and jail and court costs.</p>
+
+<p>GSA officials said that the two best-known attacks on government buildings by citizens were the bombing of the Pentagon in March of this year, and the bombing of the U.S. Capitol in March, 1971. The Pentagon blast caused $150,000 damage, and the Capitol repairs cost an estimated $200,000.</p>
+
+<p>The Interior Department yesterday released the following breakdown of damage to the BIA building.</p>
+
+<p>- Structural repairs to the roof; paint; building repairs - $250,000.</p>
+
+<p>- Record restoration: the sorting of files, inventory, and damage repairs - $70,000. That effort is being undertaken by the National Archives.</p>
+
+<p>- Art and artifacts, including 600 to 700 old paintings averaging $1,000 apiece; pottery, basket work ($150,000) rugs, dolls, $750,000.</p>
+
+<p>- Employee "down time" ($27,000 per day) - $297,000.</p>
+
+<p>The GSA said it expected cost estimates to rise as additional security costs are figured in.</p>
+
+<p>The government's damage estimates have skyrocketed since the end of the five-day occupation Wednesday evening.</p>
+
+<p>Officials at first guessed the damage would amount to $250,000, before the destruction of property and records Monday evening.</p>
+
+<p>Thursday, before it estimated the value of the paintings and artifacts, the government's preliminary estimates were $700,000.</p>
+
+<p>Earlier this week, Indian spokesmen said the demonstrators took great care to maintain the building. But anticipating a police eviction Monday, many demonstrators began destroying furniture and records.</p>
+
+<p>Washington Post reporters, who viewed the building after the Indians left, reported slashed chairs, broken windows, broken toilet fixtures, records littered over floors, graffiti, scratched paneled walls, telephones pulled loose, and other damage.</p>
+

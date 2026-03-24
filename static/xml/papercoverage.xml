@@ -1,0 +1,455 @@
+<data>
+-
+<event start="Oct 01 1972 00:00:00 GMT" end="Nov 03 1972 00:00:00 GMT" isDuration="true" title="Trail of Broken Treaties">
+
+        Trail of Broken Treaties.
+        
+</event>
+-
+<event start="Nov 03 1972 00:00:00 GMT" end="Nov 08 1972 00:00:00 GMT" isDuration="true" title="BIA Occupation" color="red">
+
+        BIA Occupation.
+        
+</event>
+
+<event start="Dec 04 1972 00:00:00 GMT" end="Dec 05 1972 00:00:00 GMT" isDuration="true" title="Congressional Hearing" color="red">
+
+        Congressional hearing into the occupation of the Bureau of Indian Affairs.
+        
+</event>
+-
+
+<event start="Oct 5 1972" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721005.xml">
+"Indians Drive to Capital"
+</event>
+
+<event start="Oct 12 1972" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721019.xml">
+"300 Indians Protest Proposed Fund Cuts"
+</event>
+
+<event start="Oct 31 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721031.xml">
+"Indians Converging on D.C. for Rallies"
+</event>
+
+<event start="Oct 31 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721031.xml">
+"Indians to Begin Capital Protest"
+</event>
+
+<event start="Nov 2 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721102.xml">
+"Indians Converging on D.C. for Rallies"
+</event>
+
+<event start="Nov 2 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721102.xml">
+"Indians Refused Permission to Use Arlington Cemetery for Services"
+</event>
+
+<event start="Nov 3 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721103.xml">
+"500 Indians Here Seize U.S. Building"
+</event>
+
+<event start="Nov 3 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721103.xml">
+"500 Indians Seize U.S. Building After Scuffle With Capital Police"
+</event>
+
+<event start="Nov 3 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721103.xml">
+"300 Indians Seize Capital Building and Close Bureau"
+</event>
+
+<event start="Nov 4 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721104.xml">
+"'Indians First, Always,' Demonstrator Declares"
+</event>
+
+<event start="Nov 4 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721104a.xml">
+"Indians Continue Occupation of BIA"
+</event>
+
+<event start="Nov 4 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721104.xml">
+"Indians in Capital Defy a Court Order"
+</event>
+
+<event start="Nov 4 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721104.xml">
+"Indians Rampage in Capital Building"
+</event>
+
+<event start="Nov 4 1972 00:00:00 GMT" title="Minneapolis Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.minntrib.19721104.xml">
+"Protesting Indians refuse to leave BIA building despite court order"
+</event>
+
+<event start="Nov 5 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721105.xml">
+"Indians Staying in U.S. Building"
+</event>
+
+<event start="Nov 5 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721105.xml">
+"Another 'Wounded Knee' Was Feared Friday Night"
+</event>
+
+<event start="Nov 5 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721105a.xml">
+"Officials, Indians Parley on Protest"
+</event>
+
+<event start="Nov 5 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721105a.xml">
+"Officials, Indians Parley on Protest"
+</event>
+
+<event start="Nov 5 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721105.xml">
+"Building Held Third Night"
+</event>
+
+<event start="Nov 5 1972 00:00:00 GMT" title="Chicago Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19721105.xml">
+"Judge Stalls Eviction of Indians"
+</event>
+
+<event start="Nov 6 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721106.xml">
+"Indians Ask Nixon to Solve Impasse"
+</event>
+
+<event start="Nov 6 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721106.xml">
+"Judge Orders Indians Evicted"
+</event>
+
+<event start="Nov 6 1972 00:00:00 GMT" title="Chicago Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19721106.xml">
+"Indians Occupying U.S. Building Ask Nixon to Intercede"
+</event>
+
+<event start="Nov 7 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721107.xml">
+"Legacy of Suspicion Changes Protest Into Confrontation"
+</event>
+
+<event start="Nov 7 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721107a.xml">
+"Order Delayed, Indians Stay in Offices"
+</event>
+
+<event start="Nov 7 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721107.xml">
+"Order Delayed, Indians Stay in Offices"
+</event>
+
+<event start="Nov 7 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721107.xml">
+"Arrest Order for Indians Stayed---They Threaten to Level Building"
+</event>
+
+<event start="Nov 7 1972 00:00:00 GMT" title="Minneapolis Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.minntrib.19721107.xml">
+"Indians agree to leave BIA building today, officials say"
+</event>
+
+<event start="Nov 8 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721108.xml">
+"Indians Seize Files as Some Go Home"
+</event>
+
+<event start="Nov 8 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721108.xml">
+"Militant Indians Agree to Leave"
+</event>
+
+<event start="Nov 8 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721108.xml">
+"Indians Agree to Leave Seized Federal Building"
+</event>
+
+<event start="Nov 9 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721109.xml">
+"Protest by Indians Sought an End to Paternalism"
+</event>
+
+<event start="Nov 9 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721109a.xml">
+"'The Government Forced Us to Action'"
+</event>
+
+<event start="Nov 9 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721109b.xml">
+"Indians Call Files From BIA 'Ransom'"
+</event>
+
+<event start="Nov 9 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721109.xml">
+"Indians Take Documents as They Leave U.S. Building"
+</event>
+
+<event start="Nov 9 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721109.xml">
+"Indians Leave Building With Files, Artifacts"
+</event>
+
+<event start="Nov 10 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721110.xml">
+"Indians Ripped Up Federal Building"
+</event>
+
+<event start="Nov 10 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721110.xml">
+"Damage to Capital Building by Indians Put at $1.98 Million"
+</event>
+
+<event start="Nov 10 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721110a.xml">
+"Amnesty Denied to Indians"
+</event>
+
+<event start="Nov 10 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721110.xml">
+"Indians to Be Liable for Damage"
+</event>
+
+<event start="Nov 10 1972 00:00:00 GMT" title="Chicago Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19721110.xml">
+"Indian Vandalism to Federal Building Is Set at $530,000"
+</event>
+
+<event start="Nov 11 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721111.xml">
+"News Conference Confrontation: Indians Clash Over Money"
+</event>
+
+<event start="Nov 11 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721111a.xml">
+"Damage to BIA Third Heaviest Ever in U.S."
+</event>
+
+<event start="Nov 13 1972 00:00:00 GMT" title="Chicago Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19721113.xml">
+"Led Building Takeover: Criminal Record of 3 Indian Leaders Told"
+</event>
+
+<event start="Nov 15 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721115.xml">
+"Stolen BIA Artifacts, Documents"
+</event>
+
+<event start="Nov 18 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721118.xml">
+"Sioux Leader Outraged"
+</event>
+
+<event start="Nov 22 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721122.xml">
+"BIA's Loesch: A Bureaucrat Unafraid to Speak Out"
+</event>
+
+<event start="Nov 23 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721123.xml">
+"U.S. Accused Of Exhibiting BIA Damage"
+</event>
+
+<event start="Nov 25 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721125.xml">
+"Activist Tells of BIA Sacking"
+</event>
+
+<event start="Dec 2 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721202.xml">
+"BIA Fight: 'One Has to Go'"
+</event>
+
+<event start="Dec 3 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721203.xml">
+"3 Indian Officials Ousted in Shakeup"
+</event>
+
+<event start="Dec 3 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19721203.xml">
+"Three Aides Fired at Indian Bureau"
+</event>
+
+<event start="Dec 4 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721204.xml">
+"Employees of BIA To Resume Work"
+</event>
+
+<event start="Dec 5 1972 00:00:00 GMT" title="Chicago Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19721205.xml">
+"Politics Admitted in Indian Deal"
+</event>
+
+<event start="Dec 5 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721205a.xml">
+"White House Role on Indian Scored"
+</event>
+
+<event start="Dec 6 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721206.xml">
+"Shakeup in Indian Affairs Rumored"
+</event>
+
+<event start="Dec 7 1972 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19721207.xml">
+"Indians' Capital Protest Has Not Resolved Any of Their Grievances"
+</event>
+
+<event start="Dec 8 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721208.xml">
+"U.S. Inaction Has Cost Indians Millions, Protest Leader Says"
+</event>
+
+<event start="Jan 11 1973 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19730111.xml">
+"U.S. Rejects Indian Demands, Says Nixon Supports Reforms"
+</event>
+
+<event start="Jan 12 1973 00:00:00 GMT" title="New York Times" link="http://www.framingredpower.org/archive/newspapers/frp.nyt.19730112.xml">
+"An Indian Leader Pledges Return of U.S. Property"
+</event>
+
+<event start="Feb 1 1973 00:00:00 GMT" title="Chicago Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19730201.xml">
+"Columnist's aide arrested"
+</event>
+
+<event start="Feb 3 1973 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19730203.xml">
+"D.C. Police Officer Led Double Life as an Apache Indian"
+</event>
+
+<event start="Feb 4 1973 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19730204.xml">
+"Fellow 'Indian' Activist Turns Out to Be Officer"
+</event>
+
+<event start="Feb 12 1973 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19730212.xml">
+"2 Asked To Talk By Jury"
+</event>
+
+<event start="Mar 8 1973 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19730308.xml">
+"BIA Shakeup: 189 Out in Cold"
+</event>
+
+<event start="Apr 9 1973 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19730409.xml">
+"More Papers From BIA Found in N.C."
+</event>
+
+<event start="Nov 7 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721107b.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Behind the Indian Protest"
+</event>
+	
+<event start="Nov 15 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721115a.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"After the Indian Protest"
+</event>
+
+<event start="Nov 15 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721115b.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Behind the Indian Protest"
+</event>
+
+<event start="Nov 16 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721116.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Indians Got Kindly Agnew Memo"
+</event>
+
+<event start="Nov 19 1972 00:00:00 GMT" title="Chicago Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19721119.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Government Mishandled Indian Militants"
+</event>
+
+<event start="Nov 24 1972 00:00:00 GMT" title="Los Angeles Times" link="http://www.framingredpower.org/archive/newspapers/frp.lat.19721124.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Sacking of Indian Bureau--a 20-Year Setback?"
+</event>
+
+<event start="Nov 27 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721127.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"The Nixon Permissiveness"
+</event>
+
+<event start="Dec 2 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721202a.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Indian Affairs Hearings: Beyond the Destruction"
+</event>
+
+<event start="Dec 10 1972 00:00:00 GMT" title="Chicago Tribune" link="http://www.framingredpower.org/archive/newspapers/frp.ct.19721210.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Indian Affairs Shakeup"
+</event>
+
+<event start="Dec 11 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721211.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Indian Documents Tell Shabby Story"
+</event>
+
+<event start="Dec 12 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721212.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"BIA Smugglers Tricked the Police"
+</event>
+
+<event start="Dec 13 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721213.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Rights and Wrongs of the Indian"
+</event>
+
+<event start="Dec 14 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721214.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Indian Bureau Chief Is Outflanked"
+</event>
+
+<event start="Dec 19 1972 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19721219.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Urban Indian Is Forgotten Man"
+</event>
+
+<event start="Jan 4 1973 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19730104.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"U.S. Disputed on Injustice to Indians"
+</event>
+
+<event start="Feb 8 1973 00:00:00 GMT" title="Washington Post" link="http://www.framingredpower.org/archive/newspapers/frp.wapo.19730208.xml" icon="http://simile.mit.edu/timeline/api/images/dark-green-circle.png"> 
+	"Indians Without Jobs"
+</event>
+
+<event start="Nov 2 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 2 1972 00:00:00 GMT" title="CBS: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 2 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 3 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 3 1972 00:00:00 GMT" title="CBS: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 3 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 6 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 6 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 6 1972 00:00:00 GMT" title="CBS: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 8 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 8 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 8 1972 00:00:00 GMT" title="CBS: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 10 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 10 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 10 1972 00:00:00 GMT" title="CBS: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 21 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 23 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Nov 23 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Dec 1 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Dec 3 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Dec 4 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Dec 4 1972 00:00:00 GMT" title="CBS: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Dec 4 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Dec 5 1972 00:00:00 GMT" title="ABC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Dec 5 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+<event start="Dec 6 1972 00:00:00 GMT" title="NBC: Indian Protest, 1972" link="http://segonku.unl.edu/~jheppler/frp/archive/television/frp.tv.xml" icon="http://simile.mit.edu/timeline/api/images/dark-red-circle.png"> 
+	"Indian Protest, 1972"
+</event>
+
+
+</data>

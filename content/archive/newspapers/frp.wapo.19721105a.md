@@ -1,0 +1,103 @@
+---
+title: "Officials, Indians Parley on Protest"
+date: 1972-11-05
+document_types: ["newspaper-reports"]
+publication: "washington-post"
+source: "Washington Post"
+page: "A1"
+tei_original: "/archive-xml/newspapers/frp.wapo.19721105a.xml"
+aliases:
+  - /archive/newspapers/frp.wapo.19721105a.xml
+author: "Donald P. Baker"
+---
+
+<h3>Officials, Indians Parley on Protest</h3>
+
+
+
+
+
+<p>Protesting American Indians continued a third day of occupation of the Bureau of Indian Affairs building last night as negotiations with federal officials were adjourned after four hours.</p>
+
+<p>Leaders of the protests have been ignoring a federal court order to vacate the building. Negotiations went forward yesterday after U.S. District Court Judge John H. Pratt refused to begin formal contempt proceedings.</p>
+
+<p>Talks are scheduled to resume at 9 a.m. today. After hearing from negotiators this morning, Judge Pratt is expected to decide again whether to start a contempt action, which could lead to forcible eviction of the Indians. It appears unlikely that a contempt hearing could begin before Monday.</p>
+
+<p>Little substantive progress was reported at yesterday's talks. An Interior Department spokesman said no conclusions were reached. Indian spokesmen said that they turned down government offers of alternative accomodations. However, Russell Means, a protest coordinator, said, "We feel we are accomplishing something."</p>
+
+<p>The negotiating session, which began at 4:10 p.m., climaxed a day of tension and pagentry in and around the bureau's building at 19th Street and Constitution Avenue NW.</p>
+
+<p>Among the disparate groups that offered support to the estimated 500 Indians were those headed by black militant Stokely Carmichael and right-wing preacher Carl McIntire.</p>
+
+<p>In a related development, a three-judge panel of the U.S. Court of Appeals heard arguments calling for lifting of a lower court order banning a planned memorial service at the graves of two Indian war dead buried at Arlington National Cemetery.</p>
+
+<p>A decision in the case is scheduled for 4 p.m. today.</p>
+
+<p>Tentative plans had called for a memorial service at dawn today at the graves of Pfc. Ira Hayes and Sgt. John Rice. Hayes, an Indian, was one of the marines who participated in the celebrated flag-raising at Iwo Jima in World War II.</p>
+
+<p>Vernon Bellecourt, a director of the American Indian Movement (AIM), one of the sponsoring organizations, said, "We will exhaust all our efforts in the legal system and then we're going to have that ceremony, regardless of the legal outcome."</p>
+
+<p>There was no contact yesterday between the protesters and the police, although several incidents led to tense situations.</p>
+
+<p>The Indians came here early last week in a caravan they called the "Trail of Broken Treaties." They seek responses to nine demands, which include calls for the firing of several officials of the Bureau of Indian Affairs, strict adherence to existing treaties, and abolition of the bureau.</p>
+
+<p>Originally scheduled to begin Nov. 2 and last for a week, the Indian protest may now be extended until as late as Nov. 12 to make up for time lost in the dispute over occupation of the bureau, some protest leaders said yesterday.</p>
+
+<p>Yesterday's meeting between the protest leaders and federal officials took place at the General Services Administration Building at 18th and G Streets NW, a few blocks from the Bureau of Indian Affairs building.</p>
+
+<p>A main subject for discussion was housing for the protestors -- outside the bureau building. Indian spokesmen said they rejected offers of accomodations at Bolling and Andrews Air Force Bases. Government officials said the Indians have also repeatedly rejected an offer to use the Departmental Auditorium, on Constitution Avenue between 12th and 14th Streets NW, where 350 cots have been set up.</p>
+
+<p>Interior Department spokesmen said the original five-man government negotiating team was headed by Hans Walker, a Mandan Indian, who is head of the Department's Indian Water Rights Office. (The Bureau of Indian Affairs is part of the Interior Department.)</p>
+
+<p>One official who was not a member of the original team, but who arrived at the Indians' request two hours after the start of the talks, was Louis R. Bruce, commissioner of the Bureau of Indian Affairs.</p>
+
+<p>Bruce is one of the bureau officials supported by the protesters. He had met with their leaders for more than four hours through Friday night and Saturday morning in the bureau's building.</p>
+
+<p>But Bruce did not return to the building yesterday, and Russell Means, one of the coordinators of the protest, complained that Secretary of the Interior Rogers C. B. Morton personally had ordered Bruce to stay away.</p>
+
+<p>"Because Bruce made his stand with us last night, Morton ordered him to stay away. Secretary Morton is inflating the situation and risking human lives," Means said.</p>
+
+<p>"Robert A. Kelley, director of communication for Interior, said, "It was suggested to the commissioner that he not remain in the building. It was felt by the leadership here--the Secretary was involved--that no one should be over there while we are in negotiations ordered by the court."</p>
+
+<p>The occupation of the building, which began at dusk Thursday, attracted a large crowd of curious yesterday, with traffic jams on Constitution Avenue and tourists and police viewing the activities from the sidewalk and across the street on the Mall.</p>
+
+<p>It was a scene worth seeing. A tepee, about 20 feet tall, stands on the main lawn, near the flagpole where the American flag flew upside down, at half-staff.</p>
+
+<p>A cordon of Indians, brandishing a variety of homemade weapons, held back the public, and at times the press, with the aid of long poles that they stretched across the sidewalk.</p>
+
+<p>Indians--men, women, and children--hung from windows of the three-story building; others were on the roof, holding tiles that had been removed from the top of the building, and displaying buckets that apparently were filled with water.</p>
+
+<p>The tension apparently was too much for one man who had been in the building for several days. Companions said he began to feel that he was being blamed for the destruction of property inside, and thought fellow Indians were holding him captive.</p>
+
+<p>He abducted a young girl, perhaps 10 or 11, and holding a pair of scissors to her neck, walked her to the front entrance, demanding to "talk to a cop."</p>
+
+<p>John Trudell, a Sioux from Pawnee, Okla., wearing an Oklahoma University football jersey, said he crossed Constitution Avenue and relayed the request to a motorcycle policeman.</p>
+
+<p>"The cop told me, 'If you want to solve that problem, get a tomahawk.'"</p>
+
+<p>(Attempts to locate the policeman were unsuccessful, but another policeman confirmed the request for assistance was denied.)</p>
+
+<p>When the young Indian was told police would not come to him, he came out the main entrance, holding the girl as a shield. But he was struck over the head by a club wielded by another Indian who had hidden in the adjourning doorway.</p>
+
+<p>Several Indians pummeled the man to the ground and struck him repeatedly. A few minutes later, he was released, whereupon he ran, shoeless, along the mall toward the Washington Monument.</p>
+
+<p>Trudell said, "He needs medical care, and we're not psychiatrists." He said he decision to free him was made by "his own people." Trudell said both the young man and the girl were members of the Tuscarawas group from North Carolina.</p>
+
+<p>Several other protesters were given various kinds of medical assistance by a volunteer group that had set up a first aid station in one of the BIA offices.</p>
+
+<p>The incident with the scissors occurred shortly after Carmichael had left the building. Carmichael, saying he was speaking as head of the All-African People's Revolutionary Party, offered to "support this movement 100 per cent.</p>
+
+<p>The question of native Americans is not just a question of civil rights," he said. "This land is their land . . . we have agreed to do whatever we can to provide help . . . there can be no settlemen until their land is returned to them."</p>
+
+<p>Mr. McIntire led about 200 of his supporters to the BIA after a rally at the U.S. Capitol in support of South Vietnam President Thieu.</p>
+
+<p>He called out qualified support of the Indian cause: "All right you Indians, we're here to give you some greetings. We're all good Americans and I want you to have your rights." But he warned them not to follow "those inside your group who seek to align Indians with the Communists."</p>
+
+<p>Dennis Banks one of the Indians' spiritual leaders, told McIntire, "I'm going to accept our support, but you don't have our support."</p>
+
+<p>Then someone told McIntire that if he really wanted to help someone, he should march on the Interior Department and order Secretary Morton to free Commissioner Bruce.</p>
+
+<p>McIntire set off on the two-block march, but got his marching orders confused and led his little band of followers in chanting "Free Morton, Free Morton."</p>
+
+<p>Inside the BIA, Indians complained to Clayton Williams, a Justice Department community relations consultant, that BIA estimates of $250,000 damage to the building were grossly exaggerated.</p>
+

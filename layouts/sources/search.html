@@ -1,0 +1,108 @@
+{{ define "main" }}
+<div id="content">
+<div class="bodyContent">
+
+<h2>{{ .Title }}</h2>
+
+{{ .Content }}
+
+<div id="search"></div>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false,
+      excerptLength: 30,
+      processResult: function(result) {
+        // Customize search results if needed
+        return result;
+      }
+    });
+  });
+</script>
+
+<style>
+  /* Customize Pagefind UI to match site design */
+  .pagefind-ui__search-input {
+    background: #fff;
+    border: 2px solid #710100;
+    border-radius: 4px;
+    padding: 0.75rem 1rem;
+    font-size: 1.1rem;
+    width: 100%;
+    max-width: 600px;
+  }
+
+  .pagefind-ui__search-input:focus {
+    outline: none;
+    border-color: #8b0100;
+    box-shadow: 0 0 0 3px rgba(113, 1, 0, 0.1);
+  }
+
+  .pagefind-ui__result-link {
+    color: #710100;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .pagefind-ui__result-link:hover {
+    text-decoration: underline;
+    color: #8b0100;
+  }
+
+  .pagefind-ui__result {
+    border-left: 4px solid #710100;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background: #f9f9f9;
+    border-radius: 4px;
+  }
+
+  .pagefind-ui__result-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .pagefind-ui__result-excerpt {
+    color: #666;
+    line-height: 1.6;
+  }
+
+  .pagefind-ui__message {
+    color: #666;
+    font-style: italic;
+    padding: 1rem;
+  }
+
+  .pagefind-ui__button {
+    background: #710100;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .pagefind-ui__button:hover {
+    background: #8b0100;
+  }
+</style>
+
+<div class="search-help" style="margin-top: 2rem; padding: 1rem; background: #f9f9f9; border-radius: 4px;">
+  <h3>Search Tips</h3>
+  <ul style="list-style: disc; margin-left: 2rem;">
+    <li>Search is case-insensitive</li>
+    <li>Use quotes for exact phrases: <code>"trail of broken treaties"</code></li>
+    <li>All words are included by default (AND search)</li>
+    <li>Search covers document titles, content, and metadata</li>
+  </ul>
+</div>
+
+</div>
+</div>
+{{ end }}

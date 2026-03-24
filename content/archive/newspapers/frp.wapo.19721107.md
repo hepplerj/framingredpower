@@ -1,0 +1,65 @@
+---
+title: "Legacy of Suspicion Changes Protest Into Confrontation"
+date: 1972-11-07
+document_types: ["newspaper-reports"]
+publication: "washington-post"
+source: "Washington Post"
+page: "A6"
+tei_original: "/archive-xml/newspapers/frp.wapo.19721107.xml"
+aliases:
+  - /archive/newspapers/frp.wapo.19721107.xml
+author: "Peter Osnos"
+---
+
+<h3>Legacy of Suspicion Changes Protest Into Confrontation</h3>
+
+
+
+
+
+<p>"We come in peace," the Indian leaders of the "Trail of Broken Treaties" caravan said last week as they arrived in Washington for a round of issue workshops, spiritual services and meetings with government officials.</p>
+
+<p>Instead, there is the spectacle of those same Indian leaders and their hundreds of followers in armed occupation of the Bureau of Indian Affairs building. Peace has turned into confrontation.</p>
+
+<p>The issues have become clouded in angry rhetoric, court battles have replaced the spiritual services and the promised meetings with government officials have turned into angry haggling over details of food and lodging.</p>
+
+<p>The explanation for this unhappy turnabout is as simple perhaps as midunderstood instructions from one security guard to another and as complicated as the hundreds of years of tragic conflict between the Indians and the white men who came to challenge them.</p>
+
+<p>When the Indians occuped the Indian Affairs building Thursday morning, it seemed clear to observers then that their intention was to remain there only long enough for more adequate accomodations to be arranged. The mood was still hopeful, the leadership still intent on reasoned discourse.</p>
+
+<p>After a day of negotiations with BIA officials, a tentative agreement on housing was reached. But even as it was being announced, a fight broke out between a small number of youthful demonstrators and a new shift of guards apparently not yet informed that the Indians were being permitted to stay.</p>
+
+<p>It was then that the barricades first went up. In the confusion the agreement was abandoned and has not been replaced. With limited hindsight, that fight seems the simplest explanation for the confrontation.</p>
+
+<p>But the petty dispute, at the same time, was a legacy of the suspicion and frustration that the Indians brought with them to Washington, born from long experience of dealing with the bureaucracy and the bitterness over the suffering and deprivation they claim has long been forced upon them.</p>
+
+<p>Ironically, the portent for the "Trail of Broken Treaties" was good. The Nixon administration has pledged to meet long-standing Indian demands for greater self-management without loss of badly needed federal support.</p>
+
+<p>In a major address on July 8, 1970, President Nixon said:</p>
+
+<p>"It is long past the time that the Indian policies of the federal government began to recognize and build upon the capacities and insights of the Indian people . . . The time has come to break decisively with the past and to create conditions for a new era in which the INdian future is determined by Indian acts and Indian decisions."</p>
+
+<p>The President proposed a number of measures to protect Indian land and water rights, to expand Indian economic opportunities and improve education and health services. The package was a complex one, given to political considerations on Capital Hill and bickering among the Indians themselves over what they wanted.</p>
+
+<p>Thus far, the bulk of the administration bills and modifications put forward by congressional committees still remain to be enacted.</p>
+
+<p>Nonetheless, many observers have recorded a greater sense of concern for Indian rights at the highest levels of government and a new spirit of activism among many of the bureaucrats charged with carrying out policy. The BIA, once accused of mediocrity, has been praised lately by editorialists sympathetic to the Indians, for the energy and creativity of some of its officials.</p>
+
+<p>Despite the surge of militant Indian activity in recent years (the 1969 seizure of Alcatraz Island off the California coast being the best known example) the prospect of an Indian caravan descending on Washington in the days just before the election was greeted with forebearance by the administration--at least publicly.</p>
+
+<p>A letter dated Nov. 1 to "Trail leaders from Robert Robertson, executive director of the National Council on Indian Opportunity (a group in the Vice President's office), had this to say:</p>
+
+<p>"All of us in the administration have enjoyed working with the co-chairmen of the Trail of Broken Treaties Caravan. From the very first meeting with Mr. Bob Burnett and Mr. Ralph Ware on October 20, we have stressed our desire that the caravan visit result in an amicable, productive discussion of all the substantive issues you plant to present to us."</p>
+
+<p>Later in the same letter, Robertson offered the use of two government auditoriums for planned activities.</p>
+
+<p>The surface impression of goodwill, however, began to fade as soon as the Indians actually started to arrive. Their scheduled ceremony at the Arlington gravesite was turned down by the Army. Accomodations at local churches, supposedly arranged by caravan leaders in advance, turned out to be inadequate and the leaders blamed the government for the problem.</p>
+
+<p>They said that officials had intervened to stop the churches from cooperating and the only one that provided facilities, St. Stephens' and the Incarnation at 16th and Newton Streets NW, "had rats bigger than cats running over our little children."</p>
+
+<p>"We were forced into the BIA," Vernon Bellecourt, a "Trail" leader, said at a press conference.</p>
+
+<p>The Indians produced a memorandum dated Oct. 11 from Harrison Loesch, assistant secretary for public land management within the Interior Department, to Louis R. Bruce, commissioner of the BIA: "subject--no direct or indirect assistance to American Indian Movement demonstration in Washington in early November."</p>
+
+<p>Loesch's order to Bruce that "the bureau was not to provide any assistance" to the Indians seemed to go counter to the administration's public stance. Interior yesterday confirmed the existence of such a memorandum but said it was later superseded.</p>
+

@@ -1,0 +1,57 @@
+{{ define "main" }}
+<section id="content" lang="en">
+<div class="bodyContent">
+
+{{ partial "doc-nav.html" . }}
+
+<header>
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{ .Content }}
+
+{{- $pages := .RegularPages -}}
+{{- if eq .File.Path "archive/_index.md" -}}
+  {{- $pages = .RegularPagesRecursive -}}
+{{- end -}}
+
+<table class="document-table" aria-label="Document archive">
+  <thead>
+    <tr>
+      <th class="col-date" data-sort="date" scope="col" tabindex="0" aria-sort="descending">
+        Date <span class="sort-icon" aria-hidden="true">↓</span>
+      </th>
+      <th class="col-title" data-sort="title" scope="col" tabindex="0" aria-sort="none">
+        Title <span class="sort-icon" aria-hidden="true"></span>
+      </th>
+      <th class="col-source" data-sort="source" scope="col" tabindex="0" aria-sort="none">
+        Source <span class="sort-icon" aria-hidden="true"></span>
+      </th>
+      <th class="col-type" scope="col">Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $pages.ByDate.Reverse }}
+    <tr class="document-item"
+        data-date="{{ .Date.Format "2006-01-02" }}"
+        data-title="{{ .Title }}"
+        data-source="{{ .Params.source }}">
+      <td class="col-date">
+        {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "Jan 2, 2006" }}</time>{{ else }}<span class="no-data">—</span>{{ end }}
+      </td>
+      <td class="col-title">
+        <a href="{{ .RelPermalink }}">{{ if .Title }}{{ .Title }}{{ else }}[Untitled]{{ end }}</a>
+      </td>
+      <td class="col-source">{{ with .Params.source }}{{ . }}{{ else }}<span class="no-data">—</span>{{ end }}</td>
+      <td class="col-type">{{ range .Params.document_types }}<span class="type-badge">{{ . | humanize }}</span>{{ end }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+</div>
+</section>
+
+<!-- Document filtering script -->
+<script src="/js/document-filter.js"></script>
+{{ end }}

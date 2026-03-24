@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721110">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Damage to Capital Building by Indians Put at $1.98 Million</title>
+<title type="sub"></title>
+<author n=""></author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p>Publicly available electronic document</p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+
+<title level="a" type="main">Damage to Capital Building by Indians Put at $1.98 Million</title>
+<title level="a" type="sub"></title>
+<title level="a" type="sub"></title>
+<title level="j">Washington Post</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-11-10">10 November 1972</date>
+<biblScope type="page">2</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-03-20</date>
+
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="p2"/>
+
+
+<div1 type="body">
+
+<head type="main">Damage to Capital Building by Indians Put at $1.98 Million</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. 2</p>
+
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  November 10, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  N/A</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>The seizure and occupation by protesting Indians of the Bureau of Indian Affairs Building will cost the government $1.98 million to repair the damage, the Interior Department estimated today.</p>
+
+<p>Meanwhile, officials said an agreement recommending against prosecution of the Indians does not grant amnesty for damage and theft while the building was occupied.</p>
+
+<p>The department said the repair costs include $25,000 for damage to the BIA building structure, $280,000 to furniture and office machinery, $750,000 for art and artifacts and $700,000 to restore 7,000 cubic feet of destroyed or stolen records.</p>
+
+<p>A department spokesman said the Indians stole or damaged some 600 or 700 paintings valued at about $1,000 each and artifacts valued at about $150,000.</p>
+
+<p>The Indian paintings and art objects were &quot;mostly stolen,&quot; he said.</p>
+
+<p>In addition to the losses due to theft and damage, the occupation cost the government about $297,000 in wages paid to BIA <sic corr="employees">employes</sic> who were prevented from coming to work.</p>
+
+<p>Meantime, the oldest organizations of Indians called for a wholesale reevaluation of the bureau, saying that while it condemns the destruction and some of the techniques employed by Indian militants, it supports many of the issues the caravan sought to dramatize.</p>
+
+<p>Charles E. Trimble, executive director of the National Congress of American Indians, said the Administration is secretly trying to coerce tribal chairmen to come down hard against the Trail of Broken Treaties caravan.</p>
+
+<p>Trimble said he hopes the tribal chairmen would have better sense than to be decieved by what he described as defensive Administration spokesmen who seek to blame both the caravan demonstrators and Louis R. Bruce, BIA commissioner, for the disruptions.</p>
+
+<p>&quot;Their tactics can only serve to further polarize the Indian community of this nation and sever that thread of hope that is the common cause of justice for all Indian people,&quot; Trimble said.</p>
+
+<p>He called upon the National Tribal Chairmen's Assn. to join with his organization to survey the impact and assess the damages of the upheaval at the BIA and to constructively plan for the future of Indian country.</p>
+
+<p>The last of the Indians, who were protesting government treatment of their people, left the building Wednesday night.</p>
+
+</div1>
+</body>
+</text>
+</TEI>
+

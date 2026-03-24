@@ -1,0 +1,13 @@
+{{/*
+  Lazy loading image partial
+  Usage: {{ partial "lazy-image.html" (dict "src" "/images/example.jpg" "alt" "Description") }}
+*/}}
+<img
+  src="{{ .src }}"
+  alt="{{ .alt }}"
+  loading="lazy"
+  decoding="async"
+  {{ with .width }}width="{{ . }}"{{ end }}
+  {{ with .height }}height="{{ . }}"{{ end }}
+  {{ with .class }}class="{{ . }}"{{ end }}
+/>

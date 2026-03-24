@@ -1,0 +1,32 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+error_log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node modules (if using npm for any reason)
+node_modules/
+
+# Hugo cache
+.hugo_build.lock
+
+# Old PHP site backup (optional: remove this line if you want to version control the backup)
+# _old-php-site/

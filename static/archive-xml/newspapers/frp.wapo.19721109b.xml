@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.wapo.19721109b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Indians Call Files From BIA 'Ransom'</title>
+                <title type="sub"></title>
+                <author n="Meyer, Eugene L.">Eugene L. Meyer</author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">Indians Call Files From BIA 'Ransom'</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1972-11-09">09 November 1972</date>
+                    <biblScope type="page">C1</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-06-02</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">Indians Call Files From BIA 'Ransom'</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. C1</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  November 9, 1972</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  Eugene L. Meyer</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>&quot;It's a ransom, we know it,&quot; Indian leader <name type="person" key="Banks, Dennis">Dennis Banks</name> said of documents reported seized and removed from the Bureau of Indian Affairs.  Having obtained the ransom, <name type="person" key="Banks, Dennis">Banks</name> said yesterday, all &quot;non&#8211;BIA&quot; Indians would leave the Bureau of Indian Affairs building.</p>
+                
+                <p>The documents the Indians say they have seized and removed reportedly consist of real estate records, FBI investigative reports, personnel files and others.  The Indians say they show &quot;scandalous if not criminal&quot; exploitation of Indians by senators, congressmen, BIA officials and corporate interests.</p>
+                
+                <p>The documents, it turned out, became pivotal in the Indians' decision not to mount a large-scale challenge to federal marshals seeking to enforce a court&#8211;ordered eviction last night.</p>
+                
+                <p>Indian leaders attributed even the willingness of top White House aides to negotiate with them, after direct negotiations had been denied earlier, to their possession of the files.</p>
+                
+                <p>&quot;One of the reasons we're in the White House now negotiating is they know these records exist,&quot; said <name type="person" key="Means, Russell">Russell Means</name>, a leader of the Trail of Broken Treaties caravan.  &quot;The question is no longer whether we will be peaceably or forcibly evicted.&quot;</p>
+                
+                <p>But Interior Department spokesman Carl Shaw denied that the documents played any role in the negotiations.  Shaw said the government has no idea what records were seized but that he has no reason to believe they are &quot;incriminating or damaging.&quot;</p>
+                
+                <p><name type="person" key="Oxondine, Tom">Tom Oxondine</name>, a BIA spokesman and a <name type="tribe" key="Lumbee">Lumbee Indian</name> from North Carolina, confirmed that the types of reports the demonstrators say they have seized do exist.  He added, &quot;I'm sure there are records that might be interpreted as valuable <!--story continues on Page C3, Col. 1-->to them in carrying out further threats to the BIA under the Department of the Interior.&quot;</p>
+                
+                <p>As for the documents themselves, Indian spokesmen said they have been removed from the East Coast, and the FBI files to Canada.  The spokesmen said the documents were in the possession of four Indians and that their whereabouts was being kept secret even from some of <sic corr="the leaders">theleaders</sic> [sic].</p>
+                
+                <p><name type="person" key="Banks, Dennis">Banks</name> said a &quot;documents conference&quot; would be held somewhere in the Southwest in three weeks.  With legal assitance, he said, the Indians would sift through the documents.  <name type="person" key="Means, Russell">Means</name> said the results would be made public when Congress convenes in January.</p>
+                
+                <p>&quot;We plan on returning the records once sufficient copies have been made,&quot; <name type="person" key="Means, Russell">Means</name> told reporters.  But he predicted, &quot;I'm sure our possession of the records will warrant some type of (legal) action&quot; by the government against leaders of the seven&#8211;day BIA occupation.</p>
+                
+                <p><name type="person" key="Banks, Dennis">Banks</name> said the documents were removed in three truck loads, one each night, contrary to earlier statements by <name type="person" key="Means, Russell">Means</name> that they were slipped out inconspicuously in blankets, jackets and boxes.</p>
+                
+                <p>&quot;In my opinion,&quot; <name type="person" key="Banks, Dennis">Banks</name> said, &quot;authorities were hoping we'd burn the BIA building down so that all of the incriminating evidence would be burned.  I'm glad we didn't burn it.&quot;</p>
+                
+                <p>&quot;All we're leaving behind,&quot; <name type="person" key="Banks, Dennis">Banks</name> said, &quot;is 'white' tape&#8212;routing slips, policy books, procedure books&#8212;all of the bureaucratic tape found in any organization.&quot;</p>
+                
+                <p>In announcing Tuesday that the Indians had seized &quot;incriminating&quot; records, <name type="person" key="Means, Russell">Means</name> declared jubilantly, &quot;We have accomplished one of the major objectives of coming to Washington, D.C.: to expose graft and corruption . . . This is a major breakthrough for us.&quot;</p>
+                
+                  
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

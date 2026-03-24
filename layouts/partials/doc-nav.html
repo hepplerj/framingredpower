@@ -1,0 +1,20 @@
+{{- $newspapers := .Site.GetPage "/archive/newspapers" -}}
+{{- $television := .Site.GetPage "/archive/television" -}}
+{{- $other := .Site.GetPage "/archive/other" -}}
+{{- $fbi := .Site.GetPage "/archive/fbi" -}}
+{{- $archiveTotal := 0 -}}
+{{- with $newspapers }}{{ $archiveTotal = add $archiveTotal (len .RegularPages) }}{{ end -}}
+{{- with $television }}{{ $archiveTotal = add $archiveTotal (len .RegularPages) }}{{ end -}}
+{{- with $other }}{{ $archiveTotal = add $archiveTotal (len .RegularPages) }}{{ end -}}
+{{- with $fbi }}{{ $archiveTotal = add $archiveTotal (len .RegularPages) }}{{ end -}}
+<nav class="document-type-nav text-center" aria-label="Document types">
+  <h3 class="sr-only">Browse by Document Type</h3>
+  <p><strong>Document Type</strong></p>
+  <p>
+    <a href="/archive/">All Documents</a> ({{ $archiveTotal }}) |
+    <a href="/archive/newspapers/">Newspaper Articles</a> ({{ with $newspapers }}{{ len .RegularPages }}{{ else }}0{{ end }}) |
+    <a href="/archive/television/">Television Transcripts</a> ({{ with $television }}{{ len .RegularPages }}{{ else }}0{{ end }}) |
+    <a href="/archive/other/">Other Documents</a> ({{ with $other }}{{ len .RegularPages }}{{ else }}0{{ end }}) |
+    <a href="/archive/fbi/">FBI Documents</a> ({{ with $fbi }}{{ len .RegularPages }}{{ else }}0{{ end }})
+  </p>
+</nav>

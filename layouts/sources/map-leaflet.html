@@ -1,0 +1,156 @@
+{{ define "main" }}
+<div id="content">
+<div class="bodyContent">
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin=""/>
+
+<!-- Map container -->
+<div id="map" style="height: 600px; width: 100%; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  crossorigin=""></script>
+
+<script>
+  // Initialize map
+  var map = L.map('map').setView([{{ index .Params.map_center 0 }}, {{ index .Params.map_center 1 }}], {{ .Params.map_zoom }});
+
+  // Add OpenStreetMap tiles
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 19
+  }).addTo(map);
+
+  // Define custom marker icons
+  var redIcon = L.icon({
+    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+  });
+
+  var blueIcon = L.icon({
+    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
+    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41]
+  });
+
+  // Create layer groups
+  var protestsLayer = L.layerGroup().addTo(map);
+  var chaptersLayer = L.layerGroup().addTo(map);
+
+  // Function to parse WKT POINT format
+  function parseWKT(wkt) {
+    // Extract coordinates from "POINT (lng lat)"
+    var match = wkt.match(/POINT\s*\(\s*([-\d.]+)\s+([-\d.]+)\s*\)/);
+    if (match) {
+      return [parseFloat(match[2]), parseFloat(match[1])]; // [lat, lng] for Leaflet
+    }
+    return null;
+  }
+
+  // Function to parse CSV
+  function parseCSV(text) {
+    var lines = text.trim().split('\n');
+    var headers = lines[0].split(',');
+    var data = [];
+
+    for (var i = 1; i < lines.length; i++) {
+      if (!lines[i].trim()) continue;
+
+      // Simple CSV parser that handles quoted fields
+      var row = [];
+      var current = '';
+      var inQuotes = false;
+
+      for (var j = 0; j < lines[i].length; j++) {
+        var char = lines[i][j];
+        if (char === '"') {
+          inQuotes = !inQuotes;
+        } else if (char === ',' && !inQuotes) {
+          row.push(current.trim());
+          current = '';
+        } else {
+          current += char;
+        }
+      }
+      row.push(current.trim());
+
+      if (row.length >= 3) {
+        data.push({
+          wkt: row[0],
+          name: row[1],
+          description: row[2]
+        });
+      }
+    }
+    return data;
+  }
+
+  // Load and display protests
+  fetch('/data/aim-protests.csv')
+    .then(response => response.text())
+    .then(text => {
+      var protests = parseCSV(text);
+      protests.forEach(function(protest) {
+        var coords = parseWKT(protest.wkt);
+        if (coords) {
+          var marker = L.marker(coords, {icon: redIcon})
+            .bindPopup('<strong>' + protest.name + '</strong>' +
+                      (protest.description ? '<br>' + protest.description : ''));
+          protestsLayer.addLayer(marker);
+        }
+      });
+    })
+    .catch(error => console.error('Error loading protests:', error));
+
+  // Load and display chapters
+  fetch('/data/aim-chapters.csv')
+    .then(response => response.text())
+    .then(text => {
+      var chapters = parseCSV(text);
+      chapters.forEach(function(chapter) {
+        var coords = parseWKT(chapter.wkt);
+        if (coords) {
+          var marker = L.marker(coords, {icon: blueIcon})
+            .bindPopup('<strong>' + chapter.name + '</strong>' +
+                      (chapter.description ? '<br>' + chapter.description : ''));
+          chaptersLayer.addLayer(marker);
+        }
+      });
+    })
+    .catch(error => console.error('Error loading chapters:', error));
+
+  // Add layer control
+  var overlays = {
+    "AIM Protests": protestsLayer,
+    "AIM Chapters": chaptersLayer
+  };
+  L.control.layers(null, overlays).addTo(map);
+
+  // Add custom styling
+  document.getElementById('map').style.border = '3px solid #710100';
+</script>
+
+<div class="map-legend" style="margin-top: 2rem; padding: 1rem; background: #f9f9f9; border-radius: 4px;">
+  <h3>Map Legend</h3>
+  <p><img src="https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png" style="height: 25px; vertical-align: middle;"> AIM Protests and Events (1970-1975)</p>
+  <p><img src="https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png" style="height: 25px; vertical-align: middle;"> AIM Chapter Locations</p>
+</div>
+
+</div>
+</div>
+{{ end }}

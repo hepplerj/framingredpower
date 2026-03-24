@@ -1,0 +1,508 @@
+{{ define "main" }}
+<div id="content">
+<div class="bodyContent">
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<!-- Observable Plot -->
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-cloud@1.2.7/build/d3.layout.cloud.min.js"></script>
+<script type="module">
+import * as Plot from "https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6/+esm";
+
+// Use global d3 that includes d3-cloud
+const d3Global = window.d3;
+
+// Load analysis data
+const analysisData = await d3Global.json('/data/text-analysis.json');
+const kwicData = await d3Global.json('/data/kwic-index.json');
+
+// 1. WORD FREQUENCY BAR CHART
+const wordFreqSection = document.getElementById('word-frequency');
+const topN = 50;
+const wordData = analysisData.word_frequencies.slice(0, topN);
+
+const wordChart = Plot.plot({
+  width: Math.min(1000, window.innerWidth - 40),
+  height: 800,
+  marginLeft: 150,
+  marginBottom: 60,
+  x: { grid: true, label: "Frequency", labelFontSize: 16, tickSize: 14, labelAnchor: "center", labelOffset: 40 },
+  y: { label: null, tickSize: 15 },
+  style: {
+    fontSize: "15px"
+  },
+  marks: [
+    Plot.barX(wordData, {
+      x: "count",
+      y: "word",
+      sort: { y: "-x" },
+      fill: "#710100",
+      tip: true
+    }),
+    Plot.text(wordData, {
+      x: "count",
+      y: "word",
+      text: d => d.count,
+      textAnchor: "start",
+      dx: 5,
+      fill: "white",
+      fontSize: 14
+    })
+  ]
+});
+
+wordFreqSection.appendChild(wordChart);
+
+// 2. BIGRAM FREQUENCY
+const bigramSection = document.getElementById('bigram-frequency');
+const bigramData = analysisData.bigram_frequencies.slice(0, 30);
+
+const bigramChart = Plot.plot({
+  width: Math.min(1000, window.innerWidth - 40),
+  height: 600,
+  marginLeft: 200,
+  marginBottom: 60,
+  x: { grid: true, label: "Frequency", labelFontSize: 16, tickSize: 14, labelAnchor: "center", labelOffset: 40 },
+  y: { label: null, tickSize: 15 },
+  style: { fontSize: "15px" },
+  marks: [
+    Plot.barX(bigramData, {
+      x: "count",
+      y: "phrase",
+      sort: { y: "-x" },
+      fill: "#710100",
+      tip: true
+    }),
+    Plot.text(bigramData, {
+      x: "count",
+      y: "phrase",
+      text: d => d.count,
+      textAnchor: "start",
+      dx: 5,
+      fill: "white",
+      fontSize: 13
+    })
+  ]
+});
+
+bigramSection.appendChild(bigramChart);
+
+// 3. TRIGRAM FREQUENCY
+const trigramSection = document.getElementById('trigram-frequency');
+const trigramData = analysisData.trigram_frequencies.slice(0, 25);
+
+const trigramChart = Plot.plot({
+  width: Math.min(1000, window.innerWidth - 40),
+  height: 500,
+  marginLeft: 260,
+  marginBottom: 60,
+  x: { grid: true, label: "Frequency", labelFontSize: 16, tickSize: 14, labelAnchor: "center", labelOffset: 40 },
+  y: { label: null, tickSize: 15 },
+  style: { fontSize: "15px" },
+  marks: [
+    Plot.barX(trigramData, {
+      x: "count",
+      y: "phrase",
+      sort: { y: "-x" },
+      fill: "#710100",
+      tip: true
+    }),
+    Plot.text(trigramData, {
+      x: "count",
+      y: "phrase",
+      text: d => d.count,
+      textAnchor: "start",
+      dx: 5,
+      fill: "white",
+      fontSize: 13
+    })
+  ]
+});
+
+trigramSection.appendChild(trigramChart);
+
+// 5. DOCUMENT STATISTICS
+const statsSection = document.getElementById('statistics');
+const docs = analysisData.documents;
+
+// Documents by publication
+const pubCounts = d3Global.rollup(docs, v => v.length, d => d.publication);
+const pubData = Array.from(pubCounts, ([pub, count]) => ({ publication: pub, count }))
+  .sort((a, b) => b.count - a.count);
+
+const pubChart = Plot.plot({
+  width: Math.min(600, window.innerWidth - 40),
+  height: 400,
+  marginLeft: 180,
+  marginBottom: 60,
+  x: { grid: true, label: "Number of Documents", labelFontSize: 16, tickSize: 14, labelAnchor: "center", labelOffset: 40 },
+  y: { label: null, tickSize: 15 },
+  style: {
+    fontSize: "15px"
+  },
+  marks: [
+    Plot.barX(pubData, {
+      x: "count",
+      y: "publication",
+      sort: { y: "-x" },
+      fill: "#710100",
+      tip: true
+    })
+  ]
+});
+
+statsSection.appendChild(pubChart);
+
+// 6. KEYWORDS IN CONTEXT (KWIC)
+const kwicSection = document.getElementById('kwic-search');
+const kwicInput = document.getElementById('kwic-input');
+const kwicResults = document.getElementById('kwic-results');
+const kwicButton = document.getElementById('kwic-button');
+
+function searchKWIC(term) {
+  if (!term || term.length < 2) {
+    kwicResults.innerHTML = '<p class="kwic-empty">Please enter a search term (at least 2 characters).</p>';
+    return;
+  }
+
+  const results = [];
+  const regex = new RegExp(`\\b(\\w*${term}\\w*)\\b`, 'gi');
+
+  for (const doc of kwicData) {
+    const matches = [...doc.text.matchAll(regex)];
+
+    for (const match of matches) {
+      const start = Math.max(0, match.index - 100);
+      const end = Math.min(doc.text.length, match.index + match[0].length + 100);
+      const context = doc.text.substring(start, end);
+
+      results.push({
+        title: doc.title,
+        date: doc.date,
+        url: doc.url,
+        context: context,
+        term: match[0]
+      });
+    }
+  }
+
+  if (results.length === 0) {
+    kwicResults.innerHTML = `<p class="kwic-empty">No results found for "${term}".</p>`;
+    return;
+  }
+
+  // Limit to first 50 results
+  const displayResults = results.slice(0, 50);
+
+  kwicResults.innerHTML = `
+    <p class="kwic-count">Found ${results.length} occurrences${results.length > 50 ? ' (showing first 50)' : ''}:</p>
+    <div class="kwic-items">
+      ${displayResults.map(r => `
+        <div class="kwic-item">
+          <div class="kwic-meta">
+            <a href="${r.url}" class="kwic-title">${r.title}</a>
+            <span class="kwic-date">${r.date || 'No date'}</span>
+          </div>
+          <div class="kwic-context">
+            ${r.context.replace(new RegExp(`\\b${r.term}\\b`, 'gi'), '<mark>$&</mark>')}
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+kwicButton.addEventListener('click', () => {
+  searchKWIC(kwicInput.value.trim());
+});
+
+kwicInput.addEventListener('keypress', (e) => {
+  if (e.key === 'Enter') {
+    searchKWIC(kwicInput.value.trim());
+  }
+});
+
+// 7. WORD CLOUD using d3-cloud (based on CHNM approach)
+const wordCloudSection = document.getElementById('word-cloud');
+const cloudData = analysisData.word_frequencies.slice(0, 50);
+
+// Configuration
+const cloudWidth = 1400;
+const cloudHeight = 900;
+const padding = 18;
+
+// Use darker colors for better readability
+const colorScale = d3Global.scaleOrdinal()
+  .domain(cloudData.map(d => d.word))
+  .range([
+    "#710100", "#8B0000", "#A52A2A", "#B22222", "#DC143C",
+    "#8B1A1A", "#A02C2C", "#CD3333", "#B8352E", "#991B1B",
+    "#7F1D1D", "#881337", "#9F1239", "#BE123C", "#C41E3A"
+  ]);
+
+// Create SVG
+const svg = d3Global.create("svg")
+  .attr("viewBox", [0, 0, cloudWidth, cloudHeight])
+  .attr("width", cloudWidth)
+  .attr("height", cloudHeight)
+  .attr("font-family", "var(--font-heading)")
+  .attr("text-anchor", "middle")
+  .style("max-width", "100%")
+  .style("height", "auto")
+  .style("background", "#f9f9f9");
+
+const g = svg.append("g")
+  .attr("transform", `translate(${cloudWidth / 2}, ${cloudHeight / 2})`);
+
+// Create word cloud layout
+const cloud = d3Global.layout.cloud()
+  .size([cloudWidth, cloudHeight])
+  .words(cloudData.map(d => ({
+    text: d.word,
+    value: d.count, // Store original count separately
+    size: d.count   // This will be replaced by d3-cloud with font size
+  })))
+  .padding(padding)
+  .rotate(0)
+  .font("var(--font-heading)")
+  .fontSize(d => {
+    const maxCount = cloudData[0].count;
+    const minSize = 14;
+    const maxSize = 48;
+    return minSize + (maxSize - minSize) * Math.sqrt(d.size / maxCount);
+  })
+  .spiral("rectangular")
+  .random(() => 0.5)
+  .on("end", words => {
+    // Filter out words that couldn't be placed (d3-cloud returns undefined positions)
+    const placedWords = words.filter(d => d.x !== undefined && d.y !== undefined);
+
+    const textElements = g.selectAll("text")
+      .data(placedWords)
+      .enter()
+      .append("text")
+      .attr("font-size", d => `${d.size}px`) // d.size is now the calculated font size
+      .attr("fill", d => colorScale(d.text))
+      .attr("transform", d => `translate(${d.x},${d.y})`)
+      .text(d => d.text)
+      .style("cursor", "pointer")
+      .on("click", (event, d) => {
+        kwicInput.value = d.text;
+        searchKWIC(d.text);
+        document.getElementById('kwic-search').scrollIntoView({ behavior: 'smooth' });
+      });
+
+    // Add tooltips using the original count value
+    textElements.append("title")
+      .text(d => `${d.text}: ${d.value} occurrences`);
+
+    console.log(`Word cloud: placed ${placedWords.length} of ${words.length} words`);
+  });
+
+cloud.start();
+wordCloudSection.appendChild(svg.node());
+
+</script>
+
+<!-- Section: Word Frequency -->
+<section class="analysis-section">
+  <h2>Word Frequency</h2>
+  <p>The 50 most frequently occurring words in the newspaper coverage (stopwords removed). Words like "indian," "government," "protesters," and "treaty" dominate the discourse.</p>
+  <div id="word-frequency" class="visualization"></div>
+</section>
+
+<!-- Section: Bigram Frequency -->
+<section class="analysis-section">
+  <h2>Bigram Frequency</h2>
+  <p>The 30 most frequent two-word phrases (stopwords removed). Bigrams reveal recurring pairings like "bureau indian," "trail broken," and "white house" that shaped how events were framed.</p>
+  <div id="bigram-frequency" class="visualization"></div>
+</section>
+
+<!-- Section: Trigram Frequency -->
+<section class="analysis-section">
+  <h2>Trigram Frequency</h2>
+  <p>The 25 most frequent three-word phrases. Trigrams surface specific named entities and recurring formulations — "bureau indian affairs," "trail broken treaties," and "american indian movement" — that anchored media coverage.</p>
+  <div id="trigram-frequency" class="visualization"></div>
+</section>
+
+<!-- Section: Statistics -->
+<section class="analysis-section">
+  <h2>Document Statistics</h2>
+  <p>Distribution of documents by publication source.</p>
+  <div id="statistics" class="visualization"></div>
+</section>
+
+<!-- Section: Word Cloud -->
+<section class="analysis-section">
+  <h2>Word Cloud</h2>
+  <p>Visual representation of the 50 most common words. Click any word to see it in context below.</p>
+  <div id="word-cloud" class="visualization word-cloud-container"></div>
+</section>
+
+<!-- Section: KWIC Search -->
+<section class="analysis-section">
+  <h2>Keywords in Context (KWIC)</h2>
+  <p>Search for any term and see where it appears in the documents with surrounding context.</p>
+  <div id="kwic-search">
+    <div class="kwic-controls">
+      <input
+        type="text"
+        id="kwic-input"
+        placeholder="Enter search term (e.g., 'treaty', 'protest', 'militant')"
+        aria-label="Search term"
+      />
+      <button id="kwic-button" class="btn btn-primary">Search</button>
+    </div>
+    <div id="kwic-results"></div>
+  </div>
+</section>
+
+<style>
+.analysis-section {
+  margin: var(--spacing-xl) 0;
+  padding: var(--spacing-lg);
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.analysis-section h2 {
+  color: var(--color-primary);
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+  font-size: 1.8rem;
+}
+
+.analysis-section > p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.visualization {
+  margin: var(--spacing-md) 0;
+  overflow-x: auto;
+}
+
+.word-cloud-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  max-width: 100%;
+}
+
+.word-cloud-container svg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.kwic-controls {
+  display: flex;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+#kwic-input {
+  flex: 1;
+  padding: 0.75rem;
+  border: 2px solid var(--color-border);
+  border-radius: var(--border-radius);
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+}
+
+#kwic-input:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.kwic-count {
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+  font-size: 1.1rem;
+}
+
+.kwic-empty {
+  padding: var(--spacing-lg);
+  text-align: center;
+  color: var(--color-text-muted);
+  font-style: italic;
+  font-size: 1.1rem;
+}
+
+#kwic-button {
+  font-size: 1.1rem;
+  padding: 0.75rem 1.5rem;
+}
+
+.kwic-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.kwic-item {
+  padding: var(--spacing-md);
+  background: #f9f9f9;
+  border-left: 4px solid var(--color-primary);
+  border-radius: var(--border-radius);
+}
+
+.kwic-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: var(--spacing-sm);
+  flex-wrap: wrap;
+  gap: var(--spacing-xs);
+}
+
+.kwic-title {
+  font-weight: 600;
+  color: var(--color-primary);
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.kwic-title:hover {
+  text-decoration: underline;
+}
+
+.kwic-date {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+}
+
+.kwic-context {
+  line-height: 1.6;
+  color: var(--color-text-primary);
+  font-size: 1.05rem;
+}
+
+.kwic-context mark {
+  background: #ffeb3b;
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .kwic-controls {
+    flex-direction: column;
+  }
+
+  .analysis-section {
+    padding: var(--spacing-md);
+  }
+}
+</style>
+
+</div>
+</div>
+{{ end }}

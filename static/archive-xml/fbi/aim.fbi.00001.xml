@@ -1,0 +1,180 @@
+﻿<?xml version="1.0"?>
+
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+
+<TEI.2 id="aim.fbi.0001" type="letter"> 
+<teiHeader> 
+
+<fileDesc> 
+<titleStmt> 
+
+<title type="245" id="LandC">Position paper from J. E. O'Connell (1975)</title> 
+<title type="gmd">[electronic resource] </title> 
+
+<author>O'Connell, J. E.</author> 
+<editor></editor> 
+<respStmt>
+<resp>Project Director</resp>
+<name>Jason Heppler</name>
+</respStmt>
+</titleStmt> 
+
+<extent>ca.  kilobytes </extent> 
+<publicationStmt> 
+<publisher>University of Nebraska-Lincoln</publisher> 
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+
+<idno>aim.fbi.0001</idno> 
+
+<availability> 
+<p>Publicly accessible </p> 
+<p n="public">URL: http://segonku.unl.edu</p> 
+<p>copyright 2009-2010, University of Nebraska-Lincoln</p> 
+</availability> 
+<date>2009</date> 
+</publicationStmt> 
+<seriesStmt> <p>American Indian Movement Digital Project</p></seriesStmt> 
+
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Memorandum from J. E. O'Connell</title>
+<title level="m" type="to">Memorandum to R. E. Gebhardt</title>
+<title level="m"></title>
+<author>O'Connell, J. E.</author> 
+<editor></editor> 
+<respStmt><resp></resp><name></name></respStmt> 
+</titleStmt> 
+<editionStmt> <p> </p> </editionStmt> 
+<extent>4 pages</extent> 
+<publicationStmt> 
+<publisher></publisher> 
+<pubPlace></pubPlace> 
+<date value="1975-04-24">April 24, 1975</date>
+</publicationStmt> 
+<notesStmt>
+<note type="source">The FBI Files on the American Indian Movement and Wounded Knee, edited by Rolland Dewing.  Frederick, MD: University Publications of America, 1986.</note> 
+<note type="label" resp="Heppler, Jason">J. E. O'Connell to Mr. Gebhardt, April 24, 1975</note>
+<note type="sentence" resp="Heppler, Jason">J. E. O'Connell prepares a position paper for R. E. Gebhardt outlining how the Federal Bureau of Investigation should handle a confrontation with the American Indian Movement in the event that the President decides against the use of federal troops or the President or Attorney General deploy the FBI in a paramilitary law enforcement situation.</note>
+</notesStmt> 
+</biblFull> 
+</sourceDesc> 
+</fileDesc> 
+
+
+<profileDesc> 
+<creation><date value="1975-04-24">1975</date></creation> 
+<textClass> 
+<keywords> 
+<term>American Indian Movement</term> 
+<term></term>
+</keywords> 
+<keywords n="type">
+<term>By O'Connell</term>
+</keywords>
+<keywords n="theme">
+<term>C</term>
+</keywords>
+<keywords n="theme">
+<term>D</term>
+</keywords>
+</textClass> 
+</profileDesc> 
+
+
+<revisionDesc> 
+<change> 
+<date>2009-09-10</date>
+<respStmt> 
+<resp></resp> 
+<name>Heppler, Jason</name>
+</respStmt> 
+<item>Creation of machine-readable version: </item>
+</change>
+<change>
+<date>2000-00-00</date>
+<respStmt>
+<resp></resp> 
+<name>Heppler, Jason</name> 
+</respStmt>  
+<item>Conversion to TEI.2-conformant markup:</item> 
+</change> 
+<change> 
+<date>2000-00-00</date>
+<respStmt>
+<resp></resp>
+<name>Heppler, Jason</name>
+</respStmt> 
+<item>Added theme tags</item> 
+</change> 
+</revisionDesc>
+</teiHeader> 
+
+<text id="aim.fbi.0001">
+
+
+<body>
+<div1 id="aim.0108bio" type="Letter">
+
+<head>Memorandum from <name type="person" key="O'Connell, J. E.">J. E. O'Connell</name> to <name type="person" key="Gebhardt, R. E.">R. E. Gebhardt</name></head>
+
+<pb id="aim.fbi.00001.a" n="1"/>
+
+<opener>
+<p>MEMORANDUM</p>
+
+<p>TO: Mr. Gebhardt</p>
+
+<p>FROM: J. E. O'Connell</p>
+
+<p>SUBJECT: THE USE OF SPECIAL AGENTS OF THE FBI IN A PARAMILITARY LAW ENFORCEMENT OPERATION IN THE INDIAN COUNTRY</p>
+
+<p><dateline>DATE: <date value="1975-04-24">4/24/75</date></dateline></p>
+</opener>
+
+<p><hi rend="underline">PURPOSE</hi>: This position paper was prepared for use of the Director of the FBI to brief the Attorney General and the Deputy Attorney General (DAG) on the role of the FBI in the event of a major confrontation in Indian country (Federal jurisdiction) where (1) the President decides against the use of troops; and (2) the FBI is ordered by the Presidenti and/or the Attorney General to deploy FBI Special Agents in a paramiitary law enforcement situation, in lieu of the use of troops.</p>
+
+<p>There is attached for ready reference a document captioned &quot;Background Paper on the American Indian and the Takeover of Wounded Knee by the American Indian Movement (AIM).&quot;  This study outlines early history of the American Indian, jurisdiction of the FBI to investigate within the Indian country and background concerning the <name type="place" rend="nonlink" reg="Louisiana" key="Pine Ridge Reservation">Pine Ridge Indian Reservation</name> of the Oglala Sioux Tribe in <name type="place" rend="nonlink" reg="Louisiana" key="South Dakota">South Dakota</name>, a prelude to the occupation of Wounded Knee, the occupation of Wounded Knee by AIM and the use of FBI, U.S. Marshals and Bureau of Indian Affairs (BIA) Police at <name type="place" rend="nonlink" reg="Louisiana" key="Wounded Knee, South Dakota">Wounded Knee, South Dakota</name>, during the period <date value="1973-02-27">February 27</date> &#8211; <date value="1973-05-08">May 8, 1973</date>, in a paramilitary law enforcement situation.</p>
+
+<pb id="aim.fbi.0001.b" n="2"/>
+
+<p><hi rend="underline">FBI INVOLVEMENT</hi>:  The FBI was instructed by the Department of Justice (DOJ) in the latter part of 1972 to conduct extremist and criminal investigations pertaining to AIM.  During the afternoon of February 27, 1973, approximately 200 members and supporters of AIM, carrying weapons, left Calico Hall, Pine Ridge, South Dakota, in a car caravan and were under surveillance by a few FBI Special Agents.  Under the leadership of <name type="person" key="Banks, Dennis J.">Dennis James Banks</name> and <name type="person" key="Means, Russell C.">Russell Charles Means</name>, the caravan moved into Wounded Knee, South Dakota, on the Pine Ridge Indian Reservation where they took eleven hostages and burglarized the Wounded Knee trading post in violation of Federal statutes involving crime on an Indian reservation.  A decision was made by SAC <name type="person" key="Trimbach, Joseph H.">Joseph H. Trimbach</name>, Minneapolis Division, to set up roadblocks to contain the militants, which roadblocks were manned by FBI Agents, U. S. Marshals, and BIA Police.  This is how the FBI first become involved in the Wounded Knee armed standoff against the U. S. Government.</p>
+
+<p><hi rend="underline">ROLE OF THE WHITE HOUSE, JUSTICE DEPARTMENT AND OTHER AGENCIES</hi>:  Decisions were made by the AG after regular and continuous consultation with responsible officials representing the White House, namely Mr. <name type="person" key="Ehrlichman, John D.">John D. Ehrlichman</name>, Assistant to the President for Domestic Affairs, Mr. <name type="person" key="Garment, Leonard">Leonard Garment</name>, Special Consultant to the President, and his assistant, <name type="person" key="Patterson, Bradley">Bradley Patterson</name>, and officials in the U. S. Department of the Interior.  On February 28, 1973, the situation at Wounded Knee was evaluated in a series of meetings between former AG <name type="person" key="Kleindienst, Richard G.">Richard G. Kleindienst</name>, former DAG <name type="person" key="Sneed, Joseph T.">Joseph T. Sneed</name>, former Associate DAG <name type="person" key="Ablard, Charles D.">Charles D. Ablard</name>, and others.  These three officials were responsible for the decision making of the DOJ.  Department of the Interior officials and the BIA were involved as these agencies administer Indian reservations under Federal jurisdiction.</p>
+
+<p><hi rend="underline">PROBLEMS CONFRONTING THE FBI</hi>:  The various other Federal agencies involved in the Wounded Knee takeover were the U. S. Marshals Service (USMS), BIA Police, DOJ Attorneys, public information officers and Community Relations Service, the U.S. Attorneys (USAs), Department of Defense, and the U. S. Army.  The DOJ sent Ralph Erickson, Special Assistant to the AG, to Wounded Knee as the senior U. S. Government representative on the scene.  He was subsequently followed by 4 other DOJ and/or Department of the Interior officials who assumed this role during the 71-day siege from February 28 &#8211; May 8, 1973.</p>
+
+<p>Throughout the operation there was a definite lack of continuity as each senior representative replaced another.  Colonel Volney Warner (now General), Chief of Staff, 82nd Airborne Division, was dispatched to Wounded Knee at the outset to assist the situation and to recommend whether or not troops should be utilized.  The AG issued instructions there was to be no confrontation and negotiations with the militants by representatives of the DOJ were to be entered into to resolve the matter and have the hostages released.</p>
+
+<p>There was a dividied authority among the many agencies present at Wounded Knee, including church and social groups.  The senior Government representative, Departmental Attorneys, and members of the USA's Staff issued conflicting instructions.  Each representative present on the scene took instructions for the most part from superiors of his own agency.  For example, on March 4, 1973, after consulting with Colonel Warner, Ralph Erickson issued orders that the use of deadly force by the law enforcement officers on the scene could only be used in self-defense to avoid death or serious bodily</p>
+
+<pb id="aim.fbi.0001.c" n="3"/>
+
+<p>harm.  In the application of force the officers, including FBI Agents, were to aim to wound rather than kill.  This was in direct conflict with the policy of the Bureau that an Agent is not to shoot any person except when necessary in self&#8211;defense, that is, when he reasonably believes that he or another is in danger of death or grievous bodily harm.  Special Agents are not trained to shoot to wound.  Special Agents are trained to shoot in self-defense to neutralize the deadly force.  The SACs on the scene and officials at FBIHQ strenuously objected to orders such as this which had previously been approved by the AG without consultation with any FBI official.</p>
+
+<p>On a number of occassions the Acting Director and officials of the FBI requested the Administration and the Department to consider the use of troops at Wounded Knee.  In Washington, D. C., DOJ officials in conjunction with other Governmental agencies explored the possibility of using troops.  Colonel Warner on the scene recommended to the Chief of Staff of the Army against the use of troops.  The Government concluded that such use would be undesirable because (1) it would substantially increase the risk of loss of life, (2) the full prestige of the U. S. Government would be committed to what was primarily a dispute between trival tribal factions and (3) the use of Army troops against these Indians might be misinterpreted by the press and some citizens.</p>
+
+<p>The FBI encountered extreme problems, both in the field and at FBIHQ, in adapting to a paramilitary role.  The FBI was not equipped logistically to operate in a paramilitary situation in open terrain which ultimately ended in a 71-day siege.  The FBI and USMS had to be equipped with military equipment, including Armored Personnel Carriers (APCs), M&#8211;16s, automatic infantry weapons, illuminating flares, military clothing and rations.  Authority had to be obtained from both the AG (and/or his representative) requesting the military logistics adviser, Colonel Jack Potter, to obtain the weapons and material through the Directorate of Military Support (DOMS).  This clearance was often not forthcoming when clearance had to be obtained during the night hours.  This phase of the operation required the FBI to maintain a constant 24 hour vigilance so as to equip our Special Agents and the other law enforcement officers with the weapons and material needed for a defensive operation.</p>
+
+<p><hi rend="underline">OPINIONS OF THE SACS WHO WERE ON THE SCENE</hi>:  SACs Richard G. Held, Chicago; Herbert E. Hoxie, Milwaukee; Wilburn K. DeBruler, Atlanta; and Joseph H. Trimbach, Minneapolis, furnished their observations regarding the Wounded Knee Special.  In essence, they advised complete confusion existed as there were a number of DOJ representatives on the scene, each issuing conflicting orders.  There was no coordination between the agencies other than that provided by the FBI, no was there any advance planning done.  For example, DOJ officials and Director Wayne Colburn, USMS, would fly back to Washington, D. C., presumably for conferences and would return with new policy of which FBIHQ was not aware.  The military did not realize in many cases that they were there to assist and not direct the FBI.  SAC Held at the time advised FBIHQ operation under FBI direction and leadership.  SAC Hoxie stated at Wounded Knee there was a</p>
+
+<pb id="aim.fbi.0001.d" n="4"/>
+
+<p>constant vacillation of instructions and policy which was devastating.  SAC DeBruler believed the ill&#8211;advised instructions given prolonged the incident at Wounded Knee and in some measure resulted in unneccessary risk to law enforcement personnel and others at the scene.  All SACs recommended should we in the future become involved in another situation similar to Wounded Knee where Special Agent personnel are deployed that the entire operation be under the direction of the FBI officials and when law enforcement personnel from other agencies are involved it should be clearly understood the FBI is the decision making role.</p>
+
+<p><hi rend="underline">OPINIONS OF FBIHQ PERSONNEL</hi>:  FBIHQ supervisory personnel were confronted with themajor task of coordinating all phases of the Wounded Knee paramilitary law enforcement operation with the Department and other interested agencies, including USMS, the Department of the Interior, and the BIA.  Many of the officials from the other agencies, including the staff in the DAG's office, were not trained law enforcement personnel.  It was necessary to constantly explain matters and give advice from a law enforcement standpoint.  As the FBI was utilizing approximately 3 SACs and 150 Agents per day at Wounded Knee in a defensive perimeter along with other Federal officers which were receiving hostile fire, it was necessary to insure that nothing was done in a decision making role at the White House or DOJ which might result in Federal law enforcement officers taking heavy casualties.  It was reorted in the initial phase of Wounded Knee that the militants were in possession of an M&#8211;60 machine gun and AK&#8211;47s (Communist automatic assault rifles), which could result in heavy casualties.  It was necessary to convince the decision makers that the APCs were necessary for the protection of the Special Agents and U. S. Marshals.  When the APCs came under hostile fire they could not be moved to a more secure position without authority from the AG.  It is the consensus of opinion among the headquarters supervisors that no Government official who is not a trained law enforcement officer is permitted to direct a law enforcement operation the magnitude of Wounded Knee.</p>
+
+<p><hi rend="underline">RECOMMENDATION</hi>:  The Director meet with the AG and DAG to brief them on the Wounded Knee incident so that they fully understand if such an incident occurs in the future or an incident similar to Wounded Knee and the FBI is involved, the FBI will insist upon taking charge from the outset and</p>
+
+<pb id="aim.fbi.0001.d" n="4"/>
+
+<p>will not countenance any interference on an operational basis with respect to our actions.  They should understand the FBI due to its long years of experience and training is able to make law enforcement decisions without over&#8211;reacting to protect the general public, its Special Agent personnel, and the violators of the law.  The AG and DAG should be advised it is our broad policy in such instances as this to &quot;get in and get out as quickly as possible&quot; with complete regard for the safety of all concerned.  The FBI furthermore would seize control quickly and take a definite, aggressive stand where necessary.  It should be clearly stated that the FBI does not desire to become involved in any political situations and definitely not participate in any discussion where it is obviously political in nature.</p>
+
+<p><hi rend="underline">ADDENDUM:  J. B. Adams:ams	5/19/75</hi><lb/>
+We should hold up any action in contacting the Deputy Attorney General and Attorney General was we are presently engaged in attempting to clarify the respective roles of the Marshals, FBI, BIA and tribal police in confrontations such as the recent Yankton incident.  Appropriate recommendations in this latter area are forthcoming.
+</p>
+
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.nyt.19721205a">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">White House Role on Indian Scored</title>
+<title type="sub">House Panel Calls Conduct 'Dictatorial Nonsense'</title>
+<author n="Blair, William M.">William M. Blair</author>
+<principal></principal>
+<editor></editor>
+<respStmt>
+<resp>Project Director and Editor:</resp>
+<name>Jason A. Heppler</name>
+
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher></publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Department of History</addrLine>
+<addrLine>612 Oldfather Hall</addrLine>
+
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p>Publicly available electronic document</p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n=""></author>
+
+<title level="a" type="main">White House Role on Indian Scored</title>
+<title level="a" type="sub">House Panel Calls Conduct 'Dictatorial Nonsense'</title>
+<title level="a" type="sub"></title>
+<title level="j">New York Times</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1972-12-05">05 December 1972</date>
+<biblScope type="page">23</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note> -->
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-05-15</date>
+
+<respStmt>
+<name>Jason A. Heppler</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Jason A. Heppler</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+
+<div1 type="body">
+
+<head type="main">White House Role on Indian Scored</head>
+<head type="sub">House Panel Calls Conduct 'Dictatorial Nonsense'</head>
+
+<div1 type="source">
+	<p><hi rend="underline">Source</hi>:  <hi rend="italic">New York Times</hi>, p. 23</p>
+
+</div1>
+<div1 type="date">
+	<p><hi rend="underline">Date</hi>:  December 5, 1972</p>
+</div1>
+<div1 type="author">
+	<p><hi rend="underline">Author(s)</hi>:  William M. Blair</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<p>The White House was accused today of usurping the Congressionally delegated authority of the Secretary of the Interior as a House panel opened an investigation into the Indian takeover and ransacking of the Bureau of Indian Affairs last month.</p>
+
+<p>The Congressional investigators also said that it was "dictatorial nonsense" for the White House to hide behind executive privilege by refusing to permit White House aides to testify on their role in the handling of the Indian demonstrators.</p>
+
+<p>Secretary of the Interior Rogers C. B. Morton denied, however, that the White House had taken matters out of his hands and the hands of his staff.  &quot;Perhaps there were errors that I made or my staff,&quot; he said.  But he contended that the White House became involved &quot;to develop a better negotiating basis&quot; with the Indians.</p>
+
+<p>Further, he said, he had sought to &quot;avoid violence and bloodshed at all costs.&quot;</p>
+
+<p>&quot;I am thankful that the only destruction was to physical things and not to human lives,&quot; Mr. Morton said.</p>
+
+<head type="sub">Background Presented</head>
+
+<p>The first day of a scheduled three-day hearing brought forth a statement by Mr. Morton and other Interior Department officials of events leading up to and during the occupation of the building from Nov. 2 to Nov. 8 by 500 Indians.  They came on a self-styled Trail of Broken Treaties to protest Government inaction to improve Indian economic, social and educational programs.</p>
+
+<p>Representative Wayne N. Aspinall, Democrat of Colorado, the lame-duck chairman of the House Interior Committee, criticized the Government's &quot;willingness to negotiate with some [Indians] who had criminal records.&quot;  He described the &quot;unlawful seizure&quot; of the building and ensuing thefts and &quot;wanton destruction&quot; as &quot;human meanness at its worst.&quot;</p>
+
+<p>He disclosed that John W. Dean 3d, counsel to the President, had refused in a letter to permit at least seven White House staff members to appear before the House Interior Committee's Subcommittee on Indian Affairs.  Among these, he said, were John D. Ehrlichman, special assistant to the President for domestic affairs; Leonard W. Garment, assistant to the President for minority affairs, and Bradford Patterson, assistant to Mr. Garment, who was a major figure in final negotiations with the Indian protesters.</p>
+
+<p>The day's testimony disclosed that Department of Justice officials, including Attorney General Richard G. Kleindienst, had pursued the obtaining of court orders to evict the Indians after consultations between Secretary Morton and the White House.</p>
+
+<p>Assistant Secretary of the Interior Harrison E. Loesch, who had ordered police action on the first day of the occupation, called the &quot;hard core&quot; of the Indian militants &quot;professional revolutionaries in the Indian business&quot; and said that these leaders had &quot;incited&quot; the group with a &quot;mob spirit to confront, to fight&quot; and to die if necessary.</p>
+
+<p>Louis R. Bruce, Commissioner of Indian Affairs, testified that the Indians' emotions had been fanned by &quot;spiritual leaders&quot; who accompanied them.</p>
+
+<p>Mr. Bruce, Mr. Loesch and Deputy Indian Commissioner John O. Crow have been relieved of their authority over Indian affairs by Secretary Morton in an effort to get the bureau functioning again.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

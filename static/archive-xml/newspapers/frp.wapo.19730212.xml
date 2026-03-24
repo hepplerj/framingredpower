@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.lat.19721208">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">2 Asked To Talk By Jury</title>
+                <title type="sub">Indian Activist, Writer Called In BIA Probe</title>
+                <author n="Baker, Donald">Donald Baker</author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">2 Asked To Talk By Jury</title>
+                    <title level="a" type="sub">Indian Activist, Writer Called In BIA Probe</title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">Washington Post</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1973-02-12">12 February 1973</date>
+                    <biblScope type="page">C1</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-05-19</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">2 Asked To Talk By Jury</head>
+                <head type="sub">Indian Activist, Writer Called In BIA Probe</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">Washington Post</hi>, p. C1</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  February 12, 1973</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  Donald Baker</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>A federal grand jury here, investigating the theft of documents from the Bureau of Indian Affairs, has asked reporter <name type="person" key="Whitten, Leslie H. Jr.">Leslie H. Whitten Jr.</name> and Indian activist <name type="person" key="Adams, Hank">Henry L. (Hank) Adams</name> to testify before it Wednesday</p>
+                
+                <p><name type="person" key="Whitten, Leslie H. Jr.">Whitten</name>, <name type="person" key="Adams, Hank">Adams</name> and <name type="person" key="Collins, Anita">Anita Collins</name> are scheduled to appear as a preliminary hearing in U.S. District Court on <date n="1973-12-15">Thursday</date> on charges of possessing stolen government documents.</p>
+                
+                <p>They were arrested <date n="1973-01-31">Jan. 31</date>, while carrying cartons of items that had been stolen from the Bureau of Indian Affairs during the occupation of that government building last <date n="1972-11-02">Nov. 2</date> to <date n="1972-11-08">8</date>.</p>
+                
+                <p>The grand jury heard testimony Friday from two young Indians who have been granted immunity from prosecution by the government.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name>, an <name type="tribe" key="Assiniboine">Assiniboine-Sioux</name> from <name type="place" reg="Frank's Landing, Washington" key="Frank's Landing, Washington">Frank's Landing, Wash.</name>, has been the chief negotiator between the federal government and the coalition of Indian organizations that came here last <date n="1972-11-00">November</date> to protest federal treatment of Indian.  The Trail of Broken Treaties Caravan erupted into a violent demonstration and documents, artifacts and equipment were stolen at the end of a six-day siege of the BIA building.</p>
+                
+                <p>Adams contended at the time of their arrest that he was attempting to return the documents and that <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> was along to cover the story.  <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> is an investigative reporter for syndicated columnist <name type="person" key="Anderson, Jack">Jack Anderson</name>.</p>
+                
+                <p>The two men were arrested as they carried two cartons of government documents from <name type="person" key="Adams, Hank">Adams</name>' apartment, at 1464 Rhode Island Ave., NW, to <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name>'s car.  A third carton was recovered in the building lobby.  <name type="person" key="Collins, Anita">Miss Collins</name> was not with them, but she also was charged.</p>
+                
+                <p>The two Indians who appeared before the grand jury on Friday, <name type="person" key="Cerri, Allison">Allison Cerri</name> and <name type="person" key="Pigeon, Daniel J.">Daniel J. Pigeon</name>, earlier had invoked the Fifth Amendment and refused to testify.  They were asleep in <name type="person" key="Adams, Hank">Adams</name>' apartment when <name type="person" key="Adams, Hank">Adams</name> and <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> were arrested.</p>
+                
+                <p>FBI agents also arrested <!--Story continues on Page C22, Col. 1-->them but the charges were dropped later that same day.</p>
+                
+                <p><name type="person" key="Cerri, Allison">Miss Cerri</name>, who is also knwon by the Indian name <name type="person" reg="Cerri, Allison" key="Cerri, Allison">Puma Jackson</name>, said that after testifying she was convinced that prosecutors &quot;apparently realize they can't pin <name type="person" key="Adams, Hank">Hank</name> with the documents, because of all his public statements that he planned to return them, so now they want to get him for something else.&quot;</p>
+                
+                <p><name type="person" key="Pigeon, Daniel J.">Pigeon</name> said the grand jury questioned him about 30 minutes, &quot;mostly about <name type="person" key="Adams, Hank">Hank</name>, <name type="person" key="Collins, Anita">Anita</name>, and <name type="person" key="Whitten, Leslie H. Jr.">Les Whitten</name>.&quot;</p>
+                
+                <p>Both said prosecutors directed questions to them about <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name>, columnist <name type="person" key="Anderson, Jack">Anderson</name> and a typewriter that FBI agents seized in a search of <name type="person" key="Adams, Hank">Adams</name>' apartment following the arrests.</p>
+                
+                <p>&quot;They asked me if I knew <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> on sight,&quot; <name type="person" key="Pigeon, Daniel J.">Pigeon</name> said.  &quot;I said that I didn't even know his name, or that he was a reporter for <name type="person" key="Anderson, Jack">Jack Anderson</name>.  Of course, I do now.&quot;</p>
+                
+                <p><name type="person" key="Pigeon, Daniel J.">Pigeon</name> said no questions were asked about undercover policeman <name type="person" key="Arellano, John G.">John G. Arellano</name>, who posed as an Apache Indian for four months and provided the FBI with information that led to the arrests.  &quot;But I mentioned <name type="person" reg="Arellano, John G." key="Arellano, John G.">Johnny</name> in some of my answers,&quot; <name type="person" key="Pigeon, Daniel J.">Pigeon</name> said.</p>
+                
+                <p>He said he testified that <name type="person" key="Adams, Hank">Adams</name> at one time told him he was going to return some documents to the BIA building, but that he was unaware that the cartons were being transported on <date n="1973-01-31">Jan. 31</date> &quot;until after I was arrested.&quot;</p>
+                
+                <p><name type="person" key="Pigeon, Daniel J.">Pigeon</name> said he was asked to describe the confiscated typewriter, and also testified that he had seen <name type="person" key="Adams, Hank">Adams</name> use it at different times over a period of weeks.  (<name type="person" key="Adams, Hank">Adams</name> contends the typewriter was given to him several years ago in <name type="place" reg="Olympia, Washington" key="Olympia, Washington">Olympia, Wash</name>.)</p>
+                
+                <p><name type="person" key="Cerri, Allison">Miss Cerri</name> said she testified that she first saw the three cartons of documents when she and <name type="person" key="Pigeon, Daniel J.">Pigeon</name> returned from a shopping trip the afternoon before the arrests.</p>
+                
+                <p>&quot;They asked me if I had ever seen <name type="person" key="Whitten, Leslie H. Jr.">Les Whitten</name> in <name type="person" key="Adams, Hank">Hank</name>'s apartment (to which she answered no) and if Jack Anderson's name was ever mentioned,&quot; <name type="person" key="Cerri, Allison">Miss Cerri</name> said.</p>
+                
+                <p>&quot;I told them that was really absurd (asking about Anderson),&quot; sie said, &quot;because a name like that is going to be mentioned.&quot;</p>
+                
+                <p>She said she had asked FBI agents the morning of their arrest, &quot;Who was that guy (<name type="person" key="Whitten, Leslie H. Jr.">Whitten</name>) who got busted with our group.&quot;</p>
+                
+                <p><name type="person" key="Whitten, Leslie H. Jr.">Whitten</name>, who has supplied Anderson with columns about alleged injustices to Indians by the government, said he had offered the use of his car to <name type="person" key="Adams, Hank">Adams</name> in exchange for an exclusive story on the return of the documents.</p>
+                
+                <p>&quot;I even had a lead written in my head,&quot; <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> said yesterday.  &quot;It would go something like &#39;<name type="person" key="Adams, Hank">Hank Adams</name>, derided by the White House for his efforts, has quietly returned the largest stash of stolen documents to the FBI.&#39;  It would have been a neat trick, what with the FBI looking all over the country for the stuff.&quot;</p>
+                
+                <p><name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> said that &quot;the only reason to arrest a reporter with documents is to keep the information away from the public, because a reporter has no use for the documents except for his stories.&quot;</p>
+                
+                <p><name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> said he could not say whether he would appear before the grand jury because his attorney has told him not to discuss the matter.  <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> and <name type="person" key="Adams, Hank">Adams</name> were not subpoenaed but were asked to appear by letter.</p>
+                
+                <p>Miss Collins has said that she and <name type="person" key="Arellano, John G.">Arellano</name> picked up the cartons at the bus station the day before her arrest and took them to <name type="person" key="Adams, Hank">Adams</name>' apartment.  <name type="person" key="Adams, Hank">Adams</name> said the documents had been sent to him from <name type="place" reg="South Dakota" key="South Dakota">South Dakota</name>, for return to the BIA.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> and Miss Collins contend that <name type="person" key="Arellano, John G.">Arellano</name> knew they planned to return the documents to the government and that the FBI moved in before they could accomplish it.</p>
+                
+                <p>Shortly before their arrest, <name type="person" key="Adams, Hank">Adams</name> and <name type="person" key="Whitten, Leslie H. Jr.">Whitten</name> said they wrote on the cartons the name and telephone of <name type="person" key="Hyten, Dennis">Dennis Hyten</name>, a special agent assigned to the Washington field office of the BIA.  <name type="person" key="Adams, Hank">Adams</name> said he previously had returned other BIA material to <name type="person" key="Hyten, Dennis">Hyten</name>, at a meeting in his apartment and even got a receipt from <name type="person" key="Hyten, Dennis">Hyten</name> listing the recovered items.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> said the plan on the day of the arrest was to transport the cartons to the BIA building and show them to an investigator for the House Appropriations Committee and then call agent Hyten.</p>
+                
+                <p><name type="person" key="Adams, Hank">Adams</name> frequently had been quoted as saying he was working for the return of the documents.  <name type="person" key="Adams, Hank">Adams</name> contended the thefts had obscured the valid complaints that had brought the Indians to <name type="place" reg="Washington D.C." key="Washington D.C.">Washington</name>.</p>
+                
+                <p>In an interview filmed by an ABC television crew in <name type="person" key="Adams, Hank">Adams</name>' apartment on Jan. 18, undercover agent <name type="person" key="Arellano, John G.">Arellano</name> sat four feet from <name type="person" key="Adams, Hank">Adams</name> and listened as <name type="person" key="Adams, Hank">Adams</name> promised that the documents would be returned &quot;in a short period of time,&quot; according to ABC staff members.</p>
+                
+                <p>The interview was taped for a &quot;The Harry Reasoner Report&quot; but has not been shown.  Producer Aram Boyajian said <name type="person" key="Arellano, John G.">Arellano</name> can be seen in the film.</p>
+                
+                <p>Boyajian said the transcript shows <name type="person" key="Adams, Hank">Adams</name> saying: &quot;We have some information on the nature of the documents that were taken and know that these documents will be returned in a short period of time.  And then the government will continue to lie.  They'll say, you know, they weren't returned or some were still missing.&quot;</p>
+                
+                <p>After the White House officially rejected the 20 proposals of the Trail of Broken Treaties, in a note to <name type="person" key="Adams, Hank">Adams</name> on Jan. 10, <name type="person" key="Adams, Hank">Adams</name> revealed that he already had returned &quot;several thousand dollars worth of documents and paintings.&quot;  He then set a date of <date n="1973-02-10">Feb. 10</date> for return of the other property, allowing 30 days to gather them from across the U.S.</p>
+                
+                <p><name type="person" key="Patterson, Bradley H. Jr.">Bradley H. Patterson Jr.</name>, executive assistant to <name type="person" key="Garment, Leonard">Leonard Garment</name>, the presidential assistant who was cochairman of a task force studying Indian complaints, recalled yesterday that he told <name type="person" key="Adams, Hank">Adams</name>: &quot;<name type="person" key="Adams, Hank">Hank</name>, if you know where any of these documents and other things are, or if you have any yourself, I encourage you to return them to the Washington field office of the FBI.&quot;</p>
+                
+                <p>There is other evidence that government officials suggested that documents be returned in the manner <name type="person" key="Adams, Hank">Adams</name> said he was attempting to do.</p>
+                
+                <p>On Nov. 14, a BIA spokesman said he had told several anonymous callers that stolen items could be returned to the FBI.</p>
+                
+                <p>On Nov. 22, <name type="person" key="Adams, Hank">Adams</name> wrote to President Nixon to complain about the failure of the government to clean up the BIA building.  <name type="person" key="Adams, Hank">Adams</name> noted that he had &quot;acted through all forms available to me for the protection of such materials during all the days of this month&quot;</p>
+                
+                <p><sic>After the White House officially rejected the 20 proposals of the Trail of Broken Treaties, in a note to <name type="person" key="Adams, Hank">Adams</name> on <date n="1973-01-10">Jan. 10</date>, <name type="person" key="Adams, Hank">Adams</name> revealed that he already had returned &quot;several thousand dollars worth of documents and paintings.&quot;  He then set a date of <date n="1973-02-10">Feb. 10</date> for return of the other property, allowing 30 days to gather them from across the U.S.[sic]</sic></p>
+                
+                
+            </div1>
+        </body>
+    </text>
+</TEI>

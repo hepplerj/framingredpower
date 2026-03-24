@@ -1,0 +1,57 @@
+{{ define "main" }}
+<article id="content" lang="en">
+<div class="bodyContent">
+
+{{ partial "doc-nav.html" . }}
+
+<header>
+  <h1>{{ .Title }}</h1>
+</header>
+
+<div class="document-metadata">
+{{ with .Params.source }}<p><strong>Source:</strong> {{ . }}</p>{{ end }}
+{{ with .Date }}<p><strong>Date:</strong> {{ .Format "2006-01-02" }}</p>{{ end }}
+{{ with .Params.page }}<p><strong>Page:</strong> {{ . }}</p>{{ end }}
+{{ with .Params.author }}<p><strong>Author:</strong> {{ . }}</p>{{ end }}
+{{ with .Params.tei_original }}<p><strong>Original TEI XML:</strong> <a href="{{ . }}">{{ path.Base . }}</a></p>{{ end }}
+</div>
+
+<hr>
+
+{{ .Content }}
+
+<nav aria-label="Document navigation">
+  <p><a href="{{ .Section | relURL }}">← Back to {{ .Section | humanize }}</a></p>
+</nav>
+
+</div>
+</article>
+
+<style>
+.document-metadata {
+  background: #f9f9f9;
+  padding: 1rem;
+  border-left: 4px solid var(--color-primary);
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.document-metadata p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.document-metadata strong {
+  font-weight: 600;
+}
+
+.document-metadata a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.document-metadata a:hover {
+  text-decoration: underline;
+}
+</style>
+{{ end }}

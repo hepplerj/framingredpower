@@ -1,0 +1,20 @@
+---
+title: "Indians to Drive to Capital"
+date: 1972-10-05
+document_types: ["newspaper-reports"]
+publication: "new-york-times"
+source: "New York Times"
+page: "95"
+tei_original: "/archive-xml/newspapers/frp.nyt.19721005.xml"
+aliases:
+  - /archive/newspapers/frp.nyt.19721005.xml
+---
+
+<h3>Indians to Drive to Capital</h3>
+
+
+
+
+
+<p>Indian leaders disclosed today plans for a series of automobile caravans to the nation's capital to "remind elected officials of the common mistreatment and neglect of the American Indian." Vernon Bellecourt, national codirector of the American Indian Movement, said that seven separate caravans would start this month from Seattle, San Francisco, Los Angeles and several Canadian cities, hoping to reach Washington on Nov. 1.</p>
+

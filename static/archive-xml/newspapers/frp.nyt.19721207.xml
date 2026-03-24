@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../css/stylesheet.xsl" type="text/xsl"?>
+<TEI id="frp.nyt.19721207">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Indians' Capital Protest Has Not Resolved Any of Their Grievances</title>
+                <title type="sub"></title>
+                <author n=""></author>
+                <principal></principal>
+                <editor></editor>
+                <respStmt>
+                    <resp>Project Director and Editor:</resp>
+                    <name>Jason A. Heppler</name>
+                    
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>Department of History</addrLine>
+                    <addrLine>612 Oldfather Hall</addrLine>
+                    
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability>
+                    <p>Publicly available electronic document</p>
+                </availability>
+            </publicationStmt>
+            
+            <!-- <notesStmt>
+                <note></note>
+                </notesStmt> -->
+            
+            <sourceDesc>
+                <bibl>
+                    <author n=""></author>
+                    
+                    <title level="a" type="main">Indians' Capital Protest Has Not Resolved Any of Their Grievances</title>
+                    <title level="a" type="sub"></title>
+                    <title level="a" type="sub"></title>
+                    <title level="j">New York Times</title>
+                    <editor></editor>
+                    <pubPlace></pubPlace>
+                    <publisher></publisher>
+                    <date value="1972-12-07">07 December 1972</date>
+                    <biblScope type="page">62</biblScope>
+                </bibl>
+            </sourceDesc>
+            
+            <!-- <notesStmt>
+                <note></note> -->
+            
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>
+                <date>2009-05-19</date>
+                
+                <respStmt>
+                    <name>Jason A. Heppler</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+            <change>
+                <date>200y-mm-dd</date>
+                <respStmt>
+                    <name>Transcribed by Jason A. Heppler</name>
+                </respStmt>
+                <item>Original Transcription</item>
+            </change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            
+            <div1 type="body">
+                
+                <head type="main">Indians' Capital Protest Has Not Resolved Any of Their Grievances</head>
+                
+                <div1 type="source">
+                    <p><hi rend="underline">Source</hi>:  <hi rend="italic">New York Times</hi>, p. 62</p>
+                    
+                </div1>
+                <div1 type="date">
+                    <p><hi rend="underline">Date</hi>:  December 7, 1972</p>
+                </div1>
+                <div1 type="author">
+                    <p><hi rend="underline">Author(s)</hi>:  N/A</p>
+                </div1>
+                
+                <milestone unit="smallbar"/>
+                
+                <p>One month after the seizure of the Bureau of Indian Affairs, hostility between the Government and militant Indians persists, and no progress toward resolution of grievances has been made.</p>
+                
+                <p>Instead, as hearings before a House of Representatives committee this week illustrated, the positions on both sides have hardened, and the rift between the Government and the Indians and among officials in the bureau and the Department of the Interior have widened.</p>
+                
+                <p>In an effort to resolve some of the conflicts, Interior Secretary <name type="person" key="Morton, Rogers, C. B.">Rogers C. B. Morton</name> on Saturday removed authority for Indian matters from <name type="person" key="Bruce, Louis R.">Louis R. Bruce</name>, Commissioner of Indian Affairs; <name type="person" key="Crow, John O.">John O. Crow</name>, Deputy Indian Commissioner, and <name type="person" key="Loesch, Harrison E.">Harrison E. Loesch</name>, Assistant Secretary of the Interior.  Mr. Morton took &quot;personal command&quot; of the situation to restore Indian programs to &quot;operational effectiveness.&quot;  The three officials were subsequently dismissed.</p>
+                
+                <head type="sub">'Dynamic Reshaping'</head>
+                
+                <p>Yesterday, Mr. <name type="person" key="Morton, Rogers, C. B.">Morton</name> declared that there would be &quot;a dynamic reshaping of the B.I.A. from its role as a paternal and custodial agency into a technical service organization.&quot;</p>
+                
+                <p>The continuing animosity of Government officials became evident yesterday in the first of two days of hearings before the House Interior Committee.</p>
+                
+                <p>Mr. <name type="person" key="Loesch, Harrison E.">Loesch</name>, who ordered police action on the first day of the occupation, told the committee that &quot;militant revolutionaries&quot; had led the Indians into the Bureau of Indian Affairs building.</p>
+                
+                <p>Representative <name type="person" key="Aspinall, Wayne N.">Wayne N. Aspinall</name>, Democrat from Colorado, the chairman of the committee, and other committee members criticized the Government's willingness to negotiate with the Indians.</p>
+                
+                <p>When the 600 or so members of the Trail of Broken Treaties, a caravan of Indians who came to Washington from throughout the country, ended their occupation of the Indian bureau's building, the Federal Government set up a special study group to investigate immediately Indian grievances and to prescribe remedies.</p>
+                
+                <p>The study group, headed by two White House assistants, has not held its first meeting because the Government refuses to negotiate with Indian representatives until the questions of prosecution for damage to the building and the theft of Government documents are resolved.</p>
+                
+                <p>The entire episode brought charges by Mr. <name type="person" key="Crow, John O.">Crow</name> that Commissioner <name type="person" key="Bruce, Louis R.">Bruce</name> was incompetent as an administrator and that he &quot;gave too much support to the unruly mob&quot;</p>
+                
+                <p>Mr. <name type="person" key="Bruce, Louis R.">Bruce</name> responded that the charges by Mr. <name type="person" key="Crow, John O.">Crow</name> and others stemmed from changes he has attempted to bring about in the Indian agency.</p>
+                
+                <p>Mr. <name type="person" key="Crow, John O.">Crow</name> is a career <sic>employe</sic>[sic] of the Department of the Interior, of which the Bureau of Indian Affairs is an agency.</p>
+                
+                <p>Militant Indians have said that Mr. <name type="person" key="Crow, John O.">Crow</name> was put in the Indian bureau to hold back changes proposed by Mr. <name type="person" key="Bruce, Louis R.">Bruce</name>.</p>
+                
+                <p>Whatever the reasons for lack of progress in the negotiations, the Indians view it as just another entry on a long list of broken promises.</p>
+                
+                <p>&quot;We came to Washington expecting total indifference from the Government and we got that,&quot; said <name type="person" key="Adams, Hank">Hank Adams</name>, the soft-spoken principal negotiator for the Indians, during a recent interview.</p>
+                
+                <p>&quot;We were also forced into an action that showed another side of the Government&#8212;its hostility for Indian people,&quot; Mr. <name type="person" key="Adams, Hank">Adams</name> said.</p>
+                
+                <p>When asked to comment in retrospect on the seizure of the building by Indians, <name type="person" key="Robertson, Robert">Robert Robertson</name>, executive director of the National Council on Indian Opportunity&#8212;an office within the White House&#8212;said:</p>
+                
+                <p>&quot;I never conceived that they would follow their written agenda because I knew it was a sham.  I had a run-in with some of these people when I was negotiator during the seizure of Alcatraz Island three years ago and again two years ago during a meeting of tribal chieftans in <name type="place" key="Warrenton, Virginia" reg="Warrenton, Virginia">Warrenton, Va</name>.&quot;</p>
+                
+                <p>Secretary of the Interior <name type="person" key="Morton, Rogers, C. B.">Morton</name> and Mr. <name type="person" key="Loesch, Harrison E.">Loesch</name>, the Assistant Secretary for Public Land Management who is in charge of the Bureau of Indian Affairs, said that the caravan &quot;was a small group of malcontents not representative of reservation Indians and with whom the Government should not conduct negotiations.&quot;</p>
+                
+                <p>It was Mr. <name type="person" key="Loesch, Harrison E.">Loesch</name>, the tough, graying conservative lawyer who, while the Government gave caravan coordinators assurances of its support for their planned protest, quietly directed by Commissioner of the Indian Bureau &quot;not to provide any assistance or funding either directly or indirectly&quot; to the caravan.</p>
+                
+                <head type="sub">Animosity and Distrust</head>
+                
+                <p>It was against this backdrop of distrust and animosity that the caravan rolled into town on <date n="1972-11-02">Nov. 2.</date></p>
+                
+                <p>When the group arrived it found that most of its plans for private accomodations had fallen through and that it could not get Government approval for permits to hold religious ceremonies at Arlington National Cemetery, the burial place of two men prominent in Indian history.</p>
+                
+                <p>The first night the group spent at St. Stephen's Episcopal Church, which two protest coordinators, <name type="person" key="Ware, Ralph">Ralph Ware</name> and <name type="person" key="Camp, Carter">Carter Camp</name>, described as &quot;rat infested, filthy and inadequate for our numbers.&quot;</p>
+                
+                <p>&quot;The next day we decided to go over to the Bureau of Indian Affairs to see what could be worked out,&quot; said Mr. <name type="person" key="Camp, Carter">Camp</name>.</p>
+                
+                <p>&quot;We thought we would only be there a couple of hours while something was being worked out and had hoped to use the auditorium and kitchen since neither was in use at the time,&quot; he said, &quot;but instead Secretary <name type="person" key="Loesch, Harrison E.">Loesch</name> laughingly told us that the bureau was not in the housing business and threatened to have us thrown out&quot;</p>
+                
+                <p>&quot;While we were trying to reach some understanding a new shift of guards came on and started trying to clear the downstairs area.  There was a scuffling match between some of them and some of our people, the guards were thrown out and reinforcements were called.  When the riot-geared troops came our people physically blocked the door and they smashed windows trying to get in.</p>
+                
+                <p>&quot;We were making no progress in securing accomodations upstairs and the people were getting impatient.  We then decided to stay for the night.&quot;</p>
+                
+                <p>It was at this point, Mr. <name type="person" key="Ware, Ralph">Ware</name> and Mr. <name type="person" key="Camp, Carter">Camp</name> said, that barricades were established at all entrances and exits to the building.</p>
+                
+                <p>Thus began three days of tense negotiations for return of the building, with the Government threatening to send in troops to evict the protesters and the Indian group vowing to &quot;fight to the death to defend our embassy.&quot;  The group renamed the building the Native American Embassy.</p>
+                
+                <p>After the first night, it appeared that a settlement had been reached in which the group was to be allowed use of a departmental auditorium one block away.</p>
+                
+                <p>But when a small group of Indians went to inspect the building they found its doors locked and were told that orders had been given not to allow any of them in until the Bureau of Indian Affairs had been vacated.</p>
+                
+                <p>Caravan leaders read this as a trap to get them out into the streets, at which time they feared the Government would lock them out of both buildings.</p>
+                
+                <p>During most of <date n="1972-11-04">Saturday</date>, negotiations continued with little success.</p>
+                
+                <p>On Sunday, <date n="1972-11-05">Nov. 5</date>, the United States Court of Appeals for the District of Columbia, overruled the Army, which had denied the group use of Arlington cemetery on the grounds that the ceremonies would be partisan in nature.</p>
+                
+                <p>The United States District Court on the same day, however, authorized the Government to clear out the building by any means necessary if the group did not voluntarily leave by 6 P.M., Monday, <date n="1972-11-06">Nov. 6</date>.</p>
+                
+                <p>It was at this point that the White House officially took over negotiations between the Government and the group, fearing that any police action would result in a &quot;bloody situation on both sides.&quot;  This set the stage for a power struggle between Department of Interior officials wanting to forcibly evict the group and the White House, which wanted no bloodshed the night before the Presidential election.</p>
+                
+                <p>Monday's 6 P.M. deadline drew near.  Secretary of the Interior <name type="person" key="Morton, Rogers, C. B.">Morton</name> issued a statement setting the stage for impending police action.</p>
+                
+                <p>&quot;The protesters do not represent America's reservation Indians.  We have offered the militants temporary housing which has been refused.  Great damage has been done to . . . the B.I.A. and future services have been undermined by the destruction of essential records . . .&quot; Mr. <name type="person" key="Morton, Rogers, C. B.">Morton</name> said.</p>
+                
+                <p>Shortly after his statement, however, the White House ruled out any police action.</p>
+                
+                <head type="sub">Eviction Order Stayed</head>
+                
+                <p>About an hour before the 6 P.M. deadline, Judge <name type="person" key="Pratt, John H.">John H. Pratt</name> of the United States District Court decided to stay the eviction order until 9 P.M. on <date n="1972-11-09">Wednesday, Nov. 9</date>.</p>
+                
+                <p>But word of Secretary <name type="person" key="Morton, Rogers, C. B.">Morton</name>'s statement reached the occupied building first and the panic and fear generated by what was thought to be impending police action resulted in more destruction of property as the group prepared to make its last stand.</p>
+                
+                <p>And it was not until this point, caravan leaders maintain, that any documents were taken from the building.</p>
+                
+                <p>The specifics of that agreement are unclear.  Caravan officials said the Government agreed not to prosecute for anything short of murder.</p>
+                
+                <p>The Government's account of what hapened conflicts with that of the Indians.</p>
+                
+                <p>&quot;The refused all our offers for assistance in securing accomodations prior to their arrival,&quot; Mr. <name type="person" key="Robertson, Robert">Robertson</name> said.</p>
+                
+                <p>&quot;When we tried to negotiate with them they shouted obscenities at us and made threats,&quot; he said.</p>
+                    
+                    
+            </div1>
+        </body>
+    </text>
+</TEI>
